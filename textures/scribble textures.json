@@ -1,0 +1,22 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Wall",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 112448109089773
+    },
+    {
+      "name": "Profile 2",
+      "replace_ids": [
+        16530229616
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/thepa/Downloads/mamboman-bo-shi-ge-ju-matikanetannhauser.mp3"
+    }
+  ]
+}

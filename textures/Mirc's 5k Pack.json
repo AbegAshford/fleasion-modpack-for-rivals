@@ -1,0 +1,653 @@
+{
+  "replacement_rules": [
+    {
+      "name": "heal sfx",
+      "replace_ids": [
+        17138490999
+      ],
+      "remove": false,
+      "enabled": true,
+      "with_id": 1721952882
+    },
+    {
+      "name": "change map select to tetrio",
+      "replace_ids": [
+        103035811146294
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/allclear.base.ogg"
+    },
+    {
+      "name": "change win to tetrio",
+      "replace_ids": [
+        16810041280
+      ],
+      "remove": false,
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/allclear.base.ogg"
+    },
+    {
+      "name": "change lose to tetrio",
+      "replace_ids": [
+        16810321565
+      ],
+      "remove": false,
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/allclear.base.ogg"
+    },
+    {
+      "name": "replace d jump with old roblox sfx",
+      "replace_ids": [
+        16770456156,
+        16492958314
+      ],
+      "remove": false,
+      "enabled": true,
+      "with_id": 2428506580
+    },
+    {
+      "name": "dafont???",
+      "replace_ids": [
+        12187323909,
+        12187320363,
+        12187354260,
+        12187342816,
+        12187280273,
+        12187303601,
+        12187262242,
+        12187288714,
+        12187341500,
+        12187271237,
+        12187341020
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/Garet-Book.ttf"
+    },
+    {
+      "name": "all hits with ding",
+      "replace_ids": [
+        16537337310,
+        16537449730
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 70643163489676
+    },
+    {
+      "name": "replace countdown with kewl music",
+      "replace_ids": [
+        17826470563
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/theeyellow.ogg"
+    },
+    {
+      "name": "headshot spark removal",
+      "replace_ids": [
+        15109829804
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 109303978243933
+    },
+    {
+      "name": "remove item background",
+      "replace_ids": [
+        13220167337,
+        13188242420,
+        13220167472,
+        13188153054,
+        13188242287
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "arena dark mode",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/grods.png"
+    },
+    {
+      "name": "changes the win theme to a better theme",
+      "replace_ids": [
+        18221725850,
+        18239670056,
+        18221725850,
+        18221726246
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/winnerwinner.ogg"
+    },
+    {
+      "name": "lose to laugh",
+      "replace_ids": [
+        18239670367
+      ],
+      "mode": "id",
+      "enabled": false
+    },
+    {
+      "name": "replace logo with stupid old me",
+      "replace_ids": [
+        17803962335
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/attachment.png"
+    },
+    {
+      "name": "lvl icon is now a shard",
+      "replace_ids": [
+        81461991645938
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 16834713626
+    },
+    {
+      "name": "change gamemode end to looneytunes",
+      "replace_ids": [
+        99135525400251
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 7712639823
+    },
+    {
+      "name": "change match point to tetrio score",
+      "replace_ids": [
+        17026600996
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/showscore.base.ogg"
+    },
+    {
+      "name": "kill1 with tetrio combo1",
+      "replace_ids": [
+        16530229616
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/combo_1.base.ogg"
+    },
+    {
+      "name": "kill2 with combo2",
+      "replace_ids": [
+        16530229541
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/combo_2.base.ogg"
+    },
+    {
+      "name": "kill3 with combopower3",
+      "replace_ids": [
+        16530229695
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/combo_3_power.base.ogg"
+    },
+    {
+      "name": "chickn",
+      "replace_ids": [
+        133917828562858
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/mine.webp"
+    },
+    {
+      "name": "onyx removal",
+      "replace_ids": [
+        127338559130032,
+        16294586406,
+        75156669118637,
+        93477262732302
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/SyneMono-Regular.ttf"
+    },
+    {
+      "name": "SBK",
+      "replace_ids": [
+        2108482005,
+        14147881792,
+        135908632589654,
+        84214501374682,
+        10196550937,
+        12261809766
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/sky512_bk.tex"
+    },
+    {
+      "name": "SDN",
+      "replace_ids": [
+        2108545280,
+        10196550667,
+        14147882149,
+        103020541883227,
+        89972436184102,
+        12261813110
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/sky512_dn.tex"
+    },
+    {
+      "name": "SLF",
+      "replace_ids": [
+        14147883091,
+        135908632589654,
+        84214501374682,
+        2108482395,
+        12261809766,
+        10196550128
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/sky512_lf.tex"
+    },
+    {
+      "name": "SRT",
+      "replace_ids": [
+        14147882405,
+        135908632589654,
+        84214501374682,
+        2108482542,
+        12261809766,
+        10196549902
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/sky512_rt.tex"
+    },
+    {
+      "name": "SUP",
+      "replace_ids": [
+        14147881297,
+        72960281658487,
+        92138082970751,
+        2108482676,
+        10196567794,
+        12261813678
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/sky512_up.tex"
+    },
+    {
+      "name": "SFT",
+      "replace_ids": [
+        14147882761,
+        12261809766,
+        135908632589654,
+        84214501374682,
+        10196550367,
+        2108482231
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/sky512_ft.tex"
+    },
+    {
+      "name": "remove ambence on various maps",
+      "replace_ids": [
+        17813065011,
+        17813065464,
+        12099785239
+      ],
+      "mode": "id",
+      "enabled": false
+    },
+    {
+      "name": "arch to x+",
+      "replace_ids": [
+        133793956251748
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/top200xrank.png"
+    },
+    {
+      "name": "nem to x standard",
+      "replace_ids": [
+        116941545385923
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/nemx.png"
+    },
+    {
+      "name": "bronze to f rank",
+      "replace_ids": [
+        106623367501544,
+        131795064007344,
+        73543520622815
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/f.png"
+    },
+    {
+      "name": "silver 1 to d-",
+      "replace_ids": [
+        80716950169934
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/d-.png"
+    },
+    {
+      "name": "silver 2 to d",
+      "replace_ids": [
+        136100661820261
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/d.png"
+    },
+    {
+      "name": "silver 3 to d+",
+      "replace_ids": [
+        107898816876115
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/d+.png"
+    },
+    {
+      "name": "gold 1 to c-",
+      "replace_ids": [
+        134520747948636
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/c-.png"
+    },
+    {
+      "name": "gold 2 to c",
+      "replace_ids": [
+        114166096331502
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/d.png"
+    },
+    {
+      "name": "gold 3 to c+",
+      "replace_ids": [
+        90039594400813
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/c+.png"
+    },
+    {
+      "name": "plat 1 to b-",
+      "replace_ids": [
+        133903971285645
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/b-.png"
+    },
+    {
+      "name": "plat 2 to b",
+      "replace_ids": [
+        82834564754747
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/b.png"
+    },
+    {
+      "name": "plat 3 to b+",
+      "replace_ids": [
+        73345783863790
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/b+.png"
+    },
+    {
+      "name": "diam 1 to a-",
+      "replace_ids": [
+        113997689031026
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/a-.png"
+    },
+    {
+      "name": "diam2 to A rank",
+      "replace_ids": [
+        88059506918419
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/a.png"
+    },
+    {
+      "name": "diam 3 to a+",
+      "replace_ids": [
+        112183171942172
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/a+.png"
+    },
+    {
+      "name": "o1 to s",
+      "replace_ids": [
+        104871954739030
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/s.png"
+    },
+    {
+      "name": "o2 to ss",
+      "replace_ids": [
+        109012386782238
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/ss.png"
+    },
+    {
+      "name": "o3 to u",
+      "replace_ids": [
+        127982903682334
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/u.png"
+    },
+    {
+      "name": "streak icon replacement",
+      "replace_ids": [
+        17175092502,
+        17094014569
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 18404346057
+    },
+    {
+      "name": "self snitching",
+      "replace_ids": [
+        99115398611290
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/icbtw.png"
+    },
+    {
+      "name": "upd data",
+      "replace_ids": [
+        101218118381254
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/upddata.json"
+    },
+    {
+      "name": "ding to the bird",
+      "replace_ids": [
+        8483887957
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/damn-pukeko.mp3"
+    },
+    {
+      "name": "intro theme to lego brick",
+      "replace_ids": [
+        6384899588
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/lego-build.mp3"
+    },
+    {
+      "name": "incubatron",
+      "replace_ids": [
+        121503061771505
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/incubatron.webp"
+    },
+    {
+      "name": "replace slide sfx with uk slide",
+      "replace_ids": [
+        16737738420
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/Sliding.mp3"
+    },
+    {
+      "name": "change rank change sfx to uk shatter",
+      "replace_ids": [
+        70643163489676
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 17405655409
+    },
+    {
+      "name": "replace demote rank with awwww",
+      "replace_ids": [
+        91547731028928
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/studio-audience-awwww-sound-fx.mp3"
+    },
+    {
+      "name": "replace promote with final fantasy fanfare",
+      "replace_ids": [
+        138975587469438
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/final-fantasy-vii-victory-fanfare-1.mp3"
+    },
+    {
+      "name": "remove the n",
+      "replace_ids": [
+        13854780042
+      ],
+      "mode": "id",
+      "enabled": false
+    },
+    {
+      "name": "replace the nosniy logo g with an emoticon :)",
+      "replace_ids": [
+        13854780213
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/logo.png"
+    },
+    {
+      "name": "replace lobby music with tetrio",
+      "replace_ids": [
+        17697682466,
+        17733314783
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/kuchu-toshi.mp3"
+    },
+    {
+      "name": "remove the lil pattern on the maps",
+      "replace_ids": [
+        136887158756561
+      ],
+      "mode": "id",
+      "enabled": false
+    },
+    {
+      "name": "replace click with tetrio click",
+      "replace_ids": [
+        177266782
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/menuclick.base.ogg"
+    },
+    {
+      "name": "change matchmaking to tetrio",
+      "replace_ids": [
+        18525513345
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/achievement_3.base.ogg"
+    },
+    {
+      "name": "elim icon",
+      "replace_ids": [
+        16802957270
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 130413597135596
+    },
+    {
+      "name": "hitmarker with target.base.ogg",
+      "replace_ids": [
+        13110130082
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/target.base.ogg"
+    },
+    {
+      "name": "change sudden death to epic suspense music",
+      "replace_ids": [
+        17467242617
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/bluer.ogg"
+    }
+  ]
+}
