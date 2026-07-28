@@ -1,0 +1,58 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Skybox BK",
+      "replace_ids": [
+        14147881792
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 93590148140827
+    },
+    {
+      "name": "Skybox DN",
+      "replace_ids": [
+        14147882149
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 102453743082771
+    },
+    {
+      "name": "Skybox FT",
+      "replace_ids": [
+        14147882761
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 118903490011578
+    },
+    {
+      "name": "Skybox LF",
+      "replace_ids": [
+        14147883091
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 126562643473125
+    },
+    {
+      "name": "Skybox RT",
+      "replace_ids": [
+        14147882405
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 77446329776959
+    },
+    {
+      "name": "Skybox UP",
+      "replace_ids": [
+        14147881297
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 120495452755285
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "replacement_rules": [
+    {
+      "name": "bk",
+      "replace_ids": [
+        14147881792
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 144933338
+    },
+    {
+      "name": "dn",
+      "replace_ids": [
+        14147882149
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 144931530
+    },
+    {
+      "name": "ft",
+      "replace_ids": [
+        14147882761
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 144933262
+    },
+    {
+      "name": "lf",
+      "replace_ids": [
+        14147883091
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 144933244
+    },
+    {
+      "name": "rt",
+      "replace_ids": [
+        14147882405
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 144933299
+    },
+    {
+      "name": "up",
+      "replace_ids": [
+        14147881297
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 144931564
+    }
+  ]
+}

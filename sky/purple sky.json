@@ -1,0 +1,58 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Profile 17",
+      "replace_ids": [
+        14147881297
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/susan/Downloads/sky_purple/sky_purple/PlatformContent/pc/textures/sky/sky512_up.tex"
+    },
+    {
+      "name": "Profile 18",
+      "replace_ids": [
+        14147882405
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/susan/Downloads/sky_purple/sky_purple/PlatformContent/pc/textures/sky/sky512_rt.tex"
+    },
+    {
+      "name": "Profile 19",
+      "replace_ids": [
+        14147883091
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/susan/Downloads/sky_purple/sky_purple/PlatformContent/pc/textures/sky/sky512_lf.tex"
+    },
+    {
+      "name": "Profile 20",
+      "replace_ids": [
+        14147882761
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/susan/Downloads/sky_purple/sky_purple/PlatformContent/pc/textures/sky/sky512_ft.tex"
+    },
+    {
+      "name": "Profile 21",
+      "replace_ids": [
+        14147882149
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/susan/Downloads/sky_purple/sky_purple/PlatformContent/pc/textures/sky/sky512_dn.tex"
+    },
+    {
+      "name": "Profile 22",
+      "replace_ids": [
+        14147881792
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/susan/Downloads/sky_purple/sky_purple/PlatformContent/pc/textures/sky/sky512_bk.tex"
+    }
+  ]
+}
