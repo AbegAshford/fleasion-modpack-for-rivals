@@ -1,0 +1,31 @@
+{
+  "replacement_rules": [
+    {
+      "name": "left-fist",
+      "replace_ids": [
+        12307734932
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/alexanderfr1234/rival-models-and-stuff.../refs/heads/main/18600048536.obj"
+    },
+    {
+      "name": "right-fist",
+      "replace_ids": [
+        12307583853
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/alexanderfr1234/rival-models-and-stuff.../refs/heads/main/rfist1.obj"
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17160801745
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18766866012
+    }
+  ]
+}

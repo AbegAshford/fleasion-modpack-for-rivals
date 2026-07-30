@@ -1,0 +1,74 @@
+{
+  "replacement_rules": [
+    {
+      "name": "lcuff",
+      "replace_ids": [
+        17600769743
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "rcuff",
+      "replace_ids": [
+        17600769956
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "lglove",
+      "replace_ids": [
+        17600769561
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/Nemuwhatareudoing/FLEASION/raw/main/pumpkinclawleft.obj"
+    },
+    {
+      "name": "rglove",
+      "replace_ids": [
+        17600769859
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/Nemuwhatareudoing/FLEASION/raw/main/pumpkinclawright.obj"
+    },
+    {
+      "name": "inspect animation",
+      "replace_ids": [
+        106138480662148
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 12557511090
+    },
+    {
+      "name": "image",
+      "replace_ids": [
+        17672060486
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90996407819750
+    },
+    {
+      "name": "sound",
+      "replace_ids": [
+        73893914300609
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 13160489311
+    },
+    {
+      "name": "sound",
+      "replace_ids": [
+        17650289572
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 13110130082
+    }
+  ]
+}

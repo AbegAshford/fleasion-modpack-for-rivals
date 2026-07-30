@@ -1,0 +1,22 @@
+{
+  "replacement_rules": [
+    {
+      "name": "emo punk right",
+      "replace_ids": [
+        12307583853
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/corndogonasunday/punk/refs/heads/main/emo%20punk%20right.obj"
+    },
+    {
+      "name": "emo punk left",
+      "replace_ids": [
+        12307734932
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/corndogonasunday/punk/refs/heads/main/emo%20punkleft%20.obj"
+    }
+  ]
+}
