@@ -122,340 +122,348 @@ Click on the sky you want to download.
 
 ## 🔫 Weapon Skins
 
-Every weapon and skin below links straight to its config file — click the one you want.
-
-### Primary
+Click a weapon category to expand it, then click a weapon type to see its skins.
 
 <details>
-<summary><b>Assult Rifle</b> (7)</summary>
+<summary><b>🔫 Primary</b></summary>
 
-- [Aug On Default with more skins](skins/primary/Assult%20Rifle/Aug%20On%20Default%20with%20more%20skins.json)
-- [Gingerbread Aug over Aug](skins/primary/Assult%20Rifle/Gingerbread%20Aug%20over%20Aug.json)
-- [Tommy On Default](skins/primary/Assult%20Rifle/Tommy%20On%20Default.json)
-- [ak-47](skins/primary/Assult%20Rifle/ak-47.json)
-- [akey-47](skins/primary/Assult%20Rifle/akey-47.json)
-- [boneclaw assault rifle](skins/primary/Assult%20Rifle/boneclaw%20assault%20rifle.json)
-- [pearl rifle](skins/primary/Assult%20Rifle/pearl%20rifle.json)
+  <details>
+  <summary><b>Assult Rifle</b> (7)</summary>
+
+  - [Aug On Default with more skins](skins/primary/Assult%20Rifle/Aug%20On%20Default%20with%20more%20skins.json)
+  - [Gingerbread Aug over Aug](skins/primary/Assult%20Rifle/Gingerbread%20Aug%20over%20Aug.json)
+  - [Tommy On Default](skins/primary/Assult%20Rifle/Tommy%20On%20Default.json)
+  - [ak-47](skins/primary/Assult%20Rifle/ak-47.json)
+  - [akey-47](skins/primary/Assult%20Rifle/akey-47.json)
+  - [boneclaw assault rifle](skins/primary/Assult%20Rifle/boneclaw%20assault%20rifle.json)
+  - [pearl rifle](skins/primary/Assult%20Rifle/pearl%20rifle.json)
+
+  </details>
+
+  <details>
+  <summary><b>Bow</b> (6)</summary>
+
+  - [Batbow](skins/primary/Bow/Batbow.json)
+  - [DreamBow](skins/primary/Bow/DreamBow.json)
+  - [frostbite bow](skins/primary/Bow/frostbite%20bow.json)
+  - [keybow](skins/primary/Bow/keybow.json)
+  - [minecraft bow](skins/primary/Bow/minecraft%20bow.json)
+  - [tungbow](skins/primary/Bow/tungbow.json)
+
+  </details>
+
+  <details>
+  <summary><b>Burst Rifle</b> (2)</summary>
+
+  - [Pixel Burst](skins/primary/Burst%20Rifle/Pixel%20Burst.json)
+  - [keyst](skins/primary/Burst%20Rifle/keyst.json)
+
+  </details>
+
+  <details>
+  <summary><b>Crossbow</b> (1)</summary>
+
+  - [arch crossbow (No vfx I think)](skins/primary/Crossbow/arch%20crossbow%20%28No%20vfx%20I%20think%29.json)
+
+  </details>
+
+  <details>
+  <summary><b>GunBlade</b> (1)</summary>
+
+  - [cool gunblade (Custom)](skins/primary/GunBlade/cool%20gunblade%20%28Custom%29.json)
+
+  </details>
+
+  <details>
+  <summary><b>Minigun</b> (2)</summary>
+
+  - [Fighter Jet](skins/primary/Minigun/Fighter%20Jet.json)
+  - [plane](skins/primary/Minigun/plane.json)
+
+  </details>
+
+  <details>
+  <summary><b>Paintball</b> (2)</summary>
+
+  - [Snowball](skins/primary/Paintball/Snowball.json)
+  - [paintkey](skins/primary/Paintball/paintkey.json)
+
+  </details>
+
+  <details>
+  <summary><b>RPG</b> (1)</summary>
+
+  - [RPKEY](skins/primary/RPG/RPKEY.json)
+
+  </details>
+
+  <details>
+  <summary><b>Shotgun</b> (1)</summary>
+
+  - [Baloonshotgun](skins/primary/Shotgun/Baloonshotgun.json)
+
+  </details>
+
+  <details>
+  <summary><b>Sniper</b> (6)</summary>
+
+  - [Event Horizon Sniper](skins/primary/Sniper/Event%20Horizon%20Sniper.json)
+  - [Keyper](skins/primary/Sniper/Keyper.json)
+  - [Pixel_Keyper](skins/primary/Sniper/Pixel_Keyper.json)
+  - [eye thing sniper](skins/primary/Sniper/eye%20thing%20sniper.json)
+  - [kraken sniper](skins/primary/Sniper/kraken%20sniper.json)
+  - [pixel sniper](skins/primary/Sniper/pixel%20sniper.json)
+
+  </details>
 
 </details>
 
 <details>
-<summary><b>Bow</b> (6)</summary>
+<summary><b>🔪 Secondary</b></summary>
 
-- [Batbow](skins/primary/Bow/Batbow.json)
-- [DreamBow](skins/primary/Bow/DreamBow.json)
-- [frostbite bow](skins/primary/Bow/frostbite%20bow.json)
-- [keybow](skins/primary/Bow/keybow.json)
-- [minecraft bow](skins/primary/Bow/minecraft%20bow.json)
-- [tungbow](skins/primary/Bow/tungbow.json)
+  <details>
+  <summary><b>Daggers</b> (6)</summary>
 
-</details>
+  - [Bat dagger](skins/Secondary/Daggers/Bat%20dagger.json)
+  - [Daggers to Crystal Daggers](skins/Secondary/Daggers/Daggers%20to%20Crystal%20Daggers.json)
+  - [aces maybe](skins/Secondary/Daggers/aces%20maybe.json)
+  - [arch daggers](skins/Secondary/Daggers/arch%20daggers.json)
+  - [keynais](skins/Secondary/Daggers/keynais.json)
+  - [tungdag](skins/Secondary/Daggers/tungdag.json)
 
-<details>
-<summary><b>Burst Rifle</b> (2)</summary>
+  </details>
 
-- [Pixel Burst](skins/primary/Burst%20Rifle/Pixel%20Burst.json)
-- [keyst](skins/primary/Burst%20Rifle/keyst.json)
+  <details>
+  <summary><b>Energy pistols</b> (2)</summary>
 
-</details>
+  - [Void Pistols](skins/Secondary/Energy%20pistols/Void%20Pistols.json)
+  - [hyperlaser over default energy](skins/Secondary/Energy%20pistols/hyperlaser%20over%20default%20energy.json)
 
-<details>
-<summary><b>Crossbow</b> (1)</summary>
+  </details>
 
-- [arch crossbow (No vfx I think)](skins/primary/Crossbow/arch%20crossbow%20%28No%20vfx%20I%20think%29.json)
+  <details>
+  <summary><b>Exo</b> (5)</summary>
 
-</details>
+  - [MidnightExogun](skins/Secondary/Exo/MidnightExogun.json)
+  - [Singularity](skins/Secondary/Exo/Singularity.json)
+  - [pearl exo](skins/Secondary/Exo/pearl%20exo.json)
+  - [portal gun exogun](skins/Secondary/Exo/portal%20gun%20exogun.json)
+  - [singularity exo](skins/Secondary/Exo/singularity%20exo.json)
 
-<details>
-<summary><b>GunBlade</b> (1)</summary>
+  </details>
 
-- [cool gunblade (Custom)](skins/primary/GunBlade/cool%20gunblade%20%28Custom%29.json)
+  <details>
+  <summary><b>Hand gun</b> (4)</summary>
 
-</details>
+  - [Gumball Handgun](skins/Secondary/Hand%20gun/Gumball%20Handgun.json)
+  - [Pixelhandgun (1)](skins/Secondary/Hand%20gun/Pixelhandgun%20%281%29.json)
+  - [Stealth Pistol](skins/Secondary/Hand%20gun/Stealth%20Pistol.json)
+  - [key handgun](skins/Secondary/Hand%20gun/key%20handgun.json)
 
-<details>
-<summary><b>Minigun</b> (2)</summary>
+  </details>
 
-- [Fighter Jet](skins/primary/Minigun/Fighter%20Jet.json)
-- [plane](skins/primary/Minigun/plane.json)
+  <details>
+  <summary><b>Revolver</b> (3)</summary>
 
-</details>
+  - [GlassCannon](skins/Secondary/Revolver/GlassCannon.json)
+  - [Uh boneclaw rev](skins/Secondary/Revolver/Uh%20boneclaw%20rev.json)
+  - [keyrev](skins/Secondary/Revolver/keyrev.json)
 
-<details>
-<summary><b>Paintball</b> (2)</summary>
+  </details>
 
-- [Snowball](skins/primary/Paintball/Snowball.json)
-- [paintkey](skins/primary/Paintball/paintkey.json)
+  <details>
+  <summary><b>Slingshot</b> (1)</summary>
 
-</details>
+  - [key sling over normal sling](skins/Secondary/Slingshot/key%20sling%20over%20normal%20sling.json)
 
-<details>
-<summary><b>RPG</b> (1)</summary>
+  </details>
 
-- [RPKEY](skins/primary/RPG/RPKEY.json)
+  <details>
+  <summary><b>Spray</b> (2)</summary>
 
-</details>
+  - [key spray](skins/Secondary/Spray/key%20spray.json)
+  - [spray bottle](skins/Secondary/Spray/spray%20bottle.json)
 
-<details>
-<summary><b>Shotgun</b> (1)</summary>
+  </details>
 
-- [Baloonshotgun](skins/primary/Shotgun/Baloonshotgun.json)
+  <details>
+  <summary><b>Uzi</b> (2)</summary>
 
-</details>
+  - [archuzi](skins/Secondary/Uzi/archuzi.json)
+  - [keyzi](skins/Secondary/Uzi/keyzi.json)
 
-<details>
-<summary><b>Sniper</b> (6)</summary>
-
-- [Event Horizon Sniper](skins/primary/Sniper/Event%20Horizon%20Sniper.json)
-- [Keyper](skins/primary/Sniper/Keyper.json)
-- [Pixel_Keyper](skins/primary/Sniper/Pixel_Keyper.json)
-- [eye thing sniper](skins/primary/Sniper/eye%20thing%20sniper.json)
-- [kraken sniper](skins/primary/Sniper/kraken%20sniper.json)
-- [pixel sniper](skins/primary/Sniper/pixel%20sniper.json)
-
-</details>
-
-
-### Secondary
-
-<details>
-<summary><b>Daggers</b> (6)</summary>
-
-- [Bat dagger](skins/Secondary/Daggers/Bat%20dagger.json)
-- [Daggers to Crystal Daggers](skins/Secondary/Daggers/Daggers%20to%20Crystal%20Daggers.json)
-- [aces maybe](skins/Secondary/Daggers/aces%20maybe.json)
-- [arch daggers](skins/Secondary/Daggers/arch%20daggers.json)
-- [keynais](skins/Secondary/Daggers/keynais.json)
-- [tungdag](skins/Secondary/Daggers/tungdag.json)
+  </details>
 
 </details>
 
 <details>
-<summary><b>Energy pistols</b> (2)</summary>
+<summary><b>⚔️ Melee</b></summary>
 
-- [Void Pistols](skins/Secondary/Energy%20pistols/Void%20Pistols.json)
-- [hyperlaser over default energy](skins/Secondary/Energy%20pistols/hyperlaser%20over%20default%20energy.json)
+  <details>
+  <summary><b>Battle Axe</b> (2)</summary>
 
-</details>
+  - [NordicAxe](skins/Melee/Battle%20Axe/NordicAxe.json)
+  - [keyttle (Key Battle Axe)](skins/Melee/Battle%20Axe/keyttle%20%28Key%20Battle%20Axe%29.json)
 
-<details>
-<summary><b>Exo</b> (5)</summary>
+  </details>
 
-- [MidnightExogun](skins/Secondary/Exo/MidnightExogun.json)
-- [Singularity](skins/Secondary/Exo/Singularity.json)
-- [pearl exo](skins/Secondary/Exo/pearl%20exo.json)
-- [portal gun exogun](skins/Secondary/Exo/portal%20gun%20exogun.json)
-- [singularity exo](skins/Secondary/Exo/singularity%20exo.json)
+  <details>
+  <summary><b>Chainsaw</b> (1)</summary>
 
-</details>
+  - [CHAINSAW-BUZ](skins/Melee/Chainsaw/CHAINSAW-BUZ.json)
 
-<details>
-<summary><b>Hand gun</b> (4)</summary>
+  </details>
 
-- [Gumball Handgun](skins/Secondary/Hand%20gun/Gumball%20Handgun.json)
-- [Pixelhandgun (1)](skins/Secondary/Hand%20gun/Pixelhandgun%20%281%29.json)
-- [Stealth Pistol](skins/Secondary/Hand%20gun/Stealth%20Pistol.json)
-- [key handgun](skins/Secondary/Hand%20gun/key%20handgun.json)
+  <details>
+  <summary><b>Fist</b> (3)</summary>
 
-</details>
+  - [brass](skins/Melee/Fist/brass.json)
+  - [emo punk arm](skins/Melee/Fist/emo%20punk%20arm.json)
+  - [pumpkinfist over boxing gloves](skins/Melee/Fist/pumpkinfist%20over%20boxing%20gloves.json)
 
-<details>
-<summary><b>Revolver</b> (3)</summary>
+  </details>
 
-- [GlassCannon](skins/Secondary/Revolver/GlassCannon.json)
-- [Uh boneclaw rev](skins/Secondary/Revolver/Uh%20boneclaw%20rev.json)
-- [keyrev](skins/Secondary/Revolver/keyrev.json)
+  <details>
+  <summary><b>Katana</b> (8)</summary>
 
-</details>
+  - [Devil's trident katana](skins/Melee/Katana/Devil%27s%20trident%20katana.json)
+  - [arch katana](skins/Melee/Katana/arch%20katana.json)
+  - [azure sword katana (custom)](skins/Melee/Katana/azure%20sword%20katana%20%28custom%29.json)
+  - [crystal katana](skins/Melee/Katana/crystal%20katana.json)
+  - [keytana](skins/Melee/Katana/keytana.json)
+  - [linked sword](skins/Melee/Katana/linked%20sword.json)
+  - [riptide (1)](skins/Melee/Katana/riptide%20%281%29.json)
+  - [saber over default katana](skins/Melee/Katana/saber%20over%20default%20katana.json)
 
-<details>
-<summary><b>Slingshot</b> (1)</summary>
+  </details>
 
-- [key sling over normal sling](skins/Secondary/Slingshot/key%20sling%20over%20normal%20sling.json)
+  <details>
+  <summary><b>Knife</b> (9)</summary>
 
-</details>
+  - [Candy cane (1)](skins/Melee/Knife/Candy%20cane%20%281%29.json)
+  - [Diamond Sword knife (custom)](skins/Melee/Knife/Diamond%20Sword%20knife%20%28custom%29.json)
+  - [Keyrambit](skins/Melee/Knife/Keyrambit.json)
+  - [armature default](skins/Melee/Knife/armature%20default.json)
+  - [caladbolg (Anim only I think)](skins/Melee/Knife/caladbolg%20%28Anim%20only%20I%20think%29.json)
+  - [glast shard knife](skins/Melee/Knife/glast%20shard%20knife.json)
+  - [keylisong over balisong](skins/Melee/Knife/keylisong%20over%20balisong.json)
+  - [pencil over default knife](skins/Melee/Knife/pencil%20over%20default%20knife.json)
+  - [tungknif](skins/Melee/Knife/tungknif.json)
 
-<details>
-<summary><b>Spray</b> (2)</summary>
+  </details>
 
-- [key spray](skins/Secondary/Spray/key%20spray.json)
-- [spray bottle](skins/Secondary/Spray/spray%20bottle.json)
+  <details>
+  <summary><b>Maul</b> (1)</summary>
 
-</details>
+  - [BanHammer](skins/Melee/Maul/BanHammer.json)
 
-<details>
-<summary><b>Uzi</b> (2)</summary>
+  </details>
 
-- [archuzi](skins/Secondary/Uzi/archuzi.json)
-- [keyzi](skins/Secondary/Uzi/keyzi.json)
+  <details>
+  <summary><b>Riot</b> (2)</summary>
 
-</details>
+  - [EnergyShield](skins/Melee/Riot/EnergyShield.json)
+  - [Invis riot](skins/Melee/Riot/Invis%20riot.json)
 
+  </details>
 
-### Melee
+  <details>
+  <summary><b>Scythe</b> (9)</summary>
 
-<details>
-<summary><b>Battle Axe</b> (2)</summary>
+  - [Bug Net over Default Scythe](skins/Melee/Scythe/Bug%20Net%20over%20Default%20Scythe.json)
+  - [Keythe over Default Scythe](skins/Melee/Scythe/Keythe%20over%20Default%20Scythe.json)
+  - [Palm Scythe](skins/Melee/Scythe/Palm%20Scythe.json)
+  - [anchor scythe](skins/Melee/Scythe/anchor%20scythe.json)
+  - [bat scythe](skins/Melee/Scythe/bat%20scythe.json)
+  - [cryo](skins/Melee/Scythe/cryo.json)
+  - [crystal syth over normal syth (1)](skins/Melee/Scythe/crystal%20syth%20over%20normal%20syth%20%281%29.json)
+  - [sakrua sycthe](skins/Melee/Scythe/sakrua%20sycthe.json)
+  - [scythe test](skins/Melee/Scythe/scythe%20test.json)
 
-- [NordicAxe](skins/Melee/Battle%20Axe/NordicAxe.json)
-- [keyttle (Key Battle Axe)](skins/Melee/Battle%20Axe/keyttle%20%28Key%20Battle%20Axe%29.json)
+  </details>
 
-</details>
+  <details>
+  <summary><b>Spear</b> (1)</summary>
 
-<details>
-<summary><b>Chainsaw</b> (1)</summary>
+  - [Pencel](skins/Melee/Spear/Pencel.json)
 
-- [CHAINSAW-BUZ](skins/Melee/Chainsaw/CHAINSAW-BUZ.json)
-
-</details>
-
-<details>
-<summary><b>Fist</b> (3)</summary>
-
-- [brass](skins/Melee/Fist/brass.json)
-- [emo punk arm](skins/Melee/Fist/emo%20punk%20arm.json)
-- [pumpkinfist over boxing gloves](skins/Melee/Fist/pumpkinfist%20over%20boxing%20gloves.json)
-
-</details>
-
-<details>
-<summary><b>Katana</b> (8)</summary>
-
-- [Devil's trident katana](skins/Melee/Katana/Devil%27s%20trident%20katana.json)
-- [arch katana](skins/Melee/Katana/arch%20katana.json)
-- [azure sword katana (custom)](skins/Melee/Katana/azure%20sword%20katana%20%28custom%29.json)
-- [crystal katana](skins/Melee/Katana/crystal%20katana.json)
-- [keytana](skins/Melee/Katana/keytana.json)
-- [linked sword](skins/Melee/Katana/linked%20sword.json)
-- [riptide (1)](skins/Melee/Katana/riptide%20%281%29.json)
-- [saber over default katana](skins/Melee/Katana/saber%20over%20default%20katana.json)
+  </details>
 
 </details>
 
 <details>
-<summary><b>Knife</b> (9)</summary>
+<summary><b>🎒 Utility</b></summary>
 
-- [Candy cane (1)](skins/Melee/Knife/Candy%20cane%20%281%29.json)
-- [Diamond Sword knife (custom)](skins/Melee/Knife/Diamond%20Sword%20knife%20%28custom%29.json)
-- [Keyrambit](skins/Melee/Knife/Keyrambit.json)
-- [armature default](skins/Melee/Knife/armature%20default.json)
-- [caladbolg (Anim only I think)](skins/Melee/Knife/caladbolg%20%28Anim%20only%20I%20think%29.json)
-- [glast shard knife](skins/Melee/Knife/glast%20shard%20knife.json)
-- [keylisong over balisong](skins/Melee/Knife/keylisong%20over%20balisong.json)
-- [pencil over default knife](skins/Melee/Knife/pencil%20over%20default%20knife.json)
-- [tungknif](skins/Melee/Knife/tungknif.json)
+  <details>
+  <summary><b>Greanade</b> (5)</summary>
 
-</details>
+  - [WaterBalloon (1)](skins/utility/Greanade/WaterBalloon%20%281%29.json)
+  - [dyna](skins/utility/Greanade/dyna.json)
+  - [dynamite (grenade)](skins/utility/Greanade/dynamite%20%28grenade%29.json)
+  - [keynade](skins/utility/Greanade/keynade.json)
+  - [pumpkin nade](skins/utility/Greanade/pumpkin%20nade.json)
 
-<details>
-<summary><b>Maul</b> (1)</summary>
+  </details>
 
-- [BanHammer](skins/Melee/Maul/BanHammer.json)
+  <details>
+  <summary><b>Jumppad</b> (1)</summary>
 
-</details>
+  - [BouncyHouse (colorless)](skins/utility/Jumppad/BouncyHouse%20%28colorless%29.json)
 
-<details>
-<summary><b>Riot</b> (2)</summary>
+  </details>
 
-- [EnergyShield](skins/Melee/Riot/EnergyShield.json)
-- [Invis riot](skins/Melee/Riot/Invis%20riot.json)
+  <details>
+  <summary><b>Medkit</b> (1)</summary>
 
-</details>
+  - [KEYKIT](skins/utility/Medkit/KEYKIT.json)
 
-<details>
-<summary><b>Scythe</b> (9)</summary>
+  </details>
 
-- [Bug Net over Default Scythe](skins/Melee/Scythe/Bug%20Net%20over%20Default%20Scythe.json)
-- [Keythe over Default Scythe](skins/Melee/Scythe/Keythe%20over%20Default%20Scythe.json)
-- [Palm Scythe](skins/Melee/Scythe/Palm%20Scythe.json)
-- [anchor scythe](skins/Melee/Scythe/anchor%20scythe.json)
-- [bat scythe](skins/Melee/Scythe/bat%20scythe.json)
-- [cryo](skins/Melee/Scythe/cryo.json)
-- [crystal syth over normal syth (1)](skins/Melee/Scythe/crystal%20syth%20over%20normal%20syth%20%281%29.json)
-- [sakrua sycthe](skins/Melee/Scythe/sakrua%20sycthe.json)
-- [scythe test](skins/Melee/Scythe/scythe%20test.json)
+  <details>
+  <summary><b>Mototv</b> (3)</summary>
 
-</details>
+  - [Arch Molotov green flame](skins/utility/Mototv/Arch%20Molotov%20green%20flame.json)
+  - [Arch Molotov red flame](skins/utility/Mototv/Arch%20Molotov%20red%20flame.json)
+  - [norm molly to vexed candle](skins/utility/Mototv/norm%20molly%20to%20vexed%20candle.json)
 
-<details>
-<summary><b>Spear</b> (1)</summary>
+  </details>
 
-- [Pencel](skins/Melee/Spear/Pencel.json)
+  <details>
+  <summary><b>Satchel</b> (3)</summary>
 
-</details>
+  - [Keychel (custom)](skins/utility/Satchel/Keychel%20%28custom%29.json)
+  - [notebook satchel](skins/utility/Satchel/notebook%20satchel.json)
+  - [tungsat](skins/utility/Satchel/tungsat.json)
 
+  </details>
 
-### Utility
+  <details>
+  <summary><b>WarHorn</b> (5)</summary>
 
-<details>
-<summary><b>Greanade</b> (5)</summary>
+  - [air horn (war horn)](skins/utility/WarHorn/air%20horn%20%28war%20horn%29.json)
+  - [bone claw war horn](skins/utility/WarHorn/bone%20claw%20war%20horn.json)
+  - [mammoth warhorn](skins/utility/WarHorn/mammoth%20warhorn.json)
+  - [megaphone war horn faced backwards](skins/utility/WarHorn/megaphone%20war%20horn%20faced%20backwards.json)
+  - [trumpet (warhorn)](skins/utility/WarHorn/trumpet%20%28warhorn%29.json)
 
-- [WaterBalloon (1)](skins/utility/Greanade/WaterBalloon%20%281%29.json)
-- [dyna](skins/utility/Greanade/dyna.json)
-- [dynamite (grenade)](skins/utility/Greanade/dynamite%20%28grenade%29.json)
-- [keynade](skins/utility/Greanade/keynade.json)
-- [pumpkin nade](skins/utility/Greanade/pumpkin%20nade.json)
+  </details>
 
-</details>
+  <details>
+  <summary><b>Warpstone</b> (1)</summary>
 
-<details>
-<summary><b>Jumppad</b> (1)</summary>
+  - [EnderPearl (1)](skins/utility/Warpstone/EnderPearl%20%281%29.json)
 
-- [BouncyHouse (colorless)](skins/utility/Jumppad/BouncyHouse%20%28colorless%29.json)
+  </details>
 
-</details>
+  <details>
+  <summary><b>subspacetripmine</b> (2)</summary>
 
-<details>
-<summary><b>Medkit</b> (1)</summary>
+  - [DontPress](skins/utility/subspacetripmine/DontPress.json)
+  - [spring over default](skins/utility/subspacetripmine/spring%20over%20default.json)
 
-- [KEYKIT](skins/utility/Medkit/KEYKIT.json)
+  </details>
 
 </details>
-
-<details>
-<summary><b>Mototv</b> (3)</summary>
-
-- [Arch Molotov green flame](skins/utility/Mototv/Arch%20Molotov%20green%20flame.json)
-- [Arch Molotov red flame](skins/utility/Mototv/Arch%20Molotov%20red%20flame.json)
-- [norm molly to vexed candle](skins/utility/Mototv/norm%20molly%20to%20vexed%20candle.json)
-
-</details>
-
-<details>
-<summary><b>Satchel</b> (3)</summary>
-
-- [Keychel (custom)](skins/utility/Satchel/Keychel%20%28custom%29.json)
-- [notebook satchel](skins/utility/Satchel/notebook%20satchel.json)
-- [tungsat](skins/utility/Satchel/tungsat.json)
-
-</details>
-
-<details>
-<summary><b>WarHorn</b> (5)</summary>
-
-- [air horn (war horn)](skins/utility/WarHorn/air%20horn%20%28war%20horn%29.json)
-- [bone claw war horn](skins/utility/WarHorn/bone%20claw%20war%20horn.json)
-- [mammoth warhorn](skins/utility/WarHorn/mammoth%20warhorn.json)
-- [megaphone war horn faced backwards](skins/utility/WarHorn/megaphone%20war%20horn%20faced%20backwards.json)
-- [trumpet (warhorn)](skins/utility/WarHorn/trumpet%20%28warhorn%29.json)
-
-</details>
-
-<details>
-<summary><b>Warpstone</b> (1)</summary>
-
-- [EnderPearl (1)](skins/utility/Warpstone/EnderPearl%20%281%29.json)
-
-</details>
-
-<details>
-<summary><b>subspacetripmine</b> (2)</summary>
-
-- [DontPress](skins/utility/subspacetripmine/DontPress.json)
-- [spring over default](skins/utility/subspacetripmine/spring%20over%20default.json)
-
-</details>
-
 
 ---
 
