@@ -1,0 +1,22 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Base",
+      "replace_ids": [
+        132182294847265
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/Minecraft Master/Downloads/EnderPearl2 (1).obj"
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        94035693279005
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/Pongo/Documents/MinecraftRivals/EnderPearl.png"
+    }
+  ]
+}
