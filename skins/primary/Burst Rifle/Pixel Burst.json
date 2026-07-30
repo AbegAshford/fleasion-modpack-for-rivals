@@ -1,0 +1,67 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Upper Body",
+      "replace_ids": [
+        13236207177
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 133140932576220
+    },
+    {
+      "name": "Main Body",
+      "replace_ids": [
+        13236207101
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 113728282607158
+    },
+    {
+      "name": "Irons",
+      "replace_ids": [
+        14653273948
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 70725726278070
+    },
+    {
+      "name": "Bolts",
+      "replace_ids": [
+        13236207230
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 125930257818577
+    },
+    {
+      "name": "Inspect",
+      "replace_ids": [
+        13204401654
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 89127204291789
+    },
+    {
+      "name": "Shoot SOund",
+      "replace_ids": [
+        13087362838
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17650837861
+    },
+    {
+      "name": "Reload sound",
+      "replace_ids": [
+        13236549962
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17650838003
+    }
+  ]
+}

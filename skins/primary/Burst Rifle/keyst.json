@@ -1,0 +1,115 @@
+{
+  "replacement_rules": [
+    {
+      "name": "keyst body",
+      "replace_ids": [
+        13236207101
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keystbody3.obj"
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        13236207230,
+        13236207177,
+        14653273948,
+        13236206962
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "keyst mag",
+      "replace_ids": [
+        13236206914
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keystmag5.obj"
+    },
+    {
+      "name": "keyst equip animation",
+      "replace_ids": [
+        13204376695
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 105402901613987
+    },
+    {
+      "name": "keyst idle animation",
+      "replace_ids": [
+        13204384262
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 93156459127482
+    },
+    {
+      "name": "keyst sprint animation",
+      "replace_ids": [
+        13204420463
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 123663852199231
+    },
+    {
+      "name": "keyst inspect  animation",
+      "replace_ids": [
+        13204401654
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 130335149853469
+    },
+    {
+      "name": "keyst shot animation 1",
+      "replace_ids": [
+        13204428113
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 93585501212722
+    },
+    {
+      "name": "keyst reload animation",
+      "replace_ids": [
+        13204413250
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 73026124060302
+    },
+    {
+      "name": "keyst inspect / reload sound",
+      "replace_ids": [
+        13236549929,
+        13236549962
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 110122962237431
+    },
+    {
+      "name": "keyst shoot sound",
+      "replace_ids": [
+        13087362838
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/different%20shoot%20yeah.oga"
+    },
+    {
+      "name": "asset replace",
+      "replace_ids": [
+        17160801983
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 78377522426003
+    }
+  ]
+}
