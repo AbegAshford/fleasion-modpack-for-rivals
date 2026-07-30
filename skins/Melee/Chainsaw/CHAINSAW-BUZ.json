@@ -1,0 +1,131 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Remove",
+      "replace_ids": [
+        13532093568,
+        13532094406,
+        13532094210
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Blade",
+      "replace_ids": [
+        13532093742
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/BodyBuzzsaw/refs/heads/main/BladeFinal.obj"
+    },
+    {
+      "name": "Body",
+      "replace_ids": [
+        13532093356
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/BodyBuzzsaw/refs/heads/main/BodyBuzzSaw.obj"
+    },
+    {
+      "name": "IdleAnim",
+      "replace_ids": [
+        13592826733
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 84690854234268
+    },
+    {
+      "name": "SprintAnim",
+      "replace_ids": [
+        13592830532
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 110960686996071
+    },
+    {
+      "name": "Equipanim",
+      "replace_ids": [
+        13592814661
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 104765805760754
+    },
+    {
+      "name": "Attack1",
+      "replace_ids": [
+        13592837146
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 115238100942031
+    },
+    {
+      "name": "Attack2",
+      "replace_ids": [
+        13592839019
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 106271546194776
+    },
+    {
+      "name": "HoldingLoopAnim",
+      "replace_ids": [
+        13592852203
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 71978100155149
+    },
+    {
+      "name": "Spike1",
+      "replace_ids": [
+        13642660758
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/BodyBuzzsaw/refs/heads/main/Spike1Final.obj"
+    },
+    {
+      "name": "Spike2",
+      "replace_ids": [
+        18199162011
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/BodyBuzzsaw/refs/heads/main/Spike2Final.obj like this?"
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17160801873
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 74057448201836
+    },
+    {
+      "name": "HoldStartAnim",
+      "replace_ids": [
+        13592848848
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 72813856622105
+    },
+    {
+      "name": "HoldFinishAnim",
+      "replace_ids": [
+        13592854657
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 84141669226809
+    }
+  ]
+}
