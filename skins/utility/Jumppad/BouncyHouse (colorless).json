@@ -1,0 +1,31 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Remove",
+      "replace_ids": [
+        17835823024,
+        17835823211
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "BouncyBody",
+      "replace_ids": [
+        17835823121
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/BouncyHouse3.obj"
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        79459600453621
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 71226436012588
+    }
+  ]
+}
