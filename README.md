@@ -122,14 +122,13 @@ Click on the sky you want to download.
 
 ## 🔫 Weapon Skins
 
-Click a weapon category to expand it, then a weapon type. Skins with a preview show as a clickable thumbnail; the rest are listed below as plain links.
+Click a weapon category to expand it — every skin in that category shows as a clickable thumbnail. Click any thumbnail to open its config file.
 
 <details>
 <summary><b>🔫 Primary</b></summary>
 
 
-  <details>
-  <summary><b>Assult Rifle</b> (7)</summary>
+  ### Assult Rifle
 
 
   <div align="center">
@@ -137,41 +136,41 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Assult%20Rifle/Aug%20On%20Default%20with%20more%20skins.json"><img src="preview/AUG_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Assult%20Rifle/Aug%20On%20Default%20with%20more%20skins.json"><img src="preview/AUG_Icon.webp" width="120"/></a><br/>
   <sub>Aug On Default with more skins</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Assult%20Rifle/Gingerbread%20Aug%20over%20Aug.json"><img src="preview/GingerbreadAUG_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Assult%20Rifle/Gingerbread%20Aug%20over%20Aug.json"><img src="preview/GingerbreadAUG_Icon.webp" width="120"/></a><br/>
   <sub>Gingerbread Aug over Aug</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Assult%20Rifle/Tommy%20On%20Default.json"><img src="preview/TommyGun_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Assult%20Rifle/Tommy%20On%20Default.json"><img src="preview/TommyGun_Icon.webp" width="120"/></a><br/>
   <sub>Tommy On Default</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Assult%20Rifle/ak-47.json"><img src="preview/AK-47_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Assult%20Rifle/ak-47.json"><img src="preview/AK-47_Icon.webp" width="120"/></a><br/>
   <sub>ak-47</sub>
+  </td>
+
+  <td align="center" width="20%">
+  <a href="skins/primary/Assult%20Rifle/akey-47.json"><img src="preview/AKEY-47_Icon.webp" width="120"/></a><br/>
+  <sub>akey-47</sub>
   </td>
 
   </tr>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Assult%20Rifle/akey-47.json"><img src="preview/AKEY-47_Icon.webp" width="140"/></a><br/>
-  <sub>akey-47</sub>
-  </td>
-
-  <td align="center" width="25%">
-  <a href="skins/primary/Assult%20Rifle/boneclaw%20assault%20rifle.json"><img src="preview/BoneclawRifle_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Assult%20Rifle/boneclaw%20assault%20rifle.json"><img src="preview/BoneclawRifle_Icon.webp" width="120"/></a><br/>
   <sub>boneclaw assault rifle</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Assult%20Rifle/pearl%20rifle.json"><img src="preview/PearlRifle_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Assult%20Rifle/pearl%20rifle.json"><img src="preview/PearlRifle_Icon.webp" width="120"/></a><br/>
   <sub>pearl rifle</sub>
   </td>
 
@@ -180,11 +179,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   </div>
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Bow</b> (6)</summary>
+  ### Bow
 
 
   <div align="center">
@@ -192,23 +187,23 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Bow/Batbow.json"><img src="preview/BatBow_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Bow/Batbow.json"><img src="preview/BatBow_Icon.webp" width="120"/></a><br/>
   <sub>Batbow</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Bow/DreamBow.json"><img src="preview/DreamBow_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Bow/DreamBow.json"><img src="preview/DreamBow_Icon.webp" width="120"/></a><br/>
   <sub>DreamBow</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Bow/frostbite%20bow.json"><img src="preview/FrostbiteBow_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Bow/frostbite%20bow.json"><img src="preview/FrostbiteBow_Icon.webp" width="120"/></a><br/>
   <sub>frostbite bow</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Bow/keybow.json"><img src="preview/KeyBow_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Bow/keybow.json"><img src="preview/KeyBow_Icon.webp" width="120"/></a><br/>
   <sub>keybow</sub>
   </td>
 
@@ -222,11 +217,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Burst Rifle</b> (2)</summary>
+  ### Burst Rifle
 
 
   <div align="center">
@@ -234,13 +225,13 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Burst%20Rifle/Pixel%20Burst.json"><img src="preview/PixelBurst_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Burst%20Rifle/Pixel%20Burst.json"><img src="preview/PixelBurst_Icon.webp" width="120"/></a><br/>
   <sub>Pixel Burst</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Burst%20Rifle/keyst.json"><img src="preview/KeystRifle_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Burst%20Rifle/keyst.json"><img src="preview/KeystRifle_Icon.webp" width="120"/></a><br/>
   <sub>keyst</sub>
   </td>
 
@@ -249,11 +240,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   </div>
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Crossbow</b> (1)</summary>
+  ### Crossbow
 
 
   <div align="center">
@@ -261,8 +248,8 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Crossbow/arch%20crossbow%20%28No%20vfx%20I%20think%29.json"><img src="preview/ArchCrossbow_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Crossbow/arch%20crossbow%20%28No%20vfx%20I%20think%29.json"><img src="preview/ArchCrossbow_Icon.webp" width="120"/></a><br/>
   <sub>arch crossbow (No vfx I think)</sub>
   </td>
 
@@ -271,11 +258,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   </div>
 
 
-  </details>
-
-
-  <details>
-  <summary><b>GunBlade</b> (1)</summary>
+  ### GunBlade
 
 
   **More (no preview yet):** 
@@ -283,11 +266,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Minigun</b> (2)</summary>
+  ### Minigun
 
 
   <div align="center">
@@ -295,8 +274,8 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Minigun/Fighter%20Jet.json"><img src="preview/FighterJet_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Minigun/Fighter%20Jet.json"><img src="preview/FighterJet_Icon.webp" width="120"/></a><br/>
   <sub>Fighter Jet</sub>
   </td>
 
@@ -310,11 +289,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Paintball</b> (2)</summary>
+  ### Paintball
 
 
   <div align="center">
@@ -322,8 +297,8 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Paintball/Snowball.json"><img src="preview/SnowballGun_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Paintball/Snowball.json"><img src="preview/SnowballGun_Icon.webp" width="120"/></a><br/>
   <sub>Snowball</sub>
   </td>
 
@@ -337,11 +312,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>RPG</b> (1)</summary>
+  ### RPG
 
 
   <div align="center">
@@ -349,8 +320,8 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/RPG/RPKEY.json"><img src="preview/RPKEY_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/RPG/RPKEY.json"><img src="preview/RPKEY_Icon.webp" width="120"/></a><br/>
   <sub>RPKEY</sub>
   </td>
 
@@ -359,11 +330,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   </div>
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Shotgun</b> (1)</summary>
+  ### Shotgun
 
 
   <div align="center">
@@ -371,8 +338,8 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Shotgun/Baloonshotgun.json"><img src="preview/BalloonShotgun_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Shotgun/Baloonshotgun.json"><img src="preview/BalloonShotgun_Icon.webp" width="120"/></a><br/>
   <sub>Baloonshotgun</sub>
   </td>
 
@@ -381,11 +348,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   </div>
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Sniper</b> (6)</summary>
+  ### Sniper
 
 
   <div align="center">
@@ -393,31 +356,28 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Sniper/Event%20Horizon%20Sniper.json"><img src="preview/EventHorizon_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Sniper/Event%20Horizon%20Sniper.json"><img src="preview/EventHorizon_Icon.webp" width="120"/></a><br/>
   <sub>Event Horizon Sniper</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Sniper/Keyper.json"><img src="preview/Keyper_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Sniper/Keyper.json"><img src="preview/Keyper_Icon.webp" width="120"/></a><br/>
   <sub>Keyper</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Sniper/eye%20thing%20sniper.json"><img src="preview/EyethingSniper_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Sniper/eye%20thing%20sniper.json"><img src="preview/EyethingSniper_Icon.webp" width="120"/></a><br/>
   <sub>eye thing sniper</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/primary/Sniper/kraken%20sniper.json"><img src="preview/KrakenSniper_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Sniper/kraken%20sniper.json"><img src="preview/KrakenSniper_Icon.webp" width="120"/></a><br/>
   <sub>kraken sniper</sub>
   </td>
 
-  </tr>
-  <tr>
-
-  <td align="center" width="25%">
-  <a href="skins/primary/Sniper/pixel%20sniper.json"><img src="preview/PixelSniper_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/primary/Sniper/pixel%20sniper.json"><img src="preview/PixelSniper_Icon.webp" width="120"/></a><br/>
   <sub>pixel sniper</sub>
   </td>
 
@@ -431,17 +391,13 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
 </details>
 
 <details>
 <summary><b>🔪 Secondary</b></summary>
 
 
-  <details>
-  <summary><b>Daggers</b> (6)</summary>
+  ### Daggers
 
 
   <div align="center">
@@ -449,23 +405,23 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Daggers/Bat%20dagger.json"><img src="preview/BatDaggers_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Daggers/Bat%20dagger.json"><img src="preview/BatDaggers_Icon.webp" width="120"/></a><br/>
   <sub>Bat dagger</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Daggers/Daggers%20to%20Crystal%20Daggers.json"><img src="preview/CrystalDaggers_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Daggers/Daggers%20to%20Crystal%20Daggers.json"><img src="preview/CrystalDaggers_Icon.webp" width="120"/></a><br/>
   <sub>Daggers to Crystal Daggers</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Daggers/aces%20maybe.json"><img src="preview/Aces_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Daggers/aces%20maybe.json"><img src="preview/Aces_Icon.webp" width="120"/></a><br/>
   <sub>aces maybe</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Daggers/keynais.json"><img src="preview/Keynais_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Daggers/keynais.json"><img src="preview/Keynais_Icon.webp" width="120"/></a><br/>
   <sub>keynais</sub>
   </td>
 
@@ -479,11 +435,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Energy pistols</b> (2)</summary>
+  ### Energy pistols
 
 
   <div align="center">
@@ -491,13 +443,13 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Energy%20pistols/Void%20Pistols.json"><img src="preview/VoidPistols_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Energy%20pistols/Void%20Pistols.json"><img src="preview/VoidPistols_Icon.webp" width="120"/></a><br/>
   <sub>Void Pistols</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Energy%20pistols/hyperlaser%20over%20default%20energy.json"><img src="preview/HyperlaserGuns_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Energy%20pistols/hyperlaser%20over%20default%20energy.json"><img src="preview/HyperlaserGuns_Icon.webp" width="120"/></a><br/>
   <sub>hyperlaser over default energy</sub>
   </td>
 
@@ -506,11 +458,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   </div>
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Exo</b> (5)</summary>
+  ### Exo
 
 
   <div align="center">
@@ -518,23 +466,23 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Exo/MidnightExogun.json"><img src="preview/MidnightFestiveExogun_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Exo/MidnightExogun.json"><img src="preview/MidnightFestiveExogun_Icon.webp" width="120"/></a><br/>
   <sub>MidnightExogun</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Exo/Singularity.json"><img src="preview/Singularity_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Exo/Singularity.json"><img src="preview/Singularity_Icon.webp" width="120"/></a><br/>
   <sub>Singularity</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Exo/pearl%20exo.json"><img src="preview/PearlExogun_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Exo/pearl%20exo.json"><img src="preview/PearlExogun_Icon.webp" width="120"/></a><br/>
   <sub>pearl exo</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Exo/singularity%20exo.json"><img src="preview/Singularity_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Exo/singularity%20exo.json"><img src="preview/Singularity_Icon.webp" width="120"/></a><br/>
   <sub>singularity exo</sub>
   </td>
 
@@ -548,11 +496,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Hand gun</b> (4)</summary>
+  ### Hand gun
 
 
   <div align="center">
@@ -560,18 +504,18 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Hand%20gun/Gumball%20Handgun.json"><img src="preview/GumballHandgun_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Hand%20gun/Gumball%20Handgun.json"><img src="preview/GumballHandgun_Icon.webp" width="120"/></a><br/>
   <sub>Gumball Handgun</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Hand%20gun/Pixelhandgun%20%281%29.json"><img src="preview/PixelHandgun_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Hand%20gun/Pixelhandgun%20%281%29.json"><img src="preview/PixelHandgun_Icon.webp" width="120"/></a><br/>
   <sub>Pixelhandgun (1)</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Hand%20gun/Stealth%20Pistol.json"><img src="preview/StealthHandgun_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Hand%20gun/Stealth%20Pistol.json"><img src="preview/StealthHandgun_Icon.webp" width="120"/></a><br/>
   <sub>Stealth Pistol</sub>
   </td>
 
@@ -585,11 +529,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Revolver</b> (3)</summary>
+  ### Revolver
 
 
   <div align="center">
@@ -597,13 +537,13 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Revolver/Uh%20boneclaw%20rev.json"><img src="preview/BoneclawRevolver_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Revolver/Uh%20boneclaw%20rev.json"><img src="preview/BoneclawRevolver_Icon.webp" width="120"/></a><br/>
   <sub>Uh boneclaw rev</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Revolver/keyrev.json"><img src="preview/Keyvolver_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Revolver/keyrev.json"><img src="preview/Keyvolver_Icon.webp" width="120"/></a><br/>
   <sub>keyrev</sub>
   </td>
 
@@ -617,11 +557,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Slingshot</b> (1)</summary>
+  ### Slingshot
 
 
   **More (no preview yet):** 
@@ -629,11 +565,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Spray</b> (2)</summary>
+  ### Spray
 
 
   <div align="center">
@@ -641,13 +573,13 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Spray/key%20spray.json"><img src="preview/KeySpray_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Spray/key%20spray.json"><img src="preview/KeySpray_Icon.webp" width="120"/></a><br/>
   <sub>key spray</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Spray/spray%20bottle.json"><img src="preview/SprayBottle_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Spray/spray%20bottle.json"><img src="preview/SprayBottle_Icon.webp" width="120"/></a><br/>
   <sub>spray bottle</sub>
   </td>
 
@@ -656,11 +588,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   </div>
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Uzi</b> (2)</summary>
+  ### Uzi
 
 
   <div align="center">
@@ -668,8 +596,8 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Secondary/Uzi/keyzi.json"><img src="preview/Keyzi_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Secondary/Uzi/keyzi.json"><img src="preview/Keyzi_Icon.webp" width="120"/></a><br/>
   <sub>keyzi</sub>
   </td>
 
@@ -683,17 +611,13 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
 </details>
 
 <details>
 <summary><b>⚔️ Melee</b></summary>
 
 
-  <details>
-  <summary><b>Battle Axe</b> (2)</summary>
+  ### Battle Axe
 
 
   <div align="center">
@@ -701,13 +625,13 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Battle%20Axe/NordicAxe.json"><img src="preview/NordicAxe_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Battle%20Axe/NordicAxe.json"><img src="preview/NordicAxe_Icon.webp" width="120"/></a><br/>
   <sub>NordicAxe</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Battle%20Axe/keyttle%20%28Key%20Battle%20Axe%29.json"><img src="preview/KeyttleAxe_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Battle%20Axe/keyttle%20%28Key%20Battle%20Axe%29.json"><img src="preview/KeyttleAxe_Icon.webp" width="120"/></a><br/>
   <sub>keyttle (Key Battle Axe)</sub>
   </td>
 
@@ -716,11 +640,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   </div>
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Chainsaw</b> (1)</summary>
+  ### Chainsaw
 
 
   <div align="center">
@@ -728,8 +648,8 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Chainsaw/CHAINSAW-BUZ.json"><img src="preview/Buzzsaw_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Chainsaw/CHAINSAW-BUZ.json"><img src="preview/Buzzsaw_Icon.webp" width="120"/></a><br/>
   <sub>CHAINSAW-BUZ</sub>
   </td>
 
@@ -738,11 +658,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   </div>
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Fist</b> (3)</summary>
+  ### Fist
 
 
   <div align="center">
@@ -750,13 +666,13 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Fist/brass.json"><img src="preview/BrassKnuckles_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Fist/brass.json"><img src="preview/BrassKnuckles_Icon.webp" width="120"/></a><br/>
   <sub>brass</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Fist/pumpkinfist%20over%20boxing%20gloves.json"><img src="preview/PumpkinClaws_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Fist/pumpkinfist%20over%20boxing%20gloves.json"><img src="preview/PumpkinClaws_Icon.webp" width="120"/></a><br/>
   <sub>pumpkinfist over boxing gloves</sub>
   </td>
 
@@ -770,11 +686,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Katana</b> (8)</summary>
+  ### Katana
 
 
   <div align="center">
@@ -782,36 +694,36 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Katana/arch%20katana.json"><img src="preview/ArchKatana_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Katana/arch%20katana.json"><img src="preview/ArchKatana_Icon.webp" width="120"/></a><br/>
   <sub>arch katana</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Katana/crystal%20katana.json"><img src="preview/CrystalKatana_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Katana/crystal%20katana.json"><img src="preview/CrystalKatana_Icon.webp" width="120"/></a><br/>
   <sub>crystal katana</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Katana/keytana.json"><img src="preview/Keytana_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Katana/keytana.json"><img src="preview/Keytana_Icon.webp" width="120"/></a><br/>
   <sub>keytana</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Katana/linked%20sword.json"><img src="preview/LinkedSword_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Katana/linked%20sword.json"><img src="preview/LinkedSword_Icon.webp" width="120"/></a><br/>
   <sub>linked sword</sub>
+  </td>
+
+  <td align="center" width="20%">
+  <a href="skins/Melee/Katana/riptide%20%281%29.json"><img src="preview/RiptideKatana_Icon.webp" width="120"/></a><br/>
+  <sub>riptide (1)</sub>
   </td>
 
   </tr>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Katana/riptide%20%281%29.json"><img src="preview/RiptideKatana_Icon.webp" width="140"/></a><br/>
-  <sub>riptide (1)</sub>
-  </td>
-
-  <td align="center" width="25%">
-  <a href="skins/Melee/Katana/saber%20over%20default%20katana.json"><img src="preview/Saber_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Katana/saber%20over%20default%20katana.json"><img src="preview/Saber_Icon.webp" width="120"/></a><br/>
   <sub>saber over default katana</sub>
   </td>
 
@@ -825,11 +737,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Knife</b> (9)</summary>
+  ### Knife
 
 
   <div align="center">
@@ -837,36 +745,36 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Knife/Candy%20cane%20%281%29.json"><img src="preview/CandyCane_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Knife/Candy%20cane%20%281%29.json"><img src="preview/CandyCane_Icon.webp" width="120"/></a><br/>
   <sub>Candy cane (1)</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Knife/Keyrambit.json"><img src="preview/Keyrambit_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Knife/Keyrambit.json"><img src="preview/Keyrambit_Icon.webp" width="120"/></a><br/>
   <sub>Keyrambit</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Knife/armature%20default.json"><img src="preview/Armature001_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Knife/armature%20default.json"><img src="preview/Armature001_Icon.webp" width="120"/></a><br/>
   <sub>armature default</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Knife/caladbolg%20%28Anim%20only%20I%20think%29.json"><img src="preview/Caladbolg_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Knife/caladbolg%20%28Anim%20only%20I%20think%29.json"><img src="preview/Caladbolg_Icon.webp" width="120"/></a><br/>
   <sub>caladbolg (Anim only I think)</sub>
+  </td>
+
+  <td align="center" width="20%">
+  <a href="skins/Melee/Knife/keylisong%20over%20balisong.json"><img src="preview/Keylisong_Icon.webp" width="120"/></a><br/>
+  <sub>keylisong over balisong</sub>
   </td>
 
   </tr>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Knife/keylisong%20over%20balisong.json"><img src="preview/Keylisong_Icon.webp" width="140"/></a><br/>
-  <sub>keylisong over balisong</sub>
-  </td>
-
-  <td align="center" width="25%">
-  <a href="skins/Melee/Knife/pencil%20over%20default%20knife.json"><img src="preview/Pencil_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Knife/pencil%20over%20default%20knife.json"><img src="preview/Pencil_Icon.webp" width="120"/></a><br/>
   <sub>pencil over default knife</sub>
   </td>
 
@@ -880,11 +788,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Maul</b> (1)</summary>
+  ### Maul
 
 
   <div align="center">
@@ -892,8 +796,8 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Maul/BanHammer.json"><img src="preview/BanHammer_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Maul/BanHammer.json"><img src="preview/BanHammer_Icon.webp" width="120"/></a><br/>
   <sub>BanHammer</sub>
   </td>
 
@@ -902,11 +806,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   </div>
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Riot</b> (2)</summary>
+  ### Riot
 
 
   <div align="center">
@@ -914,8 +814,8 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Riot/EnergyShield.json"><img src="preview/EnergyShield_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Riot/EnergyShield.json"><img src="preview/EnergyShield_Icon.webp" width="120"/></a><br/>
   <sub>EnergyShield</sub>
   </td>
 
@@ -929,11 +829,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Scythe</b> (9)</summary>
+  ### Scythe
 
 
   <div align="center">
@@ -941,46 +837,46 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Scythe/Bug%20Net%20over%20Default%20Scythe.json"><img src="preview/BugNet_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Scythe/Bug%20Net%20over%20Default%20Scythe.json"><img src="preview/BugNet_Icon.webp" width="120"/></a><br/>
   <sub>Bug Net over Default Scythe</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Scythe/Keythe%20over%20Default%20Scythe.json"><img src="preview/Keythe_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Scythe/Keythe%20over%20Default%20Scythe.json"><img src="preview/Keythe_Icon.webp" width="120"/></a><br/>
   <sub>Keythe over Default Scythe</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Scythe/Palm%20Scythe.json"><img src="preview/PalmScythe_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Scythe/Palm%20Scythe.json"><img src="preview/PalmScythe_Icon.webp" width="120"/></a><br/>
   <sub>Palm Scythe</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Scythe/anchor%20scythe.json"><img src="preview/Anchor_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Scythe/anchor%20scythe.json"><img src="preview/Anchor_Icon.webp" width="120"/></a><br/>
   <sub>anchor scythe</sub>
+  </td>
+
+  <td align="center" width="20%">
+  <a href="skins/Melee/Scythe/bat%20scythe.json"><img src="preview/BatScythe_Icon.webp" width="120"/></a><br/>
+  <sub>bat scythe</sub>
   </td>
 
   </tr>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Scythe/bat%20scythe.json"><img src="preview/BatScythe_Icon.webp" width="140"/></a><br/>
-  <sub>bat scythe</sub>
-  </td>
-
-  <td align="center" width="25%">
-  <a href="skins/Melee/Scythe/cryo.json"><img src="preview/CryoScythe_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Scythe/cryo.json"><img src="preview/CryoScythe_Icon.webp" width="120"/></a><br/>
   <sub>cryo</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Scythe/crystal%20syth%20over%20normal%20syth%20%281%29.json"><img src="preview/CrystalScythe_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Scythe/crystal%20syth%20over%20normal%20syth%20%281%29.json"><img src="preview/CrystalScythe_Icon.webp" width="120"/></a><br/>
   <sub>crystal syth over normal syth (1)</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/Melee/Scythe/sakrua%20sycthe.json"><img src="preview/SakuraScythe_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/Melee/Scythe/sakrua%20sycthe.json"><img src="preview/SakuraScythe_Icon.webp" width="120"/></a><br/>
   <sub>sakrua sycthe</sub>
   </td>
 
@@ -994,19 +890,12 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Spear</b> (1)</summary>
+  ### Spear
 
 
   **More (no preview yet):** 
 [Pencel](skins/Melee/Spear/Pencel.json)
 
-
-
-  </details>
 
 
 </details>
@@ -1015,8 +904,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 <summary><b>🎒 Utility</b></summary>
 
 
-  <details>
-  <summary><b>Greanade</b> (5)</summary>
+  ### Greanade
 
 
   <div align="center">
@@ -1024,18 +912,18 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/utility/Greanade/WaterBalloon%20%281%29.json"><img src="preview/WaterBalloon_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/utility/Greanade/WaterBalloon%20%281%29.json"><img src="preview/WaterBalloon_Icon.webp" width="120"/></a><br/>
   <sub>WaterBalloon (1)</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/utility/Greanade/dynamite%20%28grenade%29.json"><img src="preview/Dynamite_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/utility/Greanade/dynamite%20%28grenade%29.json"><img src="preview/Dynamite_Icon.webp" width="120"/></a><br/>
   <sub>dynamite (grenade)</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/utility/Greanade/keynade.json"><img src="preview/Keynade_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/utility/Greanade/keynade.json"><img src="preview/Keynade_Icon.webp" width="120"/></a><br/>
   <sub>keynade</sub>
   </td>
 
@@ -1049,11 +937,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Jumppad</b> (1)</summary>
+  ### Jumppad
 
 
   <div align="center">
@@ -1061,8 +945,8 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/utility/Jumppad/BouncyHouse%20%28colorless%29.json"><img src="preview/BounceHouse_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/utility/Jumppad/BouncyHouse%20%28colorless%29.json"><img src="preview/BounceHouse_Icon.webp" width="120"/></a><br/>
   <sub>BouncyHouse (colorless)</sub>
   </td>
 
@@ -1071,11 +955,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   </div>
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Medkit</b> (1)</summary>
+  ### Medkit
 
 
   **More (no preview yet):** 
@@ -1083,11 +963,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Mototv</b> (3)</summary>
+  ### Mototv
 
 
   <div align="center">
@@ -1095,18 +971,18 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/utility/Mototv/Arch%20Molotov%20green%20flame.json"><img src="preview/ArchMolotov_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/utility/Mototv/Arch%20Molotov%20green%20flame.json"><img src="preview/ArchMolotov_Icon.webp" width="120"/></a><br/>
   <sub>Arch Molotov green flame</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/utility/Mototv/Arch%20Molotov%20red%20flame.json"><img src="preview/ArchMolotov_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/utility/Mototv/Arch%20Molotov%20red%20flame.json"><img src="preview/ArchMolotov_Icon.webp" width="120"/></a><br/>
   <sub>Arch Molotov red flame</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/utility/Mototv/norm%20molly%20to%20vexed%20candle.json"><img src="preview/VexedCandle_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/utility/Mototv/norm%20molly%20to%20vexed%20candle.json"><img src="preview/VexedCandle_Icon.webp" width="120"/></a><br/>
   <sub>norm molly to vexed candle</sub>
   </td>
 
@@ -1115,11 +991,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   </div>
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Satchel</b> (3)</summary>
+  ### Satchel
 
 
   <div align="center">
@@ -1127,8 +999,8 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/utility/Satchel/notebook%20satchel.json"><img src="preview/NotebookSatchel_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/utility/Satchel/notebook%20satchel.json"><img src="preview/NotebookSatchel_Icon.webp" width="120"/></a><br/>
   <sub>notebook satchel</sub>
   </td>
 
@@ -1142,11 +1014,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>WarHorn</b> (5)</summary>
+  ### WarHorn
 
 
   <div align="center">
@@ -1154,31 +1022,28 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/utility/WarHorn/air%20horn%20%28war%20horn%29.json"><img src="preview/AirHorn_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/utility/WarHorn/air%20horn%20%28war%20horn%29.json"><img src="preview/AirHorn_Icon.webp" width="120"/></a><br/>
   <sub>air horn (war horn)</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/utility/WarHorn/bone%20claw%20war%20horn.json"><img src="preview/BoneclawHorn_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/utility/WarHorn/bone%20claw%20war%20horn.json"><img src="preview/BoneclawHorn_Icon.webp" width="120"/></a><br/>
   <sub>bone claw war horn</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/utility/WarHorn/mammoth%20warhorn.json"><img src="preview/MammothHorn_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/utility/WarHorn/mammoth%20warhorn.json"><img src="preview/MammothHorn_Icon.webp" width="120"/></a><br/>
   <sub>mammoth warhorn</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/utility/WarHorn/megaphone%20war%20horn%20faced%20backwards.json"><img src="preview/Megaphone_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/utility/WarHorn/megaphone%20war%20horn%20faced%20backwards.json"><img src="preview/Megaphone_Icon.webp" width="120"/></a><br/>
   <sub>megaphone war horn faced backwards</sub>
   </td>
 
-  </tr>
-  <tr>
-
-  <td align="center" width="25%">
-  <a href="skins/utility/WarHorn/trumpet%20%28warhorn%29.json"><img src="preview/Trumpet_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/utility/WarHorn/trumpet%20%28warhorn%29.json"><img src="preview/Trumpet_Icon.webp" width="120"/></a><br/>
   <sub>trumpet (warhorn)</sub>
   </td>
 
@@ -1187,11 +1052,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   </div>
 
 
-  </details>
-
-
-  <details>
-  <summary><b>Warpstone</b> (1)</summary>
+  ### Warpstone
 
 
   **More (no preview yet):** 
@@ -1199,11 +1060,7 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
 
 
 
-  </details>
-
-
-  <details>
-  <summary><b>subspacetripmine</b> (2)</summary>
+  ### subspacetripmine
 
 
   <div align="center">
@@ -1211,22 +1068,19 @@ Click a weapon category to expand it, then a weapon type. Skins with a preview s
   <table>
   <tr>
 
-  <td align="center" width="25%">
-  <a href="skins/utility/subspacetripmine/DontPress.json"><img src="preview/Don%27tPress_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/utility/subspacetripmine/DontPress.json"><img src="preview/Don%27tPress_Icon.webp" width="120"/></a><br/>
   <sub>DontPress</sub>
   </td>
 
-  <td align="center" width="25%">
-  <a href="skins/utility/subspacetripmine/spring%20over%20default.json"><img src="preview/Spring_Icon.webp" width="140"/></a><br/>
+  <td align="center" width="20%">
+  <a href="skins/utility/subspacetripmine/spring%20over%20default.json"><img src="preview/Spring_Icon.webp" width="120"/></a><br/>
   <sub>spring over default</sub>
   </td>
 
   </tr>
   </table>
   </div>
-
-
-  </details>
 
 
 </details>
