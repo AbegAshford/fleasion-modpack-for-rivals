@@ -1,0 +1,134 @@
+{
+  "replacement_rules": [
+    {
+      "name": "mogged by hazy",
+      "replace_ids": [
+        12482022363,
+        14427935597,
+        13160326139,
+        12482022430
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "equip",
+      "replace_ids": [
+        12613363718
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742841521
+    },
+    {
+      "name": "idle anim",
+      "replace_ids": [
+        12613190591
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742849437
+    },
+    {
+      "name": "sprint anim",
+      "replace_ids": [
+        12886796453
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742894186
+    },
+    {
+      "name": "inspect anim",
+      "replace_ids": [
+        12613329711
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742879471
+    },
+    {
+      "name": "inspectrare anim",
+      "replace_ids": [
+        12613320859
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 99791769251359
+    },
+    {
+      "name": "knife slash1 anim",
+      "replace_ids": [
+        12613340305
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742860878
+    },
+    {
+      "name": "knife slash2 anim",
+      "replace_ids": [
+        12613350645
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742864831
+    },
+    {
+      "name": "knifestab anim",
+      "replace_ids": [
+        12613354440
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742868264
+    },
+    {
+      "name": "havyatc",
+      "replace_ids": [
+        123415605337684
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742872634
+    },
+    {
+      "name": "atksounds1",
+      "replace_ids": [
+        13160400937,
+        13455968789,
+        13455968853
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/bonk.oga"
+    },
+    {
+      "name": "atksounds2",
+      "replace_ids": [
+        13160400909
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90757583550672
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17160800983
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/rythmplayzyt/so-meshed-up/refs/heads/main/tungasset.png"
+    },
+    {
+      "name": "sahurmodeon",
+      "replace_ids": [
+        12482022259
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/rythmplayzyt/so-meshed-up/refs/heads/main/bigsahur.obj"
+    }
+  ]
+}

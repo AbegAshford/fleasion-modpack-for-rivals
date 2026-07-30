@@ -1,0 +1,74 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Profile 1",
+      "replace_ids": [
+        12482022259
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 2",
+      "replace_ids": [
+        12482022430
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "iyfngfx",
+      "replace_ids": [
+        12482022363
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 80284807452756
+    },
+    {
+      "name": "minecraft hitmarker",
+      "replace_ids": [
+        13455968853
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 135681095320975
+    },
+    {
+      "name": "minecraft hitmarker",
+      "replace_ids": [
+        13455968789
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 135681095320975
+    },
+    {
+      "name": "minecraft backstab sound",
+      "replace_ids": [
+        13160400909
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 127482304281110
+    },
+    {
+      "name": "inspect might be buggy",
+      "replace_ids": [
+        12613329711
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742879471
+    },
+    {
+      "name": "ImageOfKnife",
+      "replace_ids": [
+        17160800983
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/Cfuoc/Downloads/sword.png"
+    }
+  ]
+}

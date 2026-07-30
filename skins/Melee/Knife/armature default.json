@@ -1,0 +1,39 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Remove",
+      "replace_ids": [
+        12482022259
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "top",
+      "replace_ids": [
+        12482022363
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/ZZZZ-Duels/rivalsskins/refs/heads/main/top4.obj"
+   },
+    {
+      "name": "bottom",
+      "replace_ids": [
+        12482022430
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/ZZZZ-Duels/rivalsskins/refs/heads/main/bottom4.obj"
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17160800983
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/zommuser/armature/main/icon.png"
+    }
+  ]
+}

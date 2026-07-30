@@ -1,0 +1,111 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Profile 1",
+      "replace_ids": [
+        12613363718
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 80229159202635
+    },
+    {
+      "name": "Profile 2",
+      "replace_ids": [
+        12613190591
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 103922766408805
+    },
+    {
+      "name": "Profile 3",
+      "replace_ids": [
+        12886796453
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 102764817412825
+    },
+    {
+      "name": "Profile 4",
+      "replace_ids": [
+        12613329711
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 121051466122511
+    },
+    {
+      "name": "Profile 5",
+      "replace_ids": [
+        12613340305
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 132855854009455
+    },
+    {
+      "name": "Profile 6",
+      "replace_ids": [
+        12613354440
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 113801567235608
+    },
+    {
+      "name": "Profile 7",
+      "replace_ids": [
+        123415605337684
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 82947020987630
+    },
+    {
+      "name": "Profile 9",
+      "replace_ids": [
+        12482022363
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 10",
+      "replace_ids": [
+        12482022259
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 10",
+      "replace_ids": [
+        12482022430
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rivalsconfigs/robloxpencilkassets/raw/refs/heads/main/reallyreallynew.obj"
+    },
+    {
+      "name": "Profile 11",
+      "replace_ids": [
+        12613320859
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 121051466122511
+    },
+    {
+      "name": "Profile 12",
+      "replace_ids": [
+        13158735106,
+        13169152449,
+        13160400937
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Profile 1",
+      "replace_ids": [
+        12482022259
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/candycanedef1.obj"
+    },
+    {
+      "name": "Profile 2",
+      "replace_ids": [
+        12482022363
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/candycanedef2.obj"
+    },
+    {
+      "name": "Profile 3",
+      "replace_ids": [
+        12613363718
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742841521
+    },
+    {
+      "name": "Profile 4",
+      "replace_ids": [
+        12613190591
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742849437
+    },
+    {
+      "name": "Profile 5",
+      "replace_ids": [
+        12886796453
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742894186
+    },
+    {
+      "name": "Profile 6",
+      "replace_ids": [
+        12613329711
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742879471
+    },
+    {
+      "name": "Profile 7",
+      "replace_ids": [
+        12613320859
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742879471
+    },
+    {
+      "name": "Profile 8",
+      "replace_ids": [
+        12613340305
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742860878
+    },
+    {
+      "name": "Profile 9",
+      "replace_ids": [
+        12613350645
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742864831
+    },
+    {
+      "name": "Profile 10",
+      "replace_ids": [
+        12613354440
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742868264
+    },
+    {
+      "name": "Profile 11",
+      "replace_ids": [
+        123415605337684
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742872634
+    },
+    {
+      "name": "Profile 12",
+      "replace_ids": [
+        12482022430
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 1",
+      "replace_ids": [
+        17160800983
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 124021545052910
+    }
+  ]
+}

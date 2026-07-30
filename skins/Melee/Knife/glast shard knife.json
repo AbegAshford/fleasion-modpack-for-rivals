@@ -1,0 +1,112 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Extra Parts Removal",
+      "replace_ids": [
+        12482022259,
+        12482022363
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Glast Shard Mesh",
+      "replace_ids": [
+        12482022430
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/MonkeyGamer1357/test/refs/heads/main/glass-shard-test2.obj"
+    },
+    {
+      "name": "Inspect Anim",
+      "replace_ids": [
+        12613329711
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742879471
+    },
+    {
+      "name": "sprint anim",
+      "replace_ids": [
+        12886796453
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742894186
+    },
+    {
+      "name": "equip anim",
+      "replace_ids": [
+        12613363718
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742841521
+    },
+    {
+      "name": "attack1 anim",
+      "replace_ids": [
+        12613340305
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742860878
+    },
+    {
+      "name": "attack2 anim",
+      "replace_ids": [
+        12613350645
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742864831
+    },
+    {
+      "name": "heavy attack1 anim",
+      "replace_ids": [
+        12613354440
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742868264
+    },
+    {
+      "name": "heavy attack hit anim",
+      "replace_ids": [
+        123415605337684
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742872634
+    },
+    {
+      "name": "idle anim",
+      "replace_ids": [
+        12613190591
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742849437
+    },
+    {
+      "name": "rare inspect anim",
+      "replace_ids": [
+        12613320859
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742879471
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17160800983
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 102980815872652
+    }
+  ]
+}

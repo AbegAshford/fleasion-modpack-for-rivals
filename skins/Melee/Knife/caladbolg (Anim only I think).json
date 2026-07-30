@@ -1,0 +1,220 @@
+{
+  "replacement_rules": [
+    {
+      "name": "equip",
+      "replace_ids": [
+        12613363718
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 105669116331483
+    },
+    {
+      "name": "idle",
+      "replace_ids": [
+        12613190591
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 101401694870760
+    },
+    {
+      "name": "sprint",
+      "replace_ids": [
+        12886796453
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 81025298558665
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        12613329711
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 112840033437979
+    },
+    {
+      "name": "no inspect rare",
+      "replace_ids": [
+        12613320859
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "att1",
+      "replace_ids": [
+        12613340305
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 105676733914755
+    },
+    {
+      "name": "att2",
+      "replace_ids": [
+        12613350645
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90736928715433
+    },
+    {
+      "name": "heavy att",
+      "replace_ids": [
+        12613354440
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90939586386355
+    },
+    {
+      "name": "heavy att hit?",
+      "replace_ids": [
+        123415605337684
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 139698735737001
+    },
+    {
+      "name": "att sound",
+      "replace_ids": [
+        13455968853
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/user-attachments/files/27765780/canbalog.att.MP3"
+    },
+    {
+      "name": "heavy att sound",
+      "replace_ids": [
+        13160400909
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/user-attachments/files/27765779/canablog.heavy.att.MP3"
+    },
+    {
+      "name": "equip_sound",
+      "replace_ids": [
+        14427935597
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/user-attachments/files/27765778/canablog.equip.MP3"
+    },
+    {
+      "name": "no inspect rare",
+      "replace_ids": [
+        13158735106,
+        13169152449,
+        13160400937
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "att sound",
+      "replace_ids": [
+        13455968789
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/user-attachments/files/27765780/canbalog.att.MP3"
+    },
+    {
+      "name": "body",
+      "replace_ids": [
+        12482022259
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 97528027325334
+    },
+    {
+      "name": "no",
+      "replace_ids": [
+        12482022363,
+        12482022430
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "idle",
+      "replace_ids": [
+        18742849437
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 101401694870760
+    },
+    {
+      "name": "equip",
+      "replace_ids": [
+        18742841521
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 105669116331483
+    },
+    {
+      "name": "sprint",
+      "replace_ids": [
+        18742894186
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 81025298558665
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        18742879471
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 112840033437979
+    },
+    {
+      "name": "att1",
+      "replace_ids": [
+        18742860878
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 105676733914755
+    },
+    {
+      "name": "att2",
+      "replace_ids": [
+        18742864831
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90736928715433
+    },
+    {
+      "name": "heavy att",
+      "replace_ids": [
+        18742868264
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90939586386355
+    },
+    {
+      "name": "heavy att hit?",
+      "replace_ids": [
+        18742872634
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 139698735737001
+    }
+  ]
+}

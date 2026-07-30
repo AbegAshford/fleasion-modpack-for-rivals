@@ -1,0 +1,186 @@
+{
+  "replacement_rules": [
+    {
+      "name": "remove",
+      "replace_ids": [
+        12482022259,
+        12482022363
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        12482022259,
+        12482022363
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 4",
+      "replace_ids": [
+        12613363718
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742841521
+    },
+    {
+      "name": "Profile 5",
+      "replace_ids": [
+        12613190591
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742849437
+    },
+    {
+      "name": "Profile 6",
+      "replace_ids": [
+        12886796453
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742894186
+    },
+    {
+      "name": "Profile 7",
+      "replace_ids": [
+        12613329711
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742879471
+    },
+    {
+      "name": "Profile 8",
+      "replace_ids": [
+        12613320859
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742879471
+    },
+    {
+      "name": "Profile 9",
+      "replace_ids": [
+        12613340305
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742860878
+    },
+    {
+      "name": "Profile 10",
+      "replace_ids": [
+        12613350645
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742864831
+    },
+    {
+      "name": "Profile 11",
+      "replace_ids": [
+        12613354440
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742868264
+    },
+    {
+      "name": "Profile 12",
+      "replace_ids": [
+        123415605337684
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742872634
+    },
+    {
+      "name": "Profile 12",
+      "replace_ids": [
+        12482022430
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/Keyrambit/refs/heads/main/KeyrambitFinal.obj"
+    },
+    {
+      "name": "Profile 13",
+      "replace_ids": [
+        17160800983
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18766863586
+    },
+    {
+      "name": "Remove",
+      "replace_ids": [
+        13158735106,
+        13169152449,
+        13160400937
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Attack1",
+      "replace_ids": [
+        13455968853
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/Pongo/Documents/Audacity/KeyRambitAttack.mp3"
+    },
+    {
+      "name": "Attack2",
+      "replace_ids": [
+        13455968789
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/Pongo/Documents/Audacity/KeyRambitAttack.mp3"
+    },
+    {
+      "name": "HeavyAttack1",
+      "replace_ids": [
+        13160400909
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/Pongo/Documents/Audacity/Keyrambitheavyattack.mp3"
+    },
+    {
+      "name": "Remove",
+      "replace_ids": [
+        13160326139
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Equip",
+      "replace_ids": [
+        14427935597
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 100664516053133
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17160800983,
+        13197583583,
+        86335100734691
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 108512337101248
+    }
+  ]
+}
