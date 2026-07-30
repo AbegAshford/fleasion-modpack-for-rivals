@@ -1,0 +1,62 @@
+{
+  "replacement_rules": [
+    {
+      "name": "mag",
+      "replace_ids": [
+        13188892651,
+        13188892532
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 2",
+      "replace_ids": [
+        14778413014,
+        13188893115,
+        13188893017,
+        14774727092,
+        13188892855,
+        13188893310
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 3",
+      "replace_ids": [
+        13188892761
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/Nemuwhatareudoing/FLEASION/refs/heads/main/eyethingsnipertest1.obj"
+    },
+    {
+      "name": "image icon",
+      "replace_ids": [
+        17160799574
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 103915302076013
+    },
+    {
+      "name": "Profile 5",
+      "replace_ids": [
+        13270206087
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 71304774842482
+    },
+    {
+      "name": "Profile 6",
+      "replace_ids": [
+        13270206222
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/Nemuwhatareudoing/FLEASION/raw/main/sniperidk.mp3"
+    }
+  ]
+}

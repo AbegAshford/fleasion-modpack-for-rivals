@@ -1,0 +1,77 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body Pt1",
+      "replace_ids": [
+        13188893017,
+        13188892761,
+        13188893115,
+        13188893017,
+        14778413014
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Body Pt2",
+      "replace_ids": [
+        14774727092
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/LSDatSfG/FLEASION-STUFF/raw/main/keypertest.obj"
+    },
+    {
+      "name": "Mag Pt1",
+      "replace_ids": [
+        13188892532
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Mag Pt2",
+      "replace_ids": [
+        13188892651
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Image",
+      "replace_ids": [
+        17160799574
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 122634584511896
+    },
+    {
+      "name": "Keyper Scope Blur",
+      "replace_ids": [
+        13466088854
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 129335242148588
+    },
+    {
+      "name": "Keyper Scope",
+      "replace_ids": [
+        13466076605
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 81498448678518
+    },
+    {
+      "name": "Keyper Shoot SFX",
+      "replace_ids": [
+        13270206087
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 115657023572170
+    }
+  ]
+}

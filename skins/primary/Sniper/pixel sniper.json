@@ -1,0 +1,203 @@
+{
+  "replacement_rules": [
+    {
+      "name": "pixel equip >default equip",
+      "replace_ids": [
+        13269929260
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17664629760
+    },
+    {
+      "name": "pixel idle > default idle",
+      "replace_ids": [
+        13269931582
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17664646174
+    },
+    {
+      "name": "pixel inspect > default inspect",
+      "replace_ids": [
+        13269934368
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17664656355
+    },
+    {
+      "name": "pixel reload > default reload",
+      "replace_ids": [
+        13642104835
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17664661034
+    },
+    {
+      "name": "pixel reload empty > default reload empty",
+      "replace_ids": [
+        13269951125
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17664666318
+    },
+    {
+      "name": "pixel shoot > default shoot",
+      "replace_ids": [
+        13269963346
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17650964342
+    },
+    {
+      "name": "pixel sprint > default sprint",
+      "replace_ids": [
+        13321899382
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17664710801
+    },
+    {
+      "name": "mag in",
+      "replace_ids": [
+        13455229188
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17650945056
+    },
+    {
+      "name": "mag out",
+      "replace_ids": [
+        17650945056
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 13455229044
+    },
+    {
+      "name": "bullet eject",
+      "replace_ids": [
+        17650838003
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 13455395090
+    },
+    {
+      "name": "bolt back",
+      "replace_ids": [
+        17650837861
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 13455395017
+    },
+    {
+      "name": "bolt forward",
+      "replace_ids": [
+        13455394948
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17650837861
+    },
+    {
+      "name": "shooting",
+      "replace_ids": [
+        13270206222,
+        13270206087
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17650837718
+    },
+    {
+      "name": "icon tuffy",
+      "replace_ids": [
+        13197583098,
+        17160799574
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17676081196
+    },
+    {
+      "name": "sniper body to pixel sniper body",
+      "replace_ids": [
+        13188892761
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18196576585
+    },
+    {
+      "name": "scope thing to pixel",
+      "replace_ids": [
+        13188893115
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18196577047
+    },
+    {
+      "name": "idk what this is but yea",
+      "replace_ids": [
+        13188893017
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18196577193
+    },
+    {
+      "name": "scope glass thing",
+      "replace_ids": [
+        14778413014
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18196576679
+    },
+    {
+      "name": "scope and the barrel",
+      "replace_ids": [
+        14774727092
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18196577328
+    },
+    {
+      "name": "magaziiiin",
+      "replace_ids": [
+        13188892532
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18196576456
+    },
+    {
+      "name": "bolt",
+      "replace_ids": [
+        13188892855
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18196576796
+    },
+    {
+      "name": "bol 2",
+      "replace_ids": [
+        13188893310
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}

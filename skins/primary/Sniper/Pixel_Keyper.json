@@ -1,0 +1,29 @@
+{
+  "replacement_rules": [
+    {
+      "name": "remove",
+      "replace_ids": [
+        14778413014,
+        13188893115,
+        13188893017,
+        14774727092,
+        13188892855,
+        13188893310,
+        14002915797,
+        13188892651,
+        13188892532
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Body",
+      "replace_ids": [
+        13188892761
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/tob1x/rivals/refs/heads/main/Pixel%20Keyper.obj"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "replacement_rules": [
+    {
+      "name": "kraken sniper reload",
+      "replace_ids": [
+        13642104835
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 88102326803932
+    },
+    {
+      "name": "kraken inspect",
+      "replace_ids": [
+        13269934368
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 79965994888534
+    },
+    {
+      "name": "kraken shoot anim",
+      "replace_ids": [
+        13269963346
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 87253312972326
+    },
+    {
+      "name": "kraken equip",
+      "replace_ids": [
+        13269929260
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 97269161662826
+    },
+    {
+      "name": "kraken idle",
+      "replace_ids": [
+        13269931582
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 122333250697838
+    },
+    {
+      "name": "kraken sprint",
+      "replace_ids": [
+        13321899382
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 80670660427868
+    },
+    {
+      "name": "kraken main body + scope",
+      "replace_ids": [
+        14774727092
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/mainbodykraken5.obj"
+    },
+    {
+      "name": "kraken lens -> eyes",
+      "replace_ids": [
+        14778413014
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/eyes19.obj"
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        13188893115,
+        13188893017,
+        13188892651
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "kraken bottom part",
+      "replace_ids": [
+        13188892761
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/krakenbottom+octo6.obj"
+    },
+    {
+      "name": "kraken mag",
+      "replace_ids": [
+        13188892532
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/kracken%20mag.obj"
+    },
+    {
+      "name": "kraken shoot sound",
+      "replace_ids": [
+        13270206222
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/krakenshoot.wav"
+    },
+    {
+      "name": "kraken mag out",
+      "replace_ids": [
+        13455229044
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/krakenmagout.wav"
+    },
+    {
+      "name": "kraken icon replace",
+      "replace_ids": [
+        17160799574
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 95011666797584
+    }
+  ]
+}

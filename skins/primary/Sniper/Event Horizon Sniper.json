@@ -1,0 +1,210 @@
+{
+  "replacement_rules": [
+    {
+      "name": "default sniper to Event horizon",
+      "replace_ids": [
+        13269929260
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 81764105421530
+    },
+    {
+      "name": "sniper to event horizon idle",
+      "replace_ids": [
+        13269931582
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 133028871112073
+    },
+    {
+      "name": "sprint event horizon",
+      "replace_ids": [
+        13321899382
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 124791899818888
+    },
+    {
+      "name": "shoot1 to event",
+      "replace_ids": [
+        13269963346
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 131324265853213
+    },
+    {
+      "name": "reload event horizon",
+      "replace_ids": [
+        13642104835
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 121991964753861
+    },
+    {
+      "name": "clean type shit",
+      "replace_ids": [
+        13188893310,
+        13188892855,
+        13188892855,
+        13188892651,
+        13188892532
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "reload-event-horizon-igottasleep:v:",
+      "replace_ids": [
+        13455394948
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17672502716
+    },
+    {
+      "name": "NO BULLET",
+      "replace_ids": [
+        14002915797
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "EVENTHORIZONSHOOTSOUNDS",
+      "replace_ids": [
+        13270206222
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 93542288707517
+    },
+    {
+      "name": "reload-event-horizon-igottasleep:v:2",
+      "replace_ids": [
+        13455229188
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 122971606160018
+    },
+    {
+      "name": "reload-event-horizon-igottasleep:v:3",
+      "replace_ids": [
+        13455229044
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17672502879
+    },
+    {
+      "name": "son",
+      "replace_ids": [
+        13455394948,
+        13455395090
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "bODY",
+      "replace_ids": [
+        13188892761
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/Evenshittingpieceofshit2.obj"
+    },
+    {
+      "name": "REMOVE",
+      "replace_ids": [
+        14778413014,
+        13188893115,
+        13188893017,
+        14774727092,
+        13188892855,
+        13188893310,
+        13188892651,
+        13188892532
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Reload",
+      "replace_ids": [
+        13642104835
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 121991964753861
+    },
+    {
+      "name": "Reloadempty",
+      "replace_ids": [
+        13269951125
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 130611507137983
+    },
+    {
+      "name": "Remove",
+      "replace_ids": [
+        13455394948
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "removeanotheronepleaseework",
+      "replace_ids": [
+        13455395017,
+        13455394948
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "InspectAnim",
+      "replace_ids": [
+        13269934368
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 89426100452654
+    },
+    {
+      "name": "Image",
+      "replace_ids": [
+        17160799574,
+        132853334508822
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 80749667426815
+    },
+    {
+      "name": "SCOPE",
+      "replace_ids": [
+        18171031143
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18171045114
+    },
+    {
+      "name": "Keyper Scope Blur",
+      "replace_ids": [
+        13466088854
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18171031143
+    }
+  ]
+}
