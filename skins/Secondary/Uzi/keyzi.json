@@ -1,0 +1,108 @@
+{
+  "replacement_rules": [
+    {
+      "name": "KEYZI  body",
+      "replace_ids": [14653989624],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keyzibody3.obj"
+    },
+    {
+      "name": "KEYZI",
+      "replace_ids": [14653989728, 14653989374],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "KEYZI  mag",
+      "replace_ids": [14653989514],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keyzimag5.obj"
+    },
+    {
+      "name": "KEYZI asset replace",
+      "replace_ids": [17160798908],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 100392703246534
+    },
+    {
+      "name": "KEYZI  equip",
+      "replace_ids": [14138257464],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 128245025878841
+    },
+    {
+      "name": "KEYZI idle",
+      "replace_ids": [14138268430],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 114529536180921
+    },
+    {
+      "name": "KEYZI sprint",
+      "replace_ids": [14138278538],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 112066485549373
+    },
+    {
+      "name": "KEYZI inspect",
+      "replace_ids": [14138270478],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 128515067091034
+    },
+    {
+      "name": "KEYZI shoot",
+      "replace_ids": [14138281432],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 105713449228227
+    },
+    {
+      "name": "KEYZI reload",
+      "replace_ids": [14138276657],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 119997151817807
+    },
+    {
+      "name": "KEYZI shootsound3",
+      "replace_ids": [16526184730],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keyzishoot3.mp3"
+    },
+    {
+      "name": "KEYZI shootsound2",
+      "replace_ids": [16526184479],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keyzishoot2.mp3"
+    },
+    {
+      "name": "KEYZI ishootsound1",
+      "replace_ids": [16526185100],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keyzishoot1.mp3"
+    },
+    {
+      "name": "KEYZI reload1",
+      "replace_ids": [13158330666],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 71387264231358
+    },
+    {
+      "name": "KEYZI reload2",
+      "replace_ids": [13158330555],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90757583550672
+    }
+  ]
+}

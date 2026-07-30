@@ -1,0 +1,40 @@
+{
+  "replacement_rules": [
+    {
+      "name": "image",
+      "replace_ids": [
+        17160798908
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 139852585731073
+    },
+    {
+      "name": "body",
+      "replace_ids": [
+        14653989624
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/Nemuwhatareudoing/FLEASION/raw/main/archuzi.obj"
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        14653989374,
+        14653989728
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "mag",
+      "replace_ids": [
+        14653989514
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/Nemuwhatareudoing/FLEASION/raw/main/archuzimag.obj"
+    }
+  ]
+}
