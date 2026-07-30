@@ -1,0 +1,13 @@
+{
+  "replacement_rules": [
+    {
+      "name": "tuff ahh wrap bruh",
+      "replace_ids": [
+        124796745676624
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://files.catbox.moe/ip11w6.png"
+    }
+  ]
+}

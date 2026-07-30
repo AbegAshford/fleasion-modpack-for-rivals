@@ -1,0 +1,12 @@
+{
+  "replacement_rules": [
+    {
+      "name": "glass",
+      "replace_ids": [
+        124796745676624
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}
