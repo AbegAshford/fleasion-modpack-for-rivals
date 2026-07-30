@@ -1,0 +1,51 @@
+{
+  "replacement_rules": [
+    {
+      "name": "BodyPaintball",
+      "replace_ids": [
+        16538412587
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/SnowballBody1.obj"
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17160853798,
+        16560547676
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 113685354916533
+    },
+    {
+      "name": "MagPaintball",
+      "replace_ids": [
+        16538412864
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/SnowballMag1.obj"
+    },
+    {
+      "name": "bai bai",
+      "replace_ids": [
+        16538413038,
+        16538412713,
+        16538412954
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "ShootSound",
+      "replace_ids": [
+        "rbxasset://sounds//paintball.wav"
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 78027467712109
+    }
+  ]
+}

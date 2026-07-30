@@ -1,0 +1,71 @@
+{
+  "replacement_rules": [
+    {
+      "name": "BodyPaintball",
+      "replace_ids": [
+        16538412587
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://project-key.neocities.org/body%20(2).obj"
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17160853798,
+        16560547676
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://project-key.neocities.org/jack1.png"
+    },
+    {
+      "name": "MagPaintball",
+      "replace_ids": [
+        16538412864
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://project-key.neocities.org/magg.obj"
+    },
+    {
+      "name": "byeee",
+      "replace_ids": [
+        16538413038,
+        16538412713,
+        16538412954
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "ShootSound",
+      "replace_ids": [
+        11900833
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://gitlab.com/leeyanchit0303.1/bro/-/raw/main/1782415530415-e872a76a3c5949c7-0625__4_.MP3"
+    },
+    {
+      "name": "reload sound",
+      "replace_ids": [
+        14427935597
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 100664516053133
+    },
+    {
+      "name": "Splat!!",
+      "replace_ids": [
+        17098901439,
+        17098901515,
+        16833617681
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://hostforever.org/uploads/1782409496697-f1b30cdd975814b5-splat.png"
+    }
+  ]
+}
