@@ -1,0 +1,178 @@
+{
+  "replacement_rules": [
+    {
+      "name": "body",
+      "replace_ids": [
+        13903792316
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 131070904834700
+    },
+    {
+      "name": "a",
+      "replace_ids": [
+        13760790008,
+        13760790106
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "A1",
+      "replace_ids": [
+        14000023581
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 96253147006478
+    },
+    {
+      "name": "A2",
+      "replace_ids": [
+        14000023392
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 96253147006478
+    },
+    {
+      "name": "Di",
+      "replace_ids": [
+        14776414315,
+        14776413989
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90757583550672
+    },
+    {
+      "name": "in",
+      "replace_ids": [
+        13158735106,
+        14000093824
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 96253147006478
+    },
+    {
+      "name": "e",
+      "replace_ids": [
+        13992707294
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 89039553556992
+    },
+    {
+      "name": "ID",
+      "replace_ids": [
+        13992711211
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 113213899857455
+    },
+    {
+      "name": "Sp",
+      "replace_ids": [
+        14069980959,
+        13992717984
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 83206239093454
+    },
+    {
+      "name": "SDK",
+      "replace_ids": [
+        13992715669
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90320152875293
+    },
+    {
+      "name": "ADAW",
+      "replace_ids": [
+        14411504784
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 99791769251359
+    },
+    {
+      "name": "WDa",
+      "replace_ids": [
+        13992724397
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 128078260433100
+    },
+    {
+      "name": "ADwj",
+      "replace_ids": [
+        13992729204
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 139279839095541
+    },
+    {
+      "name": "adwa",
+      "replace_ids": [
+        14761220206
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90436105114997
+    },
+    {
+      "name": "r34we",
+      "replace_ids": [
+        14761234917
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90797895557136
+    },
+    {
+      "name": "wadfaw",
+      "replace_ids": [
+        14761221711
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 77995180947430
+    },
+    {
+      "name": "fgfd",
+      "replace_ids": [
+        14761223422
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 111943779640553
+    },
+    {
+      "name": "afa",
+      "replace_ids": [
+        14761225204,
+        14761232380
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "image",
+      "replace_ids": [
+        17160801158
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 118899310989170
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "replacement_rules": [
+    {
+      "name": "body",
+      "replace_ids": [
+        18522871554
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 126210496105004
+    },
+    {
+      "name": "attack 1",
+      "replace_ids": [
+        130523978733899
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/user-attachments/files/27488932/crystal.katana.attack.1.MP3"
+    },
+    {
+      "name": "attack2",
+      "replace_ids": [
+        130523978733899
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/user-attachments/files/27488936/crystal.katana.attack.2.MP3"
+    },
+    {
+      "name": "equip",
+      "replace_ids": [
+        84837088413827
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 134472359434980
+    },
+    {
+      "name": "deflex",
+      "replace_ids": [
+        84837088413827
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/user-attachments/files/27489162/Crystal.katana.MP3"
+    },
+    {
+      "name": "equip",
+      "replace_ids": [
+        13992707294
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 86296007010026
+    },
+    {
+      "name": "idle",
+      "replace_ids": [
+        13992711211
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 97649815339773
+    },
+    {
+      "name": "sprint",
+      "replace_ids": [
+        13992717984,
+        14069980959
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 113499660048703
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        13992715669
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 80311683206206
+    },
+    {
+      "name": "rare inspecr",
+      "replace_ids": [
+        14411504784
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 83174820488706
+    },
+    {
+      "name": "attack 1",
+      "replace_ids": [
+        13992724397
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 140639286289428
+    },
+    {
+      "name": "attack 2",
+      "replace_ids": [
+        13992729204
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 93640391159216
+    },
+    {
+      "name": "deflex idle",
+      "replace_ids": [
+        14761220206
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 123293403148826
+    },
+    {
+      "name": "deflex1",
+      "replace_ids": [
+        14761234917
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 136354716301184
+    },
+    {
+      "name": "deflex2",
+      "replace_ids": [
+        14761221711
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 120567011479119
+    },
+    {
+      "name": "deflex3",
+      "replace_ids": [
+        14761223422
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 92502373956550
+    },
+    {
+      "name": "deflex4",
+      "replace_ids": [
+        14761225204
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 83541611040586
+    },
+    {
+      "name": "deflex5",
+      "replace_ids": [
+        14761232380
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 92773106977434
+    },
+    {
+      "name": "body",
+      "replace_ids": [
+        13760790008
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 126210496105004
+    },
+    {
+      "name": "attack2",
+      "replace_ids": [
+        14000023392
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/user-attachments/files/27488936/crystal.katana.attack.2.MP3"
+    },
+    {
+      "name": "attack 1",
+      "replace_ids": [
+        14000023581
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/user-attachments/files/27488932/crystal.katana.attack.1.MP3"
+    },
+    {
+      "name": "body",
+      "replace_ids": [
+        13903792316
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 126210496105004
+    },
+    {
+      "name": "no body",
+      "replace_ids": [
+        13760790106,
+        13760790008
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "deflex",
+      "replace_ids": [
+        14798337918
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/user-attachments/files/27489162/Crystal.katana.MP3"
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        18768968241
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 88872493010693
+    }
+  ]
+}

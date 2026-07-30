@@ -1,0 +1,194 @@
+{
+  "replacement_rules": [
+    {
+      "name": "handle",
+      "replace_ids": [
+        13760790008
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/Neru3D/fleasionmodels/refs/heads/main/handle.obj"
+    },
+    {
+      "name": "blade",
+      "replace_ids": [
+        13903792316
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/Neru3D/fleasionmodels/refs/heads/main/blade.obj"
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        13760790106,
+        14000093824
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "equip",
+      "replace_ids": [
+        13992707294
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 77096550681050
+    },
+    {
+      "name": "idle",
+      "replace_ids": [
+        13992711211
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 111194880127618
+    },
+    {
+      "name": "deflect idle",
+      "replace_ids": [
+        14761220206
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 75381142568185
+    },
+    {
+      "name": "attack1",
+      "replace_ids": [
+        13992724397
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 135568679262740
+    },
+    {
+      "name": "attack2",
+      "replace_ids": [
+        13992729204
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 108599900012367
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        13992715669
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 140473852199966
+    },
+    {
+      "name": "inspect rare",
+      "replace_ids": [
+        14411504784
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 130798346363525
+    },
+    {
+      "name": "sprint",
+      "replace_ids": [
+        13992717984,
+        14069980959
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 91275072435820
+    },
+    {
+      "name": "attack1 sfx",
+      "replace_ids": [
+        14000023581
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/Neru3D/fleasionmodels/raw/refs/heads/main/attack1.mp3"
+    },
+    {
+      "name": "attack2 sfx",
+      "replace_ids": [
+        14000023392
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/Neru3D/fleasionmodels/raw/refs/heads/main/attack2.mp3"
+    },
+    {
+      "name": "deflect sfx",
+      "replace_ids": [
+        14798337918
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/Neru3D/fleasionmodels/raw/refs/heads/main/deflect.mp3"
+    },
+    {
+      "name": "ricochet",
+      "replace_ids": [
+        14776437962
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/Neru3D/fleasionmodels/raw/refs/heads/main/ricochet.mp3"
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17160801158
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 136245206320139
+    },
+    {
+      "name": "deflect1",
+      "replace_ids": [
+        14761234917
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 137002111895907
+    },
+    {
+      "name": "deflect2",
+      "replace_ids": [
+        14761221711
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 122933360020674
+    },
+    {
+      "name": "deflect3",
+      "replace_ids": [
+        14761223422
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 84363873883173
+    },
+    {
+      "name": "deflect4",
+      "replace_ids": [
+        14761225204
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 132079943418107
+    },
+    {
+      "name": "deflect5",
+      "replace_ids": [
+        14761232380
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 127119144354477
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "replacement_rules": [
+    {
+      "name": "model",
+      "replace_ids": [
+        13760790008
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/ZZZZ-Duels/rivalsskins/refs/heads/main/saber.obj"
+    },
+    {
+      "name": "bye bye",
+      "replace_ids": [
+        13903792316,
+        13760790106
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Attack 1",
+      "replace_ids": [
+        14000023581
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17640978498
+    },
+    {
+      "name": "Attack 2",
+      "replace_ids": [
+        14000023392
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17640978271
+    },
+    {
+      "name": "Inspect sound",
+      "replace_ids": [
+        14000093824
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 13158735106
+    },
+    {
+      "name": "Inspect rare 1 sound",
+      "replace_ids": [
+        14427935597
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17640978498
+    },
+    {
+      "name": "Inspect rare 2 sound",
+      "replace_ids": [
+        14427782350
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17640978271
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17160801158
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17672062341
+    },
+    {
+      "name": "deflect",
+      "replace_ids": [
+        14798337918
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17641044986
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Azure sword",
+      "replace_ids": [
+        13760790008
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/demianostro-sys/test/refs/heads/main/purple%20sword.obj"
+    },
+    {
+      "name": "meh",
+      "replace_ids": [
+        13903792316,
+        13760790106
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "keytana inspect",
+      "replace_ids": [
+        13158735106,
+        14000093824
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 96253147006478
+    },
+    {
+      "name": "keytana rare inspect",
+      "replace_ids": [
+        14427782350,
+        14000023581,
+        14000023392,
+        14427935597
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 89056031983351
+    },
+    {
+      "name": "keytanan equip",
+      "replace_ids": [
+        13992707294,
+        0
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 89039553556992
+    },
+    {
+      "name": "keytana idle",
+      "replace_ids": [
+        13992711211
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 113213899857455
+    },
+    {
+      "name": "keytana sprint",
+      "replace_ids": [
+        13992717984
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 83206239093454
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        13992715669
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90320152875293
+    },
+    {
+      "name": "inspect rare",
+      "replace_ids": [
+        14411504784
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 99791769251359
+    },
+    {
+      "name": "deflect idle",
+      "replace_ids": [
+        13992729204
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90436105114997
+    },
+    {
+      "name": "deflect 1",
+      "replace_ids": [
+        14761234917
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90797895557136
+    },
+    {
+      "name": "deflect 2",
+      "replace_ids": [
+        14761221711
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 77995180947430
+    },
+    {
+      "name": "deflect 3",
+      "replace_ids": [
+        14761223422
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 111943779640553
+    },
+    {
+      "name": "keytana sprint 2",
+      "replace_ids": [
+        14069980959
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 83206239093454
+    },
+    {
+      "name": "attack 1",
+      "replace_ids": [
+        13992724397
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 128078260433100
+    },
+    {
+      "name": "attack 2",
+      "replace_ids": [
+        13992729204
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 139279839095541
+    },
+    {
+      "name": "dark hit",
+      "replace_ids": [
+        14000023581,
+        14000023392
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 86510987016114
+    },
+    {
+      "name": "deflect sound",
+      "replace_ids": [
+        14798337918,
+        14776414315,
+        14776413989,
+        13158735106,
+        14000023581,
+        13455968853,
+        14000023392
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 116868301514983
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Main",
+      "replace_ids": [
+        13903792316
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/CoconutManYt/skins/refs/heads/main/notwip.obj"
+    },
+    {
+      "name": "Remove",
+      "replace_ids": [
+        13760790008,
+        13760790106
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "image",
+      "replace_ids": [
+        17160801158
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 101234805269080
+    },
+    {
+      "name": "Attack1",
+      "replace_ids": [
+        14000023581
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 134511176124672
+    },
+    {
+      "name": "Attack2",
+      "replace_ids": [
+        14000023392
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 134511176124672
+    }
+  ]
+}

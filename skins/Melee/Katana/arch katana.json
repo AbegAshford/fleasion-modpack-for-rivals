@@ -1,0 +1,267 @@
+{
+  "replacement_rules": [
+    {
+      "name": "archkatana body",
+      "replace_ids": [
+        18522871554
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 89989780248291
+    },
+    {
+      "name": "arch_katana_equip_sound",
+      "replace_ids": [
+        84837088413827
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 118906938239363
+    },
+    {
+      "name": "arch_katana_deflex_idle_sound",
+      "replace_ids": [
+        130523978733899
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 116868301514983
+    },
+    {
+      "name": "no inspect sound",
+      "replace_ids": [
+        137232955524669,
+        13158735106,
+        90310901394527,
+        86510987016114,
+        14427782350,
+        14000023581,
+        108879620126710,
+        118906938239363
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "no lighting bolt inspect sound",
+      "replace_ids": [
+        14000023581,
+        86510987016114,
+        14000023392
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "arch_katana_attack_sound_1",
+      "replace_ids": [
+        130523978733899
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/user-attachments/files/27480404/arch.katana.attack.sound1.MP3"
+    },
+    {
+      "name": "arch_katana_attack_sound_2",
+      "replace_ids": [
+        130523978733899
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/user-attachments/files/27480403/arch.katana.attack.sound.2.MP3"
+    },
+    {
+      "name": "arch_katana_equip",
+      "replace_ids": [
+        13992707294
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 132067233727648
+    },
+    {
+      "name": "arch_katana_idle",
+      "replace_ids": [
+        13992711211
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 121111797899373
+    },
+    {
+      "name": "arch_katana_sprint",
+      "replace_ids": [
+        13992717984,
+        14069980959
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 129559350922104
+    },
+    {
+      "name": "arch_katana_inspect",
+      "replace_ids": [
+        13992715669
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 119980219668284
+    },
+    {
+      "name": "arch_katana_inspect_rare",
+      "replace_ids": [
+        14411504784
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 86021718302540
+    },
+    {
+      "name": "arch_katana_attack_1",
+      "replace_ids": [
+        13992724397
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 74282353959486
+    },
+    {
+      "name": "arch_katana_attack_2",
+      "replace_ids": [
+        13992729204
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 74531272029155
+    },
+    {
+      "name": "arch_katana_deflex_idle",
+      "replace_ids": [
+        14761220206
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 131072510521727
+    },
+    {
+      "name": "no",
+      "replace_ids": [
+        14761240825
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "arch_katana_deflex_1",
+      "replace_ids": [
+        14761234917
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 132022220827223
+    },
+    {
+      "name": "arch_katana_deflex_2",
+      "replace_ids": [
+        14761221711
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 116315405171252
+    },
+    {
+      "name": "arch_katana_deflex_3",
+      "replace_ids": [
+        14761223422
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 110358509711635
+    },
+    {
+      "name": "arch_katana_deflex_4",
+      "replace_ids": [
+        14761225204
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 98242486936084
+    },
+    {
+      "name": "arch_katana_deflex_5",
+      "replace_ids": [
+        14761232380
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 81132288854196
+    },
+    {
+      "name": "no inspect sound",
+      "replace_ids": [
+        13158735106,
+        14000093824,
+        14427782350,
+        14000023581,
+        14000023392,
+        14427935597
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "archkatana body",
+      "replace_ids": [
+        18522871554
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 84653912734449
+    },
+    {
+      "name": "Profile 25",
+      "replace_ids": [
+        13760790106,
+        13760790008
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "arch_katana_attack_sound_1",
+      "replace_ids": [
+        14000023581
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/user-attachments/files/27480404/arch.katana.attack.sound1.MP3"
+    },
+    {
+      "name": "arch_katana_attack_sound_2",
+      "replace_ids": [
+        14000023392
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/user-attachments/files/27480403/arch.katana.attack.sound.2.MP3"
+    },
+    {
+      "name": "arch_katana_deflex_idle_sound",
+      "replace_ids": [
+        14798337918
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 116868301514983
+    },
+    {
+      "name": "archkatana body",
+      "replace_ids": [
+        13903792316
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 84653912734449
+    }
+  ]
+}
