@@ -1,0 +1,53 @@
+{
+  "replacement_rules": [
+    {
+      "name": "byeee",
+      "replace_ids": [
+        12613247490,
+        13189734130,
+        12613246882,
+        12613248825,
+        12613247736,
+        12613248534
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "body",
+      "replace_ids": [
+        12613247082
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://hostforever.org/uploads/1781122730536-aa62205913111aa5-Key%20hand%20gun%20.obj"
+    },
+    {
+      "name": "lower part",
+      "replace_ids": [
+        12613248221
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://hostforever.org/uploads/1781123449757-ee898d5a496b4087-keyhandgunthing.obj"
+    },
+    {
+      "name": "sound",
+      "replace_ids": [
+        13110197302
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://hostforever.org/uploads/1781134870774-2641e5890d824f12-keyhandgun.MP3"
+    },
+    {
+      "name": "image",
+      "replace_ids": [
+        17160801282
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://hostforever.org/uploads/1781207039874-c9fb04b725d8365c-assest.png"
+    }
+  ]
+}

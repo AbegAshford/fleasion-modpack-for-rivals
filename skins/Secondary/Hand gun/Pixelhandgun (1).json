@@ -1,0 +1,186 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Profile 1",
+      "replace_ids": [
+        12613247736
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 2",
+      "replace_ids": [
+        12613247490
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 3",
+      "replace_ids": [
+        12613248534
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 4",
+      "replace_ids": [
+        12613246882
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 6",
+      "replace_ids": [
+        13189734130
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 8",
+      "replace_ids": [
+        12613248825
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "pixel handgun",
+      "replace_ids": [
+        12613247082
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mewierdewier/handgunbody/refs/heads/main/pixel%20gun.obj"
+    },
+    {
+      "name": "pixel img",
+      "replace_ids": [
+        17160801282
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 82199841278177
+    },
+    {
+      "name": "mags",
+      "replace_ids": [
+        12613247957
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mewierdewier/handgunmag/refs/heads/main/pxl%20mag.obj"
+    },
+    {
+      "name": "Profile 10",
+      "replace_ids": [
+        12613248221
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "equip",
+      "replace_ids": [
+        13154853798
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 118752513068339
+    },
+    {
+      "name": "idle",
+      "replace_ids": [
+        13154895356
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 86191621754187
+    },
+    {
+      "name": "sprint",
+      "replace_ids": [
+        13154919676
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 135418483915264
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        13154906500
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 97926404725251
+    },
+    {
+      "name": "shoot1",
+      "replace_ids": [
+        13154881027
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 120234343979123
+    },
+    {
+      "name": "shootfinal",
+      "replace_ids": [
+        13154885740
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 106732170905381
+    },
+    {
+      "name": "reload",
+      "replace_ids": [
+        13154930776
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 127709391114217
+    },
+    {
+      "name": "reloadempty",
+      "replace_ids": [
+        13154926508
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 128342393738851
+    },
+    {
+      "name": "shot",
+      "replace_ids": [
+        13110197220
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17650837861
+    },
+    {
+      "name": "Profile 20",
+      "replace_ids": [
+        13110197302
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17650837861
+    },
+    {
+      "name": "equip2",
+      "replace_ids": [
+        13158610792
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17650837861
+    }
+  ]
+}

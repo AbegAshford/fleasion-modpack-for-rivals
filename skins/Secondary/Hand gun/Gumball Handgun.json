@@ -1,0 +1,63 @@
+{
+  "replacement_rules": [
+    {
+      "name": "remove",
+      "replace_ids": [
+        12613247736,
+        12613247490,
+        12613248534,
+        12613246882,
+        13189734130,
+        12613248825
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "body",
+      "replace_ids": [
+        12613247082
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/bubblehandgunbody.obj"
+    },
+    {
+      "name": "mag",
+      "replace_ids": [
+        12613247957
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/bubblehandgunmag.obj"
+    },
+    {
+      "name": "slides",
+      "replace_ids": [
+        12613248221
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/bubblehandgunslide.obj"
+    },
+    {
+      "name": "replace image",
+      "replace_ids": [
+        17160801282
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 106890990556815
+    },
+    {
+      "name": "Sounds",
+      "replace_ids": [
+        13110197302,
+        13110197220
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/main/handgumballshoot.mp3"
+    }
+  ]
+}

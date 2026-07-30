@@ -1,0 +1,58 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Remove",
+      "replace_ids": [
+        12613248825
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Barrel",
+      "replace_ids": [
+        12613247736
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rin3zo/fleasion/raw/main/BarrelPT1.obj"
+    },
+    {
+      "name": "Sight",
+      "replace_ids": [
+        13189734130
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rin3zo/fleasion/raw/main/Sight.obj"
+    },
+    {
+      "name": "Thingy",
+      "replace_ids": [
+        12613246882
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rin3zo/fleasion/raw/main/ThingThingThingy.obj"
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17160801282
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 124919185835138
+    },
+    {
+      "name": "Shoot",
+      "replace_ids": [
+        13110197302,
+        13110197220
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 108185335541864
+    }
+  ]
+}
