@@ -1,0 +1,57 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body",
+      "replace_ids": [
+        13753170814
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cmhoops/cryo/refs/heads/main/cryo4.obj"
+    },
+    {
+      "name": "REMOVE",
+      "replace_ids": [
+        13753170893
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17160800186
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 119930754357379
+    },
+    {
+      "name": "attack1",
+      "replace_ids": [
+        14111617408
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 101947200611951
+    },
+    {
+      "name": "attack2",
+      "replace_ids": [
+        14111617269
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 75229437160477
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        13158735106
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 87530961030230
+    }
+  ]
+}

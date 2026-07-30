@@ -1,0 +1,48 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body",
+      "replace_ids": [
+        13753170814
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/LSDatSfG/FLEASION-STUFF/raw/main/bugnet%20final.obj"
+    },
+    {
+      "name": "Blade",
+      "replace_ids": [
+        13753170893
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Attack1",
+      "replace_ids": [
+        14111617408
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 112262347612742
+    },
+    {
+      "name": "Attack2",
+      "replace_ids": [
+        14111617269
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 88326684922300
+    },
+    {
+      "name": "Image",
+      "replace_ids": [
+        17160800186
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 115620701626004
+    }
+  ]
+}

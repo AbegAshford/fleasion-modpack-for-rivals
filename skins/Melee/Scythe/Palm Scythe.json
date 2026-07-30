@@ -1,0 +1,58 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body",
+      "replace_ids": [
+        13753170814
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/PalmScytheHandle.obj"
+    },
+    {
+      "name": "Blade",
+      "replace_ids": [
+        13753170893
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/PalmScytheBladeh.obj"
+    },
+    {
+      "name": "Attack1",
+      "replace_ids": [
+        14111617408
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/main/PalmScytheAttack1.mp3"
+    },
+    {
+      "name": "Attack2",
+      "replace_ids": [
+        14111617269
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/main/PalmScytheAttack2.mp3"
+    },
+    {
+      "name": "Image",
+      "replace_ids": [
+        17160800186
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 97379805071194
+    },
+    {
+      "name": "Dash",
+      "replace_ids": [
+        16492958314
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/main/PalmScytheDash.mp3"
+    }
+  ]
+}

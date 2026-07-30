@@ -1,0 +1,31 @@
+{
+  "replacement_rules": [
+    {
+      "name": "\\",
+      "replace_ids": [
+        13753170893
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "replace",
+      "replace_ids": [
+        13753170814
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/corndogonasunday/custom-scythe/refs/heads/main/please.obj"
+    },
+    {
+      "name": "new sound",
+      "replace_ids": [
+        14111617408,
+        14111617269
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/corndogonasunday/custom-scythe/raw/refs/heads/main/scythe%20new%20sound.ogghttps://github.com/corndogonasunday/custom-scythe/raw/refs/heads/main/scythe%20new%20sound.ogg"
+    }
+  ]
+}

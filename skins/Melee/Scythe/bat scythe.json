@@ -1,0 +1,48 @@
+{
+  "replacement_rules": [
+    {
+      "name": "image",
+      "replace_ids": [
+        17160800186
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 131711174838548
+    },
+    {
+      "name": "blade",
+      "replace_ids": [
+        13753170893
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "handle",
+      "replace_ids": [
+        13753170814
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/Nemuwhatareudoing/FLEASION/raw/main/xxxxxxxxxxxxx.obj"
+    },
+    {
+      "name": "attack1",
+      "replace_ids": [
+        14111617408
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/Nemuwhatareudoing/FLEASION/raw/main/scythe1final%20(1).mp3"
+    },
+    {
+      "name": "attack2",
+      "replace_ids": [
+        14111617269
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/Nemuwhatareudoing/FLEASION/raw/main/scythe2final%20(1).mp3"
+    }
+  ]
+}

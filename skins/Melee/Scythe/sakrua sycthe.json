@@ -1,0 +1,58 @@
+{
+  "replacement_rules": [
+    {
+      "name": "body",
+      "replace_ids": [
+        13753170814
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 109749587275758
+    },
+    {
+      "name": "blade",
+      "replace_ids": [
+        13753170893
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 99139197269342
+    },
+    {
+      "name": "blade v2",
+      "replace_ids": [
+        13753170893
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 114562210896715
+    },
+    {
+      "name": "yelloww",
+      "replace_ids": [
+        124796745676624
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 77711083770356
+    },
+    {
+      "name": "sound",
+      "replace_ids": [
+        14111617408
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 92508229482425
+    },
+    {
+      "name": "asset replace",
+      "replace_ids": [
+        17160800186
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 133811689655966
+    }
+  ]
+}

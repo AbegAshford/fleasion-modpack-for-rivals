@@ -1,0 +1,49 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Scythe > Keythe (Body)",
+      "replace_ids": [
+        13753170814
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/LSDatSfG/FLEASION-STUFF/raw/main/keythe%20over%20default%20scythe.obj"
+    },
+    {
+      "name": "Scythe > Keythe (Others)",
+      "replace_ids": [
+        13753170893
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 114560926055433
+    },
+    {
+      "name": "Scythe > Keythe (Image)",
+      "replace_ids": [
+        17160800186
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 114560926055433
+    },
+    {
+      "name": "Attack1",
+      "replace_ids": [
+        14111617408
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/LSDatSfG/FLEASION-STUFF/raw/main/7522.mp3"
+    },
+    {
+      "name": "Attack2",
+      "replace_ids": [
+        14111617269
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/LSDatSfG/FLEASION-STUFF/raw/main/101.mp3"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body",
+      "replace_ids": [
+        13753170814
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/CoconutManYt/skins/refs/heads/main/cryst.obj"
+    },
+    {
+      "name": "blade",
+      "replace_ids": [
+        13753170893
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Attack1",
+      "replace_ids": [
+        14111617408
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 118748685078128
+    },
+    {
+      "name": "attack2",
+      "replace_ids": [
+        14111617269
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 118748685078128
+    },
+    {
+      "name": "Equip Animation",
+      "replace_ids": [
+        14138291124
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 121781045768080
+    },
+    {
+      "name": "Inspect Animtion",
+      "replace_ids": [
+        14098254579
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 94820576007871
+    },
+    {
+      "name": "Attack1 Animation",
+      "replace_ids": [
+        14098261698
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 82483342316178
+    },
+    {
+      "name": "Attack2 Animation",
+      "replace_ids": [
+        14098268759
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 104468717779359
+    },
+    {
+      "name": "image",
+      "replace_ids": [
+        17160800186
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 73971549402646
+    }
+  ]
+}
