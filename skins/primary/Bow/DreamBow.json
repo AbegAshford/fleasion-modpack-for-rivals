@@ -1,0 +1,72 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Remove",
+      "replace_ids": [
+        13529971767,
+        13529971708,
+        13529971513,
+        13529971391
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Body",
+      "replace_ids": [
+        13529971624
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/DreamBow/refs/heads/main/BodyDreamBow14.obj"
+    },
+    {
+      "name": "Arrow",
+      "replace_ids": [
+        13529971872
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/DreamBow/refs/heads/main/ArrowDreamBow16.obj"
+    },
+    {
+      "name": "ShootSound",
+      "replace_ids": [
+        13677205703
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 82249006680828
+    },
+    {
+      "name": "ChargeReleaseSound",
+      "replace_ids": [
+        13677205578,
+        13677205647,
+        13677205703
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 82249006680828
+    },
+    {
+      "name": "EquipSound",
+      "replace_ids": [
+        13682183816
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 84897543898396
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        13717212331,
+        17160802080
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 101089313144218
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "replacement_rules": [
+    {
+      "name": "good body",
+      "replace_ids": [
+        13529971624
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/Karee/Downloads/frostbite body (1).obj"
+    },
+    {
+      "name": "goood",
+      "replace_ids": [
+        13529971872
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/Karee/Downloads/frostbite arrow (1).obj"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "replacement_rules": [
+    {
+      "name": "mincraftbow",
+      "replace_ids": [
+        13529971624
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "D:/random files/fleasion files/skin model/minecraftbow.obj"
+    },
+    {
+      "name": "makes invis",
+      "replace_ids": [
+        13529971767
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "makes invis",
+      "replace_ids": [
+        13529971708
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "minecraft arrow",
+      "replace_ids": [
+        13529971872
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "D:/Users/Lenovo/Downloads/minecraftarrow.obj"
+    },
+    {
+      "name": "meh",
+      "replace_ids": [
+        13529971513
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "meh",
+      "replace_ids": [
+        13529971391
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "bow shoot",
+      "replace_ids": [
+        13677205647,
+        13677205578,
+        13677205703
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 92954227115711
+    }
+  ]
+}

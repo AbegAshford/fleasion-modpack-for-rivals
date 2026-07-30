@@ -1,0 +1,112 @@
+{
+  "replacement_rules": [
+    {
+      "name": "remove",
+      "replace_ids": [
+        13529971391,
+        13529971513
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "arrow replace",
+      "replace_ids": [
+        13529971872
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/ARROW8.obj"
+    },
+    {
+      "name": "keybow body",
+      "replace_ids": [
+        13529971767
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/body13.obj"
+    },
+    {
+      "name": "keybow top arm",
+      "replace_ids": [
+        13529971624
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keybowtop9.obj"
+    },
+    {
+      "name": "keybow bottom arm",
+      "replace_ids": [
+        13529971708
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keybowbottom3.obj"
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        13642509258
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 139932086040651
+    },
+    {
+      "name": "asset replace",
+      "replace_ids": [
+        17160802080
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 122525140091212
+    },
+    {
+      "name": "chargesound",
+      "replace_ids": [
+        13682532502
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 96253147006478
+    },
+    {
+      "name": "equipsound",
+      "replace_ids": [
+        13682183816
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 100664516053133
+    },
+    {
+      "name": "keybow shoot1",
+      "replace_ids": [
+        13677205703
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keybow1.mp3"
+    },
+    {
+      "name": "keybow shoot2",
+      "replace_ids": [
+        13677205578
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keybow2.mp3"
+    },
+    {
+      "name": "keybow shoot3",
+      "replace_ids": [
+        13677205647
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keybow3.mp3"
+    }
+  ]
+}

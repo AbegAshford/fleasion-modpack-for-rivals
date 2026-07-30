@@ -1,0 +1,108 @@
+{
+  "replacement_rules": [
+    {
+      "name": "remove",
+      "replace_ids": [
+        13529971391,
+        13529971513
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "arrow replace",
+      "replace_ids": [
+        13529971872
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/rythmplayzyt/so-meshed-up/refs/heads/main/bigsahur.obj"
+    },
+    {
+      "name": "keybow body",
+      "replace_ids": [
+        13529971767
+      ],
+      "mode": "cdn",
+      "enabled": true
+    },
+    {
+      "name": "keybow top arm",
+      "replace_ids": [
+        13529971624
+      ],
+      "mode": "cdn",
+      "enabled": true
+    },
+    {
+      "name": "keybow bottom arm",
+      "replace_ids": [
+        13529971708
+      ],
+      "mode": "cdn",
+      "enabled": true
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        13642509258
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 139932086040651
+    },
+    {
+      "name": "asset replace",
+      "replace_ids": [
+        17160802080
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/rythmplayzyt/so-meshed-up/refs/heads/main/tungasset.png"
+    },
+    {
+      "name": "chargesound",
+      "replace_ids": [
+        13682532502
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 103185549195508
+    },
+    {
+      "name": "equipsound",
+      "replace_ids": [
+        13682183816
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "keybow shoot1",
+      "replace_ids": [
+        13677205703
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/bonk.oga"
+    },
+    {
+      "name": "keybow shoot2",
+      "replace_ids": [
+        13677205578
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/bonk.oga"
+    },
+    {
+      "name": "keybow shoot3",
+      "replace_ids": [
+        13677205647
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/bonk.oga"
+    }
+  ]
+}
