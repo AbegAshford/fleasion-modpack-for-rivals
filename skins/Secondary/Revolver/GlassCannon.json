@@ -1,0 +1,58 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Remove",
+      "replace_ids": [
+        14002774305,
+        14242054178,
+        14241791573,
+        14241791734,
+        14242054035,
+        14002774206,
+        14241792580
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Body",
+      "replace_ids": [
+        14002831630
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/GlassCannon3.obj"
+    },
+    {
+      "name": "KillIcon",
+      "replace_ids": [
+        122164679882999
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 109359544961471
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17160800299,
+        14020829500
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 82999887306387
+    },
+    {
+      "name": "ShootSound",
+      "replace_ids": [
+        14417089046,
+        14417089152,
+        14417088974,
+        14417089307
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 134885549628226
+    }
+  ]
+}

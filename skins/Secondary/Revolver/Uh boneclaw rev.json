@@ -1,0 +1,93 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body1",
+      "replace_ids": [
+        14002831630
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/BodyrevBoneclaw6.obj"
+    },
+    {
+      "name": "Body2",
+      "replace_ids": [
+        14002774305
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/Bones12.obj"
+    },
+    {
+      "name": "Body3",
+      "replace_ids": [
+        14242054178
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Bullets",
+      "replace_ids": [
+        14241791573,
+        14241791734
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14241791573
+    },
+    {
+      "name": "Hammer",
+      "replace_ids": [
+        14002774206
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90046100775431
+    },
+    {
+      "name": "BulletHolder",
+      "replace_ids": [
+        14241792580
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 82313533752180
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17160800299,
+        14020829500
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 119174697609264
+    },
+    {
+      "name": "Chamber",
+      "replace_ids": [
+        14242054035
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/BoneclawChamber1.obj"
+    },
+    {
+      "name": "shoot and quickshoot",
+      "replace_ids": [
+        14417089046,
+        14417089152,
+        14417088974,
+        14417089307,
+        14417089046,
+        14417089152,
+        14417088974,
+        14417089307
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/main/boneclawrevshoot.mp3"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "replacement_rules": [
+    {
+      "name": "remove",
+      "replace_ids": [
+        14002774305,
+        14242054178,
+        14241792580,
+        14241791573,
+        14241791734
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "key rev body",
+      "replace_ids": [
+        14002831630
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 71757768887469
+    },
+    {
+      "name": "keyrev barrel",
+      "replace_ids": [
+        14242054035
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/barrel6.obj"
+    },
+    {
+      "name": "keyrev hammer",
+      "replace_ids": [
+        14002774206
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 72365787510539
+    },
+    {
+      "name": "keyrev side thing",
+      "replace_ids": [
+        14241792580
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 71037111270649
+    },
+    {
+      "name": "keyrev inspect",
+      "replace_ids": [
+        14240489357
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 135350552290102
+    },
+    {
+      "name": "keyrev equip",
+      "replace_ids": [
+        14240512707
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 84138589142138
+    },
+    {
+      "name": "keyrev idle",
+      "replace_ids": [
+        14240522872
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 91577443060643
+    },
+    {
+      "name": "keyrev shoot1",
+      "replace_ids": [
+        14240539145
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 122075161812586
+    },
+    {
+      "name": "keyrev normal reload",
+      "replace_ids": [
+        14240528877
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 76088917064213
+    },
+    {
+      "name": "keyrev empty reload",
+      "replace_ids": [
+        16044334617
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 125324249312147
+    },
+    {
+      "name": "keyrev quickshot",
+      "replace_ids": [
+        17279511949
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 77315821032705
+    },
+    {
+      "name": "keyrev shoot sound",
+      "replace_ids": [
+        14417089307,
+        14417089152,
+        14417088974,
+        14417089046
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/key%20rev%20shoot6.mp3"
+    },
+    {
+      "name": "asset replace",
+      "replace_ids": [
+        17160800299
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 87974031410344
+    }
+  ]
+}
