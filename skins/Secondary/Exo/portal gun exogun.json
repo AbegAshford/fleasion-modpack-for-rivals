@@ -1,0 +1,85 @@
+{
+  "replacement_rules": [
+    {
+      "name": "base",
+      "replace_ids": [
+        17249768747
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/serioustemmie/FleasionSkins/raw/refs/heads/main/Exo%20Gun%20-%20Portal%20Gun/base.obj"
+    },
+    {
+      "name": "handle",
+      "replace_ids": [
+        17249768836
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/serioustemmie/FleasionSkins/raw/refs/heads/main/Exo%20Gun%20-%20Portal%20Gun/handle.obj"
+    },
+    {
+      "name": "neonpart",
+      "replace_ids": [
+        17249769058
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "shoot",
+      "replace_ids": [
+        17266070755
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/serioustemmie/FleasionSkins/raw/refs/heads/main/Exo%20Gun%20-%20Portal%20Gun/shoot.mp3"
+    },
+    {
+      "name": "equip",
+      "replace_ids": [
+        17266071099
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/serioustemmie/FleasionSkins/raw/refs/heads/main/Exo%20Gun%20-%20Portal%20Gun/equip.mp3"
+    },
+    {
+      "name": "reload",
+      "replace_ids": [
+        17266070911
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/serioustemmie/FleasionSkins/raw/refs/heads/main/Exo%20Gun%20-%20Portal%20Gun/reloadsound.mp3"
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        13158735106
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/serioustemmie/FleasionSkins/raw/refs/heads/main/Exo%20Gun%20-%20Portal%20Gun/inspect.mp3"
+    },
+    {
+      "name": "equip anim",
+      "replace_ids": [
+        17265973154
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 136448352154525
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17344796376,
+        17344797370
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/serioustemmie/FleasionSkins/blob/main/Exo%20Gun%20-%20Portal%20Gun/iconn.png?raw=true"
+    }
+  ]
+}

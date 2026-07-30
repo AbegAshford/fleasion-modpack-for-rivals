@@ -1,0 +1,34 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Remove",
+      "replace_ids": [
+        17249769058,
+        17249768836,
+        17249769159,
+        17249768962
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Body",
+      "replace_ids": [
+        17249768747
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/Midnightexo1.obj"
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17344796376,
+        17344797370
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 127612442529810
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Remove",
+      "replace_ids": [
+        17249769058,
+        17249768836,
+        17249769159,
+        17249768962
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Body",
+      "replace_ids": [
+        17249768747
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/ZZZZ-Duels/rivalsskins/refs/heads/main/tst2.obj"
+   },
+    {
+      "name": "shoot",
+      "replace_ids": [
+        17245106793
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/ZZZZ-Duels/rivalsskins/refs/heads/main/0628.mp3"
+    },
+    {
+      "name": "reload",
+      "replace_ids": [
+        17266070911
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 121938614359106
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17344796376,
+        17344797370
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 77698515863000
+    }
+  ]
+}

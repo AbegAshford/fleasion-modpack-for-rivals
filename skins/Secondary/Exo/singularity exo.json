@@ -1,0 +1,81 @@
+{
+  "replacement_rules": [
+    {
+      "name": "remove",
+      "replace_ids": [
+        17249769058,
+        17249769159,
+        17249768962
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "singularitybody",
+      "replace_ids": [
+        17249768747
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/greendesign323232/rivals-singualrity/refs/heads/main/singularitybody.obj"
+    },
+    {
+      "name": "singularityblackthing",
+      "replace_ids": [
+        17249768836
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/greendesign323232/rivals-singualrity/refs/heads/main/singularitybody2.obj"
+    },
+    {
+      "name": "reload",
+      "replace_ids": [
+        80245415527547,
+        86450952337176,
+        94519339983000,
+        17266070911
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17672502879
+    },
+    {
+      "name": "shoot",
+      "replace_ids": [
+        85840257279125,
+        93945588254405,
+        17266070755
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17672502566
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17344796376
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17676876756
+    },
+    {
+      "name": "remove more",
+      "replace_ids": [
+        17245106793
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "equip sound",
+      "replace_ids": [
+        17266071099
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17672502716
+    }
+  ]
+}
