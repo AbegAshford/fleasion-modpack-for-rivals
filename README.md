@@ -7,8 +7,26 @@
 [![Made for Fleasion](https://img.shields.io/badge/made%20for-Fleasion-6f42c1)](https://github.com/fleasion/Fleasion)
 [![Game](https://img.shields.io/badge/game-Rivals-blue)]()
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)]()
+
+![Weapon Skins](https://img.shields.io/badge/weapon%20skins-84-orange)
+![Textures](https://img.shields.io/badge/textures-10-lightgrey)
+![Skyboxes](https://img.shields.io/badge/skyboxes-7-87CEEB)
+![Sounds](https://img.shields.io/badge/kill%20%26%20hit%20sounds-5-red)
 
 </div>
+
+---
+
+### 📋 Table of Contents
+
+- [🖼️ Texture Pack](#️-texture-pack)
+- [☁️ Skyboxes](#️-skyboxes)
+- [🔫 Weapon Skins](#-weapon-skins) — Primary · Secondary · Melee · Utility
+- [🎁 Wraps](#-wraps)
+- [🔊 Kill & Hit Sounds](#-kill--hit-sounds)
+- [🚀 How to Use](#-how-to-use)
+- [📌 Others](#-others)
 
 ---
 
@@ -116,7 +134,7 @@ Click on the sky you want to download.
 
 </div>
 
-**More skyboxes (no preview image yet):** [Classic Skybox](sky/Classic%20Skybox.json) • [Purple SkyBox](sky/Purple%20SkyBox.json) • [purple sky](sky/purple%20sky.json) • [monochrome sky](sky/monochrome%20sky.json) • [skies (all-in-one)](sky/skies.json) • [sky all maps rivals](sky/sky%20all%20maps%20rivals.json)
+**More (no preview yet):** [sky all maps rivals](sky/sky%20all%20maps%20rivals.json)
 
 ---
 
@@ -212,10 +230,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </div>
 
 
-  **More (no preview yet):** 
-[minecraft bow](skins/primary/Bow/minecraft%20bow.json) • [tungbow](skins/primary/Bow/tungbow.json)
-
-
 
   ### Burst Rifle
 
@@ -258,14 +272,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </div>
 
 
-  ### GunBlade
-
-
-  **More (no preview yet):** 
-[cool gunblade (Custom)](skins/primary/GunBlade/cool%20gunblade%20%28Custom%29.json)
-
-
-
   ### Minigun
 
 
@@ -282,10 +288,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </tr>
   </table>
   </div>
-
-
-  **More (no preview yet):** 
-[plane](skins/primary/Minigun/plane.json)
 
 
 
@@ -305,10 +307,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </tr>
   </table>
   </div>
-
-
-  **More (no preview yet):** 
-[paintkey](skins/primary/Paintball/paintkey.json)
 
 
 
@@ -386,10 +384,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </div>
 
 
-  **More (no preview yet):** 
-[Pixel_Keyper](skins/primary/Sniper/Pixel_Keyper.json)
-
-
 
 </details>
 
@@ -428,10 +422,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </tr>
   </table>
   </div>
-
-
-  **More (no preview yet):** 
-[arch daggers](skins/Secondary/Daggers/arch%20daggers.json) • [tungdag](skins/Secondary/Daggers/tungdag.json)
 
 
 
@@ -491,10 +481,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </div>
 
 
-  **More (no preview yet):** 
-[portal gun exogun](skins/Secondary/Exo/portal%20gun%20exogun.json)
-
-
 
   ### Hand gun
 
@@ -524,10 +510,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </div>
 
 
-  **More (no preview yet):** 
-[key handgun](skins/Secondary/Hand%20gun/key%20handgun.json)
-
-
 
   ### Revolver
 
@@ -550,18 +532,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </tr>
   </table>
   </div>
-
-
-  **More (no preview yet):** 
-[GlassCannon](skins/Secondary/Revolver/GlassCannon.json)
-
-
-
-  ### Slingshot
-
-
-  **More (no preview yet):** 
-[key sling over normal sling](skins/Secondary/Slingshot/key%20sling%20over%20normal%20sling.json)
 
 
 
@@ -604,10 +574,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </tr>
   </table>
   </div>
-
-
-  **More (no preview yet):** 
-[archuzi](skins/Secondary/Uzi/archuzi.json)
 
 
 
@@ -681,10 +647,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </div>
 
 
-  **More (no preview yet):** 
-[emo punk arm](skins/Melee/Fist/emo%20punk%20arm.json)
-
-
 
   ### Katana
 
@@ -730,10 +692,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </tr>
   </table>
   </div>
-
-
-  **More (no preview yet):** 
-[Devil's trident katana](skins/Melee/Katana/Devil%27s%20trident%20katana.json) • [azure sword katana (custom)](skins/Melee/Katana/azure%20sword%20katana%20%28custom%29.json)
 
 
 
@@ -783,10 +741,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </div>
 
 
-  **More (no preview yet):** 
-[Diamond Sword knife (custom)](skins/Melee/Knife/Diamond%20Sword%20knife%20%28custom%29.json) • [glast shard knife](skins/Melee/Knife/glast%20shard%20knife.json) • [tungknif](skins/Melee/Knife/tungknif.json)
-
-
 
   ### Maul
 
@@ -822,10 +776,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </tr>
   </table>
   </div>
-
-
-  **More (no preview yet):** 
-[Invis riot](skins/Melee/Riot/Invis%20riot.json)
 
 
 
@@ -885,18 +835,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </div>
 
 
-  **More (no preview yet):** 
-[scythe test](skins/Melee/Scythe/scythe%20test.json)
-
-
-
-  ### Spear
-
-
-  **More (no preview yet):** 
-[Pencel](skins/Melee/Spear/Pencel.json)
-
-
 
 </details>
 
@@ -932,10 +870,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </div>
 
 
-  **More (no preview yet):** 
-[dyna](skins/utility/Greanade/dyna.json) • [pumpkin nade](skins/utility/Greanade/pumpkin%20nade.json)
-
-
 
   ### Jumppad
 
@@ -953,14 +887,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </tr>
   </table>
   </div>
-
-
-  ### Medkit
-
-
-  **More (no preview yet):** 
-[KEYKIT](skins/utility/Medkit/KEYKIT.json)
-
 
 
   ### Mototv
@@ -1009,10 +935,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </div>
 
 
-  **More (no preview yet):** 
-[Keychel (custom)](skins/utility/Satchel/Keychel%20%28custom%29.json) • [tungsat](skins/utility/Satchel/tungsat.json)
-
-
 
   ### WarHorn
 
@@ -1050,14 +972,6 @@ Click a weapon category to expand it — every skin in that category shows as a 
   </tr>
   </table>
   </div>
-
-
-  ### Warpstone
-
-
-  **More (no preview yet):** 
-[EnderPearl (1)](skins/utility/Warpstone/EnderPearl%20%281%29.json)
-
 
 
   ### subspacetripmine
@@ -1110,12 +1024,14 @@ Find them all in [`Kill and hit sound/`](Kill%20and%20hit%20sound).
 
 ---
 
-## 🚀 How to use
+## 🚀 How to Use
 
-1. Install [Fleasion](https://github.com/fleasion/Fleasion) (Windows, macOS, and Linux/Sober are all supported).
-2. Download the configs you want.
-3. Open Fleasion then click on open config it will bring you to config files then paste/move all downloaded config here.
-4. go back to Fleasion click on [enabled] active the config you want to use.
+| Step | What to do |
+|:---:|---|
+| 1️⃣ | Install [Fleasion](https://github.com/fleasion/Fleasion) — Windows, macOS, and Linux/Sober are all supported. |
+| 2️⃣ | Download the config(s) you want from this repo. |
+| 3️⃣ | Open Fleasion → **Open Config** — this opens your config folder. Paste/move the downloaded file(s) there. |
+| 4️⃣ | Back in Fleasion, click **Enable** on the config to activate it. |
 
 
 ---
