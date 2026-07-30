@@ -21,6 +21,8 @@ This repository is a collection of [Fleasion](https://github.com/fleasion/Fleasi
 | 🖼️ Textures | [`texture/`](texture) | Full arena texture overhauls (see previews below) |
 | 🔫 Primary skins | [`skins/primary/`](skins/primary) | Assault Rifle, Burst Rifle, Sniper, Shotgun, Bow, Crossbow, Minigun, RPG, Paintball, GunBlade |
 | 🔪 Secondary skins | [`skins/Secondary/`](skins/Secondary) | Handgun, Revolver, Uzi, Daggers, Energy Pistols, Exo, Slingshot, Spray |
+| ⚔️ Melee skins | [`skins/Melee/`](skins/Melee) | Katana, Knife, Scythe, Fist, Chainsaw, Spear, Maul, Battle Axe, Riot |
+| 🎒 Utility skins | [`skins/utility/`](skins/utility) | Grenade, Medkit, Satchel, WarHorn, Jumppad, Warpstone, Molotov, Trip Mine |
 | ☁️ Skyboxes | [`sky/`](sky) | 12 custom skyboxes (Heaven, Jungle, Purple, Pink, Cloudy, Monochrome, Realistic, and more) |
 | 🔊 Kill & hit sounds | [`Kill and hit sound/`](Kill%20and%20hit%20sound) | Custom hit markers, headshot, and kill confirmation sounds |
 | 🎁 Wraps | [`Wrap (only for bubble wrap)/`](Wrap%20(only%20for%20bubble%20wrap)) | Bubble wrap skins (Glass, Cherry Blossom) |
@@ -31,52 +33,62 @@ This repository is a collection of [Fleasion](https://github.com/fleasion/Fleasi
 
 Click any preview image to open its matching Fleasion config file — not the image, and not the `preview/` folder.
 
+<div align="center">
+
 <table>
 <tr>
-<td align="center" width="20%">
-<a href="texture/3-f%20textures.json"><img src="preview/3-f%20textures.png" width="180"/></a><br/>
+<td align="center" width="50%">
+<a href="texture/3-f%20textures.json"><img src="preview/3-f%20textures.png" width="320"/></a><br/>
 <sub><b>3-F Textures</b></sub>
 </td>
-<td align="center" width="20%">
-<a href="texture/DETERMINATION%20textures.json"><img src="preview/DETERMINATION%20textures.png" width="180"/></a><br/>
+<td align="center" width="50%">
+<a href="texture/DETERMINATION%20textures.json"><img src="preview/DETERMINATION%20textures.png" width="320"/></a><br/>
 <sub><b>DETERMINATION Textures</b></sub>
-</td>
-<td align="center" width="20%">
-<a href="texture/Gray%20arena%20textures.json"><img src="preview/gray%20arena%20textures.png" width="180"/></a><br/>
-<sub><b>Gray Arena Textures</b></sub>
-</td>
-<td align="center" width="20%">
-<a href="texture/hella%20expensive%20wall%20textures.json"><img src="preview/hella%20expensive%20wall%20textures.png" width="180"/></a><br/>
-<sub><b>Hella Expensive Wall Textures</b></sub>
-</td>
-<td align="center" width="20%">
-<a href="texture/Minecraft%20textures.json"><img src="preview/minecraft%20textures.png" width="180"/></a><br/>
-<sub><b>Minecraft Textures</b></sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<a href="texture/Mirc's%20textures.json"><img src="preview/mirc's%20textures.png" width="180"/></a><br/>
-<sub><b>Mirc's Textures</b></sub>
+<a href="texture/Gray%20arena%20textures.json"><img src="preview/gray%20arena%20textures.png" width="320"/></a><br/>
+<sub><b>Gray Arena Textures</b></sub>
 </td>
 <td align="center">
-<a href="texture/no%20textures.json"><img src="preview/no%20textures.png" width="180"/></a><br/>
+<a href="texture/hella%20expensive%20wall%20textures.json"><img src="preview/hella%20expensive%20wall%20textures.png" width="320"/></a><br/>
+<sub><b>Hella Expensive Wall Textures</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="texture/Minecraft%20textures.json"><img src="preview/minecraft%20textures.png" width="320"/></a><br/>
+<sub><b>Minecraft Textures</b></sub>
+</td>
+<td align="center">
+<a href="texture/Mirc's%20textures.json"><img src="preview/mirc's%20textures.png" width="320"/></a><br/>
+<sub><b>Mirc's Textures</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="texture/no%20textures.json"><img src="preview/no%20textures.png" width="320"/></a><br/>
 <sub><b>No Textures</b></sub>
 </td>
 <td align="center">
-<a href="texture/scribble%20textures.json"><img src="preview/scrible%20textures.png" width="180"/></a><br/>
+<a href="texture/scribble%20textures.json"><img src="preview/scrible%20textures.png" width="320"/></a><br/>
 <sub><b>Scribble Textures</b></sub>
 </td>
+</tr>
+<tr>
 <td align="center">
-<a href="texture/teal%20pattern%20arena%20textures.json"><img src="preview/teal%20pattern%20textures.png" width="180"/></a><br/>
+<a href="texture/teal%20pattern%20arena%20textures.json"><img src="preview/teal%20pattern%20textures.png" width="320"/></a><br/>
 <sub><b>Teal Pattern Arena Textures</b></sub>
 </td>
 <td align="center">
-<a href="texture/Tism%20textures.json"><img src="preview/trism%20textures(pack).png" width="180"/></a><br/>
+<a href="texture/Tism%20textures.json"><img src="preview/trism%20textures(pack).png" width="320"/></a><br/>
 <sub><b>Tism Textures (Pack)</b></sub>
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -120,6 +132,35 @@ Since some rules point at local files on the original creator's machine, double-
 - Slingshot
 - Spray
 - Uzi
+
+</details>
+
+<details>
+<summary><b>Melee</b></summary>
+
+- Battle Axe
+- Chainsaw
+- Fist
+- Katana
+- Knife
+- Maul
+- Riot
+- Scythe
+- Spear
+
+</details>
+
+<details>
+<summary><b>Utility</b></summary>
+
+- Grenade
+- Jumppad
+- Medkit
+- Molotov
+- Satchel
+- Trip Mine
+- WarHorn
+- Warpstone
 
 </details>
 
