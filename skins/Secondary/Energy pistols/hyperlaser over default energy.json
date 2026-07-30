@@ -1,0 +1,58 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body",
+      "replace_ids": [
+        76498680461166
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/ZZZZ-Duels/rivalsskins/refs/heads/main/hyperlaser.obj"
+    },
+    {
+      "name": "Remove",
+      "replace_ids": [
+        107629380251948,
+        121773130321415
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        79471670126710,
+        125338509278840
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 106947526362970
+    },
+    {
+      "name": "Shootsound",
+      "replace_ids": [
+        120386834342865
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 130113322
+    },
+    {
+      "name": "Equip",
+      "replace_ids": [
+        13456860578
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 130113370
+    },
+    {
+      "name": "Removesoundequip",
+      "replace_ids": [
+        13483008798
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}

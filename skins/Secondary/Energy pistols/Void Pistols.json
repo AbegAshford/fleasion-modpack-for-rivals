@@ -1,0 +1,67 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body",
+      "replace_ids": [
+        76498680461166
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/Voidpistol1.obj"
+    },
+    {
+      "name": "Remove",
+      "replace_ids": [
+        107629380251948,
+        121773130321415
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        79471670126710,
+        125338509278840
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 111278471262300
+    },
+    {
+      "name": "Shootsound",
+      "replace_ids": [
+        120386834342865
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 94684661380385
+    },
+    {
+      "name": "Equip",
+      "replace_ids": [
+        13456860578
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 112097244349559
+    },
+    {
+      "name": "Removesoundequip",
+      "replace_ids": [
+        13483008798
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Rotatingspinninginspectsoundidk",
+      "replace_ids": [
+        13456860578
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 112097244349559
+    }
+  ]
+}
