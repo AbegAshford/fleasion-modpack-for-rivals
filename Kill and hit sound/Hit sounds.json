@@ -1,0 +1,23 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body hit sound",
+      "replace_ids": [
+        13110130082
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18874786194
+    },
+    {
+      "name": "Headshot sound",
+      "replace_ids": [
+        16537337310,
+        16537449730
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/sounds/critical.mp3"
+    }
+  ]
+}

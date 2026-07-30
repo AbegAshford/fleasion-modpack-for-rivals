@@ -1,0 +1,15 @@
+{
+  "replacement_rules": [
+    {
+      "name": "NORMAL KILL MEOW",
+      "replace_ids": [
+        16530229616,
+        16530229541,
+        16530229695
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 127230344517383
+    }
+  ]
+}

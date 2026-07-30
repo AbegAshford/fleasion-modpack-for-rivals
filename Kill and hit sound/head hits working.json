@@ -1,0 +1,14 @@
+{
+  "replacement_rules": [
+    {
+      "name": "head hits",
+      "replace_ids": [
+        16537337310,
+        16537449730
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 92570611018210
+    }
+  ]
+}
