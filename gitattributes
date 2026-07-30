@@ -1,0 +1,9 @@
+# Files/folders below are excluded from "Download ZIP" and `git archive`
+# (GitHub's zip download uses the same export mechanism as `git archive`).
+# NOTE: this does NOT affect `git clone` — a clone always contains every
+# tracked file. There is no git-native way to exclude files from a clone.
+
+README.md    export-ignore
+LICENSE      export-ignore
+preview/     export-ignore
+.gitattributes export-ignore
