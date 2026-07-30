@@ -117,7 +117,6 @@ Click on the sky you want to download.
 
 </div>
 
-**More (no preview yet):** [sky all maps rivals](sky/sky%20all%20maps%20rivals.json)
 
 ---
 
