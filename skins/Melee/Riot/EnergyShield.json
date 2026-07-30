@@ -1,0 +1,51 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body",
+      "replace_ids": [
+        105366735052924
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/EnergyShield1.obj"
+    },
+    {
+      "name": "Remove",
+      "replace_ids": [
+        116193367281665,
+        110079517522085,
+        82949430589970
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "EquipSound",
+      "replace_ids": [
+        17247639614
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 104396544264853
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        121172272442833,
+        126785276332335
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90215439337413
+    },
+    {
+      "name": "AttackSound",
+      "replace_ids": [
+        98658929863025
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/main/AudioENERGYYY_riotshield_attack1.mp3"
+    }
+  ]
+}

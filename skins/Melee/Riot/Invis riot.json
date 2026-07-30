@@ -1,0 +1,15 @@
+{
+  "replacement_rules": [
+    {
+      "name": "No riot",
+      "replace_ids": [
+        116193367281665,
+        105366735052924,
+        110079517522085,
+        82949430589970
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}
