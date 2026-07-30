@@ -1,0 +1,67 @@
+{
+  "replacement_rules": [
+    {
+      "name": "spray bottle body",
+      "replace_ids": [
+        71235519196880
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/spraybottle2.obj"
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        89883331544008,
+        100289645145518,
+        126699169927855,
+        118355920643258,
+        120095950221031,
+        82965740211880,
+        124972821720584,
+        82721606455832,
+        84163808107137,
+        13158330555,
+        121890891056536
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "spray bottle reload anim",
+      "replace_ids": [
+        78199986436723
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 122266428544149
+    },
+    {
+      "name": "spray bottle reload empty anim",
+      "replace_ids": [
+        105154405257700
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 130226847052923
+    },
+    {
+      "name": "spray bottle shoot",
+      "replace_ids": [
+        100354903585817
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/spray%20bottle.oga"
+    },
+    {
+      "name": "asset replace",
+      "replace_ids": [
+        92882887485248
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 137955019285700
+    }
+  ]
+}

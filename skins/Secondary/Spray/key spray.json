@@ -1,0 +1,81 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Profile 1",
+      "replace_ids": [
+        100289645145518
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 89250379714692
+    },
+    {
+      "name": "Profile 2",
+      "replace_ids": [
+        118355920643258
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/alexanderfr1234/rival-models-and-stuff.../refs/heads/main/117643139547133.obj"
+    },
+    {
+      "name": "Profile 3",
+      "replace_ids": [
+        82965740211880
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/alexanderfr1234/rival-models-and-stuff.../refs/heads/main/127564637262921.obj"
+    },
+    {
+      "name": "Profile 4",
+      "replace_ids": [
+        120095950221031
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/alexanderfr1234/rival-models-and-stuff.../refs/heads/main/70664687899520.obj"
+    },
+    {
+      "name": "Profile 5",
+      "replace_ids": [
+        126699169927855
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 6",
+      "replace_ids": [
+        124972821720584
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/alexanderfr1234/rival-models-and-stuff.../refs/heads/main/103749225541480.obj"
+    },
+    {
+      "name": "Profile 7",
+      "replace_ids": [
+        71235519196880
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 8",
+      "replace_ids": [
+        89883331544008
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 9",
+      "replace_ids": [
+        121890891056536
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}
