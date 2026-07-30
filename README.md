@@ -493,11 +493,10 @@ Find them all in [`Kill and hit sound/`](Kill%20and%20hit%20sound).
 ## 🚀 How to use
 
 1. Install [Fleasion](https://github.com/fleasion/Fleasion) (Windows, macOS, and Linux/Sober are all supported).
-2. Download or clone this repository.
-3. Open the Fleasion Dashboard and import the `.json` file(s) you want — a texture, a sky, a weapon skin, a wrap, or a sound.
-4. Enable the rule set(s) and launch Rivals through Fleasion's proxy.
+2. Download the configs you want.
+3. Open Fleasion then click on open config it will bring you to config files then paste/move all downloaded config here.
+4. go back to Fleasion click on [enabled] active the config you want to use.
 
-Since some rules point at local files on the original creator's machine, double-check the `local_path` entries inside a config and repoint them to files on your own computer if a swap doesn't show up in-game.
 
 ---
 
