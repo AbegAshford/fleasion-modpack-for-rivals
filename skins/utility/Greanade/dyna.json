@@ -1,0 +1,35 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Profile 1",
+      "replace_ids": [
+        17631605892,
+        14246426125,
+        14246425489,
+        14246425399,
+        14246425725,
+        14246425599
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "six seven",
+      "replace_ids": [
+        14246425872
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/dianideas/dyna-dyna-no-mi-model-collection/raw/refs/heads/main/dynamite%20fully.obj"
+    },
+    {
+      "name": "icon replacement",
+      "replace_ids": [
+        17160801411
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 119066463640901
+    }
+  ]
+}

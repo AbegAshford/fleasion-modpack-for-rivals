@@ -1,0 +1,125 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Equip",
+      "replace_ids": [
+        14509948480
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 99784649946058
+    },
+    {
+      "name": "Idle",
+      "replace_ids": [
+        14509967864
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 138613177890181
+    },
+    {
+      "name": "Sprint",
+      "replace_ids": [
+        14580328848
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 119518299690405
+    },
+    {
+      "name": "Inspect",
+      "replace_ids": [
+        14509964565
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 118832975932987
+    },
+    {
+      "name": "ThrowStartPinpull",
+      "replace_ids": [
+        14510062019
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 123368854506447
+    },
+    {
+      "name": "ThrowIdle",
+      "replace_ids": [
+        14510038568
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 95887720657783
+    },
+    {
+      "name": "ThrowFinish",
+      "replace_ids": [
+        14510046795
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 98498351754343
+    },
+    {
+      "name": "LobFinish",
+      "replace_ids": [
+        14580368724
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 116760723605331
+    },
+    {
+      "name": "image",
+      "replace_ids": [
+        17160801411
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 102785971311114
+    },
+    {
+      "name": "body",
+      "replace_ids": [
+        14246425872
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/7-linn/skins/refs/heads/main/keynade.obj"
+    },
+    {
+      "name": "bye bye",
+      "replace_ids": [
+        14246425725,
+        14246425599,
+        14246425489,
+        14246425399,
+        17631605892,
+        14246426125
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Throw Start and Finish Pinpull sound",
+      "replace_ids": [
+        14522129645
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 73396885066556
+    },
+    {
+      "name": "Throw and Lob Finish",
+      "replace_ids": [
+        14522189766
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/7-linn/skins/blob/main/keynade%20throw%20and%20lob%20finish.mp3"
+    }
+  ]
+}

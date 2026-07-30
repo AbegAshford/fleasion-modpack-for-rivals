@@ -1,0 +1,72 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body",
+      "replace_ids": [
+        14246425872
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/watahbalon2.obj"
+    },
+    {
+      "name": "Remove",
+      "replace_ids": [
+        17631605892,
+        14246426125,
+        14246425489,
+        14246425399,
+        14246425725,
+        14246425599
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Icons",
+      "replace_ids": [
+        17160801411,
+        14526777692
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18766859819
+    },
+    {
+      "name": "lob start and throw start",
+      "replace_ids": [
+        14522129645
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 83611875921439
+    },
+    {
+      "name": "explod",
+      "replace_ids": [
+        13455969017
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17812496122
+    },
+    {
+      "name": "ThrowStartPinPull",
+      "replace_ids": [
+        14510062019
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14510034776
+    },
+    {
+      "name": "LobStartPinPull",
+      "replace_ids": [
+        14510494068
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14580355189
+    }
+  ]
+}

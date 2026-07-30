@@ -1,0 +1,49 @@
+{
+  "replacement_rules": [
+    {
+      "name": "remove",
+      "replace_ids": [
+        14246425725,
+        14246425599
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        14246425489,
+        14246425399
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        17631605892,
+        14246426125
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "replace",
+      "replace_ids": [
+        14246425872
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/corndogonasunday/pumpkin-nade/refs/heads/main/nade.obj"
+    },
+    {
+      "name": "explode replace",
+      "replace_ids": [
+        13455969017
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/corndogonasunday/sound/raw/refs/heads/main/splat-deltarune.ogg"
+    }
+  ]
+}
