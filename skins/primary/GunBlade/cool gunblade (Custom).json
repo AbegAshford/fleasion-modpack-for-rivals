@@ -1,0 +1,50 @@
+{
+  "replacement_rules": [
+    {
+      "name": "gunbladebody",
+      "replace_ids": [
+        90740813539453
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/serioustemmie/FleasionSkins/raw/refs/heads/main/Gunblade%20-%20Scytheblade/base.obj"
+    },
+    {
+      "name": "gunbladeblade",
+      "replace_ids": [
+        117886265537257
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/serioustemmie/FleasionSkins/raw/refs/heads/main/Gunblade%20-%20Scytheblade/scythe.obj"
+    },
+    {
+      "name": "gunblade shoot",
+      "replace_ids": [
+        96886470957330
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/serioustemmie/FleasionSkins/raw/refs/heads/main/Gunblade%20-%20Scytheblade/shootsound.mp3"
+    },
+    {
+      "name": "gunblade swing",
+      "replace_ids": [
+        77594993345414
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/serioustemmie/FleasionSkins/raw/refs/heads/main/Gunblade%20-%20Scytheblade/swingsound.mp3"
+    },
+    {
+      "name": "gunblade icon",
+      "replace_ids": [
+        131231034374465,
+        131462750179690
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/serioustemmie/FleasionSkins/blob/main/Gunblade%20-%20Scytheblade/icon.png?raw=true"
+    }
+  ]
+}
