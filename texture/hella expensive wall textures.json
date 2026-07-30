@@ -1,0 +1,13 @@
+{
+  "replacement_rules": [
+    {
+      "name": "arena",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://hostforever.org/uploads/1781475092354-0f082ed48ca0c7b3-louis-vuitton-pattern-lv-pattern-01-fashion-and-lifestyle-tuscan-afternoon-removebg-preview.png"
+    }
+  ]
+}

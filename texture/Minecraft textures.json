@@ -1,0 +1,1276 @@
+{
+  "replacement_rules": [
+    {
+      "name": "heal sfx -> levelup",
+      "replace_ids": [
+        17138490999
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/random/levelup.ogg"
+    },
+    {
+      "name": "map select -> click",
+      "replace_ids": [
+        103035811146294
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/random/click.ogg"
+    },
+    {
+      "name": "win -> villager yes",
+      "replace_ids": [
+        16810041280
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/mob/villager/yes1.ogg"
+    },
+    {
+      "name": "lose -> villager no",
+      "replace_ids": [
+        16810321565
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/mob/villager/no1.ogg"
+    },
+    {
+      "name": "d jump -> dragon wings",
+      "replace_ids": [
+        16770456156,
+        16492958314
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/mob/enderdragon/wings1.ogg"
+    },
+    {
+      "name": "all heads -> orb pickup",
+      "replace_ids": [
+        16537337310,
+        16537449730
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/random/orb.ogg"
+    },
+    {
+      "name": "countdown -> note pling",
+      "replace_ids": [
+        17826470563
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/note/pling.ogg"
+    },
+    {
+      "name": "headshot -> silverfish kill sfx",
+      "replace_ids": [
+        15109829804
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/headshot_silverfish_kill.ogg"
+    },
+    {
+      "name": "item background 1 -> mc slot grey",
+      "replace_ids": [
+        13220167337
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/item_slot_1_grey.png"
+    },
+    {
+      "name": "item background 2 -> mc slot red",
+      "replace_ids": [
+        13188242420
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/item_slot_2_red.png"
+    },
+    {
+      "name": "item background 3 -> mc slot blue",
+      "replace_ids": [
+        13220167472
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/item_slot_3_blue.png"
+    },
+    {
+      "name": "item background 4 -> mc slot green",
+      "replace_ids": [
+        13188153054
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/item_slot_4_green.png"
+    },
+    {
+      "name": "item background 5 -> mc slot gold",
+      "replace_ids": [
+        13188242287
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/item_slot_5_gold.png"
+    },
+    {
+      "name": "arena -> buld",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/item_slot_3_blue_hollow.png"
+    },
+    {
+      "name": "win theme -> chirp",
+      "replace_ids": [
+        18221725850,
+        18239670056,
+        18221725850,
+        18221726246
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/records/chirp.ogg"
+    },
+    {
+      "name": "lose -> zombie say",
+      "replace_ids": [
+        18239670367
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/mob/zombie/say1.ogg"
+    },
+    {
+      "name": "logo -> welcome",
+      "replace_ids": [
+        17803962335
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/welcome.png"
+    },
+    {
+      "name": "lvl icon -> lvl_eye",
+      "replace_ids": [
+        81461991645938
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/lvl_eye_new.png"
+    },
+    {
+      "name": "gamemode end -> ender eye",
+      "replace_ids": [
+        99135525400251
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/ender_eye.png"
+    },
+    {
+      "name": "matchpoint -> anvil land",
+      "replace_ids": [
+        17026600996
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/random/anvil_land.ogg"
+    },
+    {
+      "name": "kill1 -> zombie hurt",
+      "replace_ids": [
+        16530229616
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/kill1_zombie_hurt.ogg"
+    },
+    {
+      "name": "kill2 -> skeleton death",
+      "replace_ids": [
+        16530229541
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/kill2_ghast_death.ogg"
+    },
+    {
+      "name": "kill3 -> explode",
+      "replace_ids": [
+        16530229695
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/kill3_wither_death.ogg"
+    },
+    {
+      "name": "chickn -> chicken texture",
+      "replace_ids": [
+        133917828562858
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/egg.png"
+    },
+    {
+      "name": "onyx removal -> netherrack",
+      "replace_ids": [
+        127338559130032,
+        16294586406,
+        75156669118637,
+        93477262732302
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/end_portal_arena.png"
+    },
+    {
+      "name": "SBK -> mc night sky moon/stars",
+      "replace_ids": [
+        2108482005,
+        14147881792,
+        135908632589654,
+        84214501374682,
+        10196550937,
+        12261809766
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/sky_side_stars.png"
+    },
+    {
+      "name": "SDN -> mc night sky moon/stars",
+      "replace_ids": [
+        2108545280,
+        10196550667,
+        14147882149,
+        103020541883227,
+        89972436184102,
+        12261813110
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/sky_down_dark.png"
+    },
+    {
+      "name": "SLF -> mc night sky moon/stars",
+      "replace_ids": [
+        14147883091,
+        135908632589654,
+        84214501374682,
+        2108482395,
+        12261809766,
+        10196550128
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/sky_side_stars.png"
+    },
+    {
+      "name": "SRT -> mc night sky moon/stars",
+      "replace_ids": [
+        14147882405,
+        135908632589654,
+        84214501374682,
+        2108482542,
+        12261809766,
+        10196549902
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/sky_side_stars.png"
+    },
+    {
+      "name": "SUP -> mc night sky moon/stars",
+      "replace_ids": [
+        14147881297,
+        72960281658487,
+        92138082970751,
+        2108482676,
+        10196567794,
+        12261813678
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/sky_up_moon.png"
+    },
+    {
+      "name": "SFT -> mc night sky moon/stars",
+      "replace_ids": [
+        14147882761,
+        12261809766,
+        135908632589654,
+        84214501374682,
+        10196550367,
+        2108482231
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/sky_side_stars.png"
+    },
+    {
+      "name": "remove ambience on maps",
+      "replace_ids": [
+        17813065011,
+        17813065464,
+        12099785239
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "arch (top) -> archnemesis",
+      "replace_ids": [
+        133793956251748
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/arch.png"
+    },
+    {
+      "name": "nem (top standard) -> nemesis",
+      "replace_ids": [
+        116941545385923
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/nem.png"
+    },
+    {
+      "name": "bronze -> wood sword",
+      "replace_ids": [
+        106623367501544,
+        131795064007344,
+        73543520622815
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/bronze3.png"
+    },
+    {
+      "name": "silver 1 -> stone sword",
+      "replace_ids": [
+        80716950169934
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/silver1.png"
+    },
+    {
+      "name": "silver 2 -> stone sword",
+      "replace_ids": [
+        136100661820261
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/silver2.png"
+    },
+    {
+      "name": "silver 3 -> stone sword",
+      "replace_ids": [
+        107898816876115
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/silver3.png"
+    },
+    {
+      "name": "gold 1 -> iron sword",
+      "replace_ids": [
+        134520747948636
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/gold1.png"
+    },
+    {
+      "name": "gold 2 -> iron sword",
+      "replace_ids": [
+        114166096331502
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/gold2.png"
+    },
+    {
+      "name": "gold 3 -> iron sword",
+      "replace_ids": [
+        90039594400813
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/gold3.png"
+    },
+    {
+      "name": "plat 1 -> platinum1",
+      "replace_ids": [
+        133903971285645
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/platinum1.png"
+    },
+    {
+      "name": "plat 2 -> platinum2",
+      "replace_ids": [
+        82834564754747
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/platinum2.png"
+    },
+    {
+      "name": "plat 3 -> platinum3",
+      "replace_ids": [
+        73345783863790
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/platinum3.png"
+    },
+    {
+      "name": "diam 1 -> diamond",
+      "replace_ids": [
+        113997689031026
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/diamond.png"
+    },
+    {
+      "name": "diam 2 -> diamond2",
+      "replace_ids": [
+        88059506918419
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/diamond2.png"
+    },
+    {
+      "name": "diam 3 -> diamond3",
+      "replace_ids": [
+        112183171942172
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/diamond3.png"
+    },
+    {
+      "name": "o1 -> emerald",
+      "replace_ids": [
+        104871954739030
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/onyx1.png"
+    },
+    {
+      "name": "o2 -> ender eye",
+      "replace_ids": [
+        109012386782238
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/onyx2.png"
+    },
+    {
+      "name": "o3 -> nether star",
+      "replace_ids": [
+        127982903682334
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/onyx3.png"
+    },
+    {
+      "name": "streak icon -> blaze powder",
+      "replace_ids": [
+        17175092502,
+        17094014569
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/blaze_powder.png"
+    },
+    {
+      "name": "self snitching -> note pling",
+      "replace_ids": [
+        99115398611290
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/note/pling.ogg"
+    },
+    {
+      "name": "ding -> chicken say",
+      "replace_ids": [
+        8483887957
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/mob/chicken/say1.ogg"
+    },
+    {
+      "name": "intro theme -> menu music",
+      "replace_ids": [
+        6384899588
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/music/menu/menu1.ogg"
+    },
+    {
+      "name": "incubatron -> egg texture",
+      "replace_ids": [
+        121503061771505
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/egg.png"
+    },
+    {
+      "name": "rank change -> anvil land",
+      "replace_ids": [
+        70643163489676
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/random/anvil_land.ogg"
+    },
+    {
+      "name": "demote -> anvil break",
+      "replace_ids": [
+        91547731028928
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/demote_anvil_break.ogg"
+    },
+    {
+      "name": "promote -> levelup",
+      "replace_ids": [
+        138975587469438
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/random/levelup.ogg"
+    },
+    {
+      "name": "remove the n",
+      "replace_ids": [
+        13854780042
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "logo g -> logorivals",
+      "replace_ids": [
+        13854780213
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/logorivals.png"
+    },
+    {
+      "name": "lobby music -> menu music",
+      "replace_ids": [
+        17697682466,
+        17733314783
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/music/menu/menu2.ogg"
+    },
+    {
+      "name": "remove map pattern",
+      "replace_ids": [
+        136887158756561
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "click -> wood click",
+      "replace_ids": [
+        177266782
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/random/wood_click.ogg"
+    },
+    {
+      "name": "matchmaking -> note bd",
+      "replace_ids": [
+        18525513345
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/note/bd.ogg"
+    },
+    {
+      "name": "elim icon -> diamond sword",
+      "replace_ids": [
+        16802957270
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/bone.png"
+    },
+    {
+      "name": "hitmarker -> successful hit",
+      "replace_ids": [
+        13110130082
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/random/successful_hit.ogg"
+    },
+    {
+      "name": "sudden death -> enderdragon growl",
+      "replace_ids": [
+        17467242617
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/mob/enderdragon/growl1.ogg"
+    },
+    {
+      "name": "elim -> zombie death",
+      "replace_ids": [
+        17016581922
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/mob/zombie/death.ogg"
+    },
+    {
+      "name": "molotov idle -> fire loop",
+      "replace_ids": [
+        14812965418
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/molotov_idle_fire.ogg"
+    },
+    {
+      "name": "molotov impact -> fire ignite",
+      "replace_ids": [
+        14812827622
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/molotov_ignite.ogg"
+    },
+    {
+      "name": "rpg explosion -> tnt explode",
+      "replace_ids": [
+        13455969017
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/rpg_explosion.ogg"
+    },
+    {
+      "name": "molotov extinguish -> fizz",
+      "replace_ids": [
+        16812389263
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/molotov_extinguish_fizz.ogg"
+    },
+    {
+      "name": "portal ambience -> portal loop",
+      "replace_ids": [
+        114274252176516
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/portal_ambience.ogg"
+    },
+    {
+      "name": "portal exit -> portal travel",
+      "replace_ids": [
+        81610952487049
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/portal_exit.ogg"
+    },
+    {
+      "name": "queue countdown -> note pling",
+      "replace_ids": [
+        17259538274
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/note/pling.ogg"
+    },
+    {
+      "name": "reward notification -> pop",
+      "replace_ids": [
+        17769583566
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/random/pop.ogg"
+    },
+    {
+      "name": "gameresult reveal -> wither spawn",
+      "replace_ids": [
+        18221897857
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/mob/wither/spawn.ogg"
+    },
+    {
+      "name": "equipment whoosh -> bow draw",
+      "replace_ids": [
+        106551800007995
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/random/bow.ogg"
+    },
+    {
+      "name": "oob warning -> enderman idle",
+      "replace_ids": [
+        114467311328776
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8/assets/minecraft/sounds/mob/endermen/idle1.ogg"
+    },
+    {
+      "name": "fists attack -> player swing strong",
+      "replace_ids": [
+        13160401062
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.16.5/assets/minecraft/sounds/entity/player/attack/strong1.ogg"
+    },
+    {
+      "name": "hp icon -> minecraft heart",
+      "replace_ids": [
+        8276600102
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/heart_hp.png"
+    },
+    {
+      "name": "killfeed headshot -> skull",
+      "replace_ids": [
+        126928245743331
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/killfeed_headshot_skull.png"
+    },
+    {
+      "name": "damage indicator -> red arrow",
+      "replace_ids": [
+        13853836511
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/damage_indicator_arrow.png"
+    },
+    {
+      "name": "smoke1 -> mc smoke particle",
+      "replace_ids": [
+        16919463811
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/smoke_particle.png"
+    },
+    {
+      "name": "sparkle -> mc sparkle particle",
+      "replace_ids": [
+        13482969632
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/sparkle_particle.png"
+    },
+    {
+      "name": "tex fire06 -> mc fire particle",
+      "replace_ids": [
+        14200300110
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/fire_particle.png"
+    },
+    {
+      "name": "map preview Arena -> minecraft cave arena",
+      "replace_ids": [
+        108088064658436
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/arenamine.png"
+    },
+    {
+      "name": "x icon -> red x",
+      "replace_ids": [
+        17838290166
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_x.png"
+    },
+    {
+      "name": "close icon -> red x",
+      "replace_ids": [
+        17619444538
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_x.png"
+    },
+    {
+      "name": "x icon2 -> red x",
+      "replace_ids": [
+        108220438104376
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_x.png"
+    },
+    {
+      "name": "plus icon -> green plus",
+      "replace_ids": [
+        17838317115
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_plus.png"
+    },
+    {
+      "name": "back icon -> arrow left",
+      "replace_ids": [
+        17562685319
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_back_arrow.png"
+    },
+    {
+      "name": "next icon -> arrow right",
+      "replace_ids": [
+        113844621753627
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_next_arrow.png"
+    },
+    {
+      "name": "lock icon -> padlock",
+      "replace_ids": [
+        17229230506
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_lock.png"
+    },
+    {
+      "name": "key icon -> gold key",
+      "replace_ids": [
+        18175187129
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_key.png"
+    },
+    {
+      "name": "key icon2 -> gold key",
+      "replace_ids": [
+        17495953455
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_key.png"
+    },
+    {
+      "name": "exit icon -> iron door",
+      "replace_ids": [
+        17498605048
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_exit_door.png"
+    },
+    {
+      "name": "setting icon -> gear",
+      "replace_ids": [
+        14641612286
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_gear_settings.png"
+    },
+    {
+      "name": "cog icon -> gear",
+      "replace_ids": [
+        17619445191
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_gear_settings.png"
+    },
+    {
+      "name": "save icon -> chest",
+      "replace_ids": [
+        13733474711
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_chest_save.png"
+    },
+    {
+      "name": "region icon -> map",
+      "replace_ids": [
+        135846354277966
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_region_map.png"
+    },
+    {
+      "name": "servers icon -> beacon",
+      "replace_ids": [
+        12343093905
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_servers_beacon.png"
+    },
+    {
+      "name": "trophy icon -> gold trophy",
+      "replace_ids": [
+        17175095665
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_trophy.png"
+    },
+    {
+      "name": "leaderboard eliminations -> diamond sword",
+      "replace_ids": [
+        17736782213
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_leaderboard_sword.png"
+    },
+    {
+      "name": "rarity icon -> gold star",
+      "replace_ids": [
+        132073690319347
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_star_rarity.png"
+    },
+    {
+      "name": "favorited icon -> emerald",
+      "replace_ids": [
+        102193196101741
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_favorited_emerald.png"
+    },
+    {
+      "name": "task completed -> checkmark",
+      "replace_ids": [
+        17772690718
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_checkmark.png"
+    },
+    {
+      "name": "book icon -> minecraft book",
+      "replace_ids": [
+        18457336026
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_book.png"
+    },
+    {
+      "name": "scroll icon -> writable book",
+      "replace_ids": [
+        17619445009
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_scroll.png"
+    },
+    {
+      "name": "duels icon -> crossed swords",
+      "replace_ids": [
+        18525954682
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_duels_swords.png"
+    },
+    {
+      "name": "spectate icon -> pixel eye",
+      "replace_ids": [
+        77908042044589
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_spectate_eye.png"
+    },
+    {
+      "name": "teammate icon -> two figures",
+      "replace_ids": [
+        17704137194
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_teammate.png"
+    },
+    {
+      "name": "basket icon -> wicker basket",
+      "replace_ids": [
+        17619445340
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/icon_basket.png"
+    },
+    {
+      "name": "jumppad placement -> slime block place",
+      "replace_ids": [
+        85163949920258
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/jumppad_place_slime.ogg"
+    },
+    {
+      "name": "jumppad bounce -> slime block jump",
+      "replace_ids": [
+        17835965985
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/jumppad_bounce_slime.ogg"
+    },
+    {
+      "name": "grenade body -> tnt voxel model",
+      "replace_ids": [
+        14246425872
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/TNT_scaled.obj"
+    },
+    {
+      "name": "grenade bolts -> invisible",
+      "replace_ids": [
+        14246425725
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "grenade rings (second) -> invisible",
+      "replace_ids": [
+        14246425399
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "knife blade -> diamond sword 3d blade",
+      "replace_ids": [
+        12482022363
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/sword_blade_v6.obj"
+    },
+    {
+      "name": "knife gaurd -> diamond sword 3d guard",
+      "replace_ids": [
+        12482022259
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/sword_gaurd_v6.obj"
+    },
+    {
+      "name": "knife handle -> diamond sword 3d handle",
+      "replace_ids": [
+        12482022430
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/sword_handle_v6.obj"
+    },
+    {
+      "name": "crossbow shoot -> minecraft crossbow shoot",
+      "replace_ids": [
+        82715240396507
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/crossbow_shoot1.ogg"
+    },
+    {
+      "name": "crossbow reload pull -> minecraft crossbow loading_start",
+      "replace_ids": [
+        112269321366473
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/crossbow_loading_start.ogg"
+    },
+    {
+      "name": "crossbow reload -> minecraft crossbow loading_end",
+      "replace_ids": [
+        76155503538875
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/crossbow_loading_end.ogg"
+    },
+    {
+      "name": "sniper shoot1 -> enderdragon hit",
+      "replace_ids": [
+        13270206222
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/sniper_candidate_enderdragon_hit.ogg"
+    },
+    {
+      "name": "sniper shoot2 -> enderdragon hit",
+      "replace_ids": [
+        13270206087
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/sniper_candidate_enderdragon_hit.ogg"
+    },
+    {
+      "name": "font Rubik-Light -> Minecraft",
+      "replace_ids": [
+        12187342816
+      ],
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/Minecraft.otf",
+      "mode": "cdn",
+      "enabled": true
+    },
+    {
+      "name": "font Rubik-Regular -> Minecraft",
+      "replace_ids": [
+        12187288714
+      ],
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/Minecraft.otf",
+      "mode": "cdn",
+      "enabled": true
+    },
+    {
+      "name": "font Rubik-Medium -> Minecraft",
+      "replace_ids": [
+        12187271237
+      ],
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/Minecraft.otf",
+      "mode": "cdn",
+      "enabled": true
+    },
+    {
+      "name": "font Rubik-SemiBold -> Minecraft Bold",
+      "replace_ids": [
+        12187320363
+      ],
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/Minecraft-Bold.otf",
+      "mode": "cdn",
+      "enabled": true
+    },
+    {
+      "name": "font Rubik-Bold -> Minecraft Bold",
+      "replace_ids": [
+        12187303601
+      ],
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/Minecraft-Bold.otf",
+      "mode": "cdn",
+      "enabled": true
+    },
+    {
+      "name": "font Rubik-ExtraBold -> Minecraft Bold",
+      "replace_ids": [
+        12187262242
+      ],
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/Minecraft-Bold.otf",
+      "mode": "cdn",
+      "enabled": true
+    },
+    {
+      "name": "font Rubik-Black -> Minecraft Bold",
+      "replace_ids": [
+        12187280273
+      ],
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/Minecraft-Bold.otf",
+      "mode": "cdn",
+      "enabled": true
+    },
+    {
+      "name": "font Rubik-MediumItalic -> Minecraft Bold",
+      "replace_ids": [
+        12187354260
+      ],
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/Minecraft-Bold.otf",
+      "mode": "cdn",
+      "enabled": true
+    },
+    {
+      "name": "font Rubik-BoldItalic -> Minecraft Bold",
+      "replace_ids": [
+        12187341500
+      ],
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/Minecraft-Bold.otf",
+      "mode": "cdn",
+      "enabled": true
+    },
+    {
+      "name": "font Rubik-BlackItalic -> Minecraft Bold",
+      "replace_ids": [
+        12187320081
+      ],
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/Minecraft-Bold.otf",
+      "mode": "cdn",
+      "enabled": true
+    },
+    {
+      "name": "font Rubik-ExtraBoldItalic -> Minecraft Bold",
+      "replace_ids": [
+        12187323909
+      ],
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/Minecraft-Bold.otf",
+      "mode": "cdn",
+      "enabled": true
+    }
+  ]
+}

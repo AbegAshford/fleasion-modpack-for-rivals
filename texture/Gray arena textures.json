@@ -1,0 +1,13 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Gray arena (mirc' 5k TP)",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/grods.png"
+    }
+  ]
+}

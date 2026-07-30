@@ -1,0 +1,13 @@
+{
+  "replacement_rules": [
+    {
+      "name": "huh",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://files.catbox.moe/d2q0nn.png"
+    }
+  ]
+}
