@@ -1,0 +1,31 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Image",
+      "replace_ids": [
+        109264750627289
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 96589300342777
+    },
+    {
+      "name": "Body",
+      "replace_ids": [
+        14515234008
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/CoconutManYt/skins/refs/heads/main/ArchMolotov.obj"
+    },
+    {
+      "name": "Other",
+      "replace_ids": [
+        14515393884,
+        14515234161
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}
