@@ -1,0 +1,112 @@
+{
+  "replacement_rules": [
+    {
+      "name": "BODY",
+      "replace_ids": [
+        17211646168
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cmhoops/plane/refs/heads/main/plane3.obj"
+    },
+    {
+      "name": "REMOVE",
+      "replace_ids": [
+        17211647426,
+        17211646637
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "REMOVE",
+      "replace_ids": [
+        17211672629,
+        17211672905
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "REMOVE",
+      "replace_ids": [
+        17211647612,
+        17211647848
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "asset replace",
+      "replace_ids": [
+        17250458611
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 70780739230558
+    },
+    {
+      "name": "Idle",
+      "replace_ids": [
+        17245230599
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 119991591578295
+    },
+    {
+      "name": "equip",
+      "replace_ids": [
+        17245211573
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 127180554423985
+    },
+    {
+      "name": "sprint",
+      "replace_ids": [
+        17245240621
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 117002953469530
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        17245250490
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 99090979665873
+    },
+    {
+      "name": "chargestart",
+      "replace_ids": [
+        17246064123
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 77199969923734
+    },
+    {
+      "name": "chargestartloop",
+      "replace_ids": [
+        17246072427
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 72003025592807
+    },
+    {
+      "name": "chargestartend",
+      "replace_ids": [
+        17246078139
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 134137051449040
+    }
+  ]
+}

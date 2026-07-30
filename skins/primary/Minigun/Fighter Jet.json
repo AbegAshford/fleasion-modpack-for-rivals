@@ -1,0 +1,98 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Equip",
+      "replace_ids": [
+        17245211573
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 127180554423985
+    },
+    {
+      "name": "Idle",
+      "replace_ids": [
+        17245230599
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 119991591578295
+    },
+    {
+      "name": "Sprint",
+      "replace_ids": [
+        17245240621
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 117002953469530
+    },
+    {
+      "name": "Inspect",
+      "replace_ids": [
+        17245250490
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 99090979665873
+    },
+    {
+      "name": "ChargeStart",
+      "replace_ids": [
+        17246064123
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 77199969923734
+    },
+    {
+      "name": "ChargeLoop",
+      "replace_ids": [
+        17246072427
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 72003025592807
+    },
+    {
+      "name": "ChargeFinish",
+      "replace_ids": [
+        17246078139
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 134137051449040
+    },
+    {
+      "name": "body",
+      "replace_ids": [
+        17211646168
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/7-linn/skins/refs/heads/main/Fighter%20Jet.obj"
+    },
+    {
+      "name": "bye bye",
+      "replace_ids": [
+        17211647848,
+        17211647612,
+        17211646637,
+        17211647426,
+        17211672629,
+        17211672905
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17250458611
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 70780739230558
+    }
+  ]
+}
