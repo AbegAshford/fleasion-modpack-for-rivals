@@ -1,0 +1,33 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Remove",
+      "replace_ids": [
+        106702607873813,
+        87127434278076,
+        76859780801582
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "PencilBody",
+      "replace_ids": [
+        79215628363676
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/Pencil3.obj"
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        111446720428762,
+        122801133017271
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 107812045486260
+    }
+  ]
+}
