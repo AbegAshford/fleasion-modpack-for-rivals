@@ -1,0 +1,58 @@
+{
+  "replacement_rules": [
+    {
+      "name": "NordicBody",
+      "replace_ids": [
+        76837433845994
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cmhoops/nordic/refs/heads/main/nordic2.obj"
+    },
+    {
+      "name": "REMOVE",
+      "replace_ids": [
+        105903087716845,
+        129037728019210
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "attack1",
+      "replace_ids": [
+        77594993345414
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 127353554164693
+    },
+    {
+      "name": "attack1(2)",
+      "replace_ids": [
+        77594993345414
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 77594993345414
+    },
+    {
+      "name": "cool sound",
+      "replace_ids": [
+        124941279780653
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 113522767123200
+    },
+    {
+      "name": "asset replace",
+      "replace_ids": [
+        93390542043222
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 80052264197135
+    }
+  ]
+}

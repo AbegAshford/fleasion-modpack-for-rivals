@@ -1,0 +1,111 @@
+{
+  "replacement_rules": [
+    {
+      "name": "keyttle body",
+      "replace_ids": [
+        94410522181279
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 76837433845994
+    },
+    {
+      "name": "keyttle blades",
+      "replace_ids": [
+        105903087716845
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keyttle%20blades2.obj"
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        129037728019210
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        129465959541316
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 94531213270822
+    },
+    {
+      "name": "keyttle attack1",
+      "replace_ids": [
+        109733633551931
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 118334586871272
+    },
+    {
+      "name": "keyttle attack2",
+      "replace_ids": [
+        73035390792843
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 102851800593489
+    },
+    {
+      "name": "keyttle spin",
+      "replace_ids": [
+        88842201450798
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 83184654306176
+    },
+    {
+      "name": "keyttle equip",
+      "replace_ids": [
+        85516047468034
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 134736048588578
+    },
+    {
+      "name": "keyttle attack1 sound",
+      "replace_ids": [
+        77594993345414
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keyttle1.mp3"
+    },
+    {
+      "name": "keyttle attack2 sound",
+      "replace_ids": [
+        77594993345414
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keyttle2.mp3"
+    },
+    {
+      "name": "keyttle spin",
+      "replace_ids": [
+        124261472912756
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/keyttle%20spin.mp3"
+    },
+    {
+      "name": "asset replace",
+      "replace_ids": [
+        93390542043222
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 122117068984402
+    }
+  ]
+}
