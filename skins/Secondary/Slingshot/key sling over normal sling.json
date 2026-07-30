@@ -1,0 +1,66 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Ball",
+      "replace_ids": [
+        16537848257
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/CoconutManYt/skins/refs/heads/main/72620859752296.obj"
+    },
+    {
+      "name": "body",
+      "replace_ids": [
+        16531241545
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/CoconutManYt/skins/refs/heads/main/keyslingshot.obj"
+    },
+    {
+      "name": "other",
+      "replace_ids": [
+        16531241652
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "shoot",
+      "replace_ids": [
+        911852163
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 110122962237431
+    },
+    {
+      "name": "Other ball",
+      "replace_ids": [
+        8525659841
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/CoconutManYt/skins/refs/heads/main/72620859752296.obj"
+    },
+    {
+      "name": "Equip Anim",
+      "replace_ids": [
+        17092021682
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 124454012077670
+    },
+    {
+      "name": "Inspect Anim",
+      "replace_ids": [
+        17092039611
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 96617533039551
+    }
+  ]
+}
