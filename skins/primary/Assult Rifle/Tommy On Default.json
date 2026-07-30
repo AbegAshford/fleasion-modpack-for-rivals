@@ -1,0 +1,120 @@
+{
+  "replacement_rules": [
+    {
+      "name": "body",
+      "replace_ids": [
+        12613284249
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cmhoops/tommygun/refs/heads/main/tommygunbody15.obj"
+    },
+    {
+      "name": "mag",
+      "replace_ids": [
+        12613284529
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cmhoops/tommygun/refs/heads/main/tommygunmag9.obj"
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        12613283569,
+        12613284036,
+        14652718299
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        12613284768
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        12613283355
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "shoot sound",
+      "replace_ids": [
+        13087362838
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17662574783
+    },
+    {
+      "name": "equip",
+      "replace_ids": [
+        13010870236
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 113547428826965
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        13010893629
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 136686405315688
+    },
+    {
+      "name": "sprint",
+      "replace_ids": [
+        13010904196
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 136149905686215
+    },
+    {
+      "name": "reload",
+      "replace_ids": [
+        13010900962
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 137086406367920
+    },
+    {
+      "name": "idle",
+      "replace_ids": [
+        13010885336
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 102761331433561
+    },
+    {
+      "name": "asset replace",
+      "replace_ids": [
+        17160682738
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 111251887761435
+    },
+    {
+      "name": "inspect sound",
+      "replace_ids": [
+        13236549929
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 13158735106
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "replacement_rules": [
+    {
+      "name": "remove",
+      "replace_ids": [
+        18687757291,
+        18687757011,
+        18687756555,
+        18687757157,
+        18687756845
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "body",
+      "replace_ids": [
+        18687757654
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rin3zo/fleasion/raw/main/ginger%20this%20bread.obj"
+    },
+    {
+      "name": "bolt",
+      "replace_ids": [
+        18687757424
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rin3zo/fleasion/raw/main/candy%20these%20canes.obj"
+    },
+    {
+      "name": "magazine",
+      "replace_ids": [
+        18687756685
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rin3zo/fleasion/raw/main/maga%20this%20zine.obj"
+    },
+    {
+      "name": "shoot",
+      "replace_ids": [
+        18764343961
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 103022841301405
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        18770192853
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 85584922619813
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "replacement_rules": [
+    {
+      "name": "boneclaw body",
+      "replace_ids": [
+        12613284249
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/boneclaw12.obj"
+    },
+    {
+      "name": "REMOVE",
+      "replace_ids": [
+        14652718299,
+        12613284036,
+        12613283569,
+        12613284768
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "bolt replace",
+      "replace_ids": [
+        12613283355
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 112741123615460
+    },
+    {
+      "name": "mag",
+      "replace_ids": [
+        12613284529
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/boneclawmag3.obj"
+    },
+    {
+      "name": "boneclaw shoot",
+      "replace_ids": [
+        13087362838
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/BONECLAWSHOOT.oga"
+    },
+    {
+      "name": "asset replace",
+      "replace_ids": [
+        17160682738
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 100015754284323
+    }
+  ]
+}

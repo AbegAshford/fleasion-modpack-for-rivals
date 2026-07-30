@@ -1,0 +1,814 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Pixel ak47",
+      "expanded": false,
+      "children": [
+        {
+          "name": "shoot1",
+          "replace_ids": [
+            13010911854
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 118071222377726
+        },
+        {
+          "name": "inspect",
+          "replace_ids": [
+            13010893629
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 89127204291789
+        },
+        {
+          "name": "idle",
+          "replace_ids": [
+            13010885336
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 77419114573216
+        },
+        {
+          "name": "REMOVE",
+          "replace_ids": [
+            14652718299,
+            12613284036,
+            12613283569,
+            12613284768
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "bolt replace",
+          "replace_ids": [
+            12613283355
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "mag",
+          "replace_ids": [
+            12613284529
+          ],
+          "mode": "local",
+          "enabled": false,
+          "local_path": "C:/Users/user/Downloads/rivals model replacements/pixel ak47 mag.obj"
+        },
+        {
+          "name": "boneclaw body",
+          "replace_ids": [
+            12613284249
+          ],
+          "mode": "local",
+          "enabled": false,
+          "local_path": "C:/Users/user/Downloads/rivals model replacements/PIXEL AK.obj"
+        },
+        {
+          "name": "shootsound",
+          "replace_ids": [
+            13087362838
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 17650837861
+        },
+        {
+          "name": "equip",
+          "replace_ids": [
+            13010870236
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 96027715467221
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Boneclaw AUG",
+      "expanded": false,
+      "children": [
+        {
+          "name": "REMOVE",
+          "replace_ids": [
+            14652718299,
+            12613284036,
+            12613283569,
+            12613284768
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "asset replace",
+          "replace_ids": [
+            17160682738
+          ],
+          "mode": "local",
+          "enabled": false,
+          "local_path": "C:/Users/user/Downloads/Untitled_image_9_1_75x80.png"
+        },
+        {
+          "name": "bolt replace",
+          "replace_ids": [
+            12613283355
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "boneclaw shoot",
+          "replace_ids": [
+            13087362838
+          ],
+          "mode": "cdn",
+          "enabled": false,
+          "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/BONECLAWSHOOT.oga"
+        },
+        {
+          "name": "boneclaw body",
+          "replace_ids": [
+            12613284249
+          ],
+          "mode": "local",
+          "enabled": false,
+          "local_path": "C:/Users/user/Downloads/rivals model replacements/boneclaw aug closer fixxed.obj"
+        },
+        {
+          "name": "mag",
+          "replace_ids": [
+            12613284529
+          ],
+          "mode": "local",
+          "enabled": false,
+          "local_path": "C:/Users/user/Downloads/rivals model replacements/boneclaw aug mag fixed closer.obj"
+        },
+        {
+          "name": "idle",
+          "replace_ids": [
+            13010885336
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18875814511
+        },
+        {
+          "name": "sprint",
+          "replace_ids": [
+            13010904196
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18875820949
+        },
+        {
+          "name": "shoot",
+          "replace_ids": [
+            13010911854
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18875560888
+        },
+        {
+          "name": "inspect",
+          "replace_ids": [
+            13010893629
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18875805841
+        },
+        {
+          "name": "equip",
+          "replace_ids": [
+            13010870236
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18875555761
+        },
+        {
+          "name": "reload",
+          "replace_ids": [
+            13010900962
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18887149414
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "AUG",
+      "expanded": false,
+      "children": [
+        {
+          "name": "REMOVE",
+          "replace_ids": [
+            14652718299,
+            12613284036,
+            12613283569,
+            12613284768
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "boneclaw shoot",
+          "replace_ids": [
+            13087362838
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "boneclaw body",
+          "replace_ids": [
+            12613284249
+          ],
+          "mode": "local",
+          "enabled": false,
+          "local_path": "C:/Users/user/Downloads/aug.obj"
+        },
+        {
+          "name": "mag",
+          "replace_ids": [
+            12613284529
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "asset replace",
+          "replace_ids": [
+            17160682738
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 100015754284323
+        },
+        {
+          "name": "bolt replace",
+          "replace_ids": [
+            12613283355
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 0
+        },
+        {
+          "name": "idle",
+          "replace_ids": [
+            13010885336
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18875814511
+        },
+        {
+          "name": "sprint",
+          "replace_ids": [
+            13010904196
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18875820949
+        },
+        {
+          "name": "shoot",
+          "replace_ids": [
+            13010911854
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18875560888
+        },
+        {
+          "name": "inspect",
+          "replace_ids": [
+            13010893629
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18875805841
+        },
+        {
+          "name": "equip",
+          "replace_ids": [
+            13010870236
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18875555761
+        },
+        {
+          "name": "reload",
+          "replace_ids": [
+            13010900962
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18887149414
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "BoneCLaw AK47",
+      "expanded": false,
+      "children": [
+        {
+          "name": "ak47 mag",
+          "replace_ids": [
+            12613284529
+          ],
+          "mode": "local",
+          "enabled": false,
+          "local_path": "C:/Users/user/Downloads/ak47mag2.obj"
+        },
+        {
+          "name": "bolt replace",
+          "replace_ids": [
+            12613283355
+          ],
+          "mode": "cdn",
+          "enabled": false,
+          "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/ak47bolt3.obj"
+        },
+        {
+          "name": "asset replace",
+          "replace_ids": [
+            17160682738
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 17691132793
+        },
+        {
+          "name": "boneclaw body",
+          "replace_ids": [
+            12613284249
+          ],
+          "mode": "local",
+          "enabled": false,
+          "local_path": "C:/Users/user/Downloads/rivals model replacements/boneclaw ak47.obj"
+        },
+        {
+          "name": "REMOVE",
+          "replace_ids": [
+            14652718299,
+            12613284036,
+            12613283569,
+            12613284768
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "shootsound",
+          "replace_ids": [
+            13087362838
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 17662574783
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Festive fist",
+      "expanded": false,
+      "children": [
+        {
+          "name": "left-fist",
+          "replace_ids": [
+            12307734932
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:/Users/user/Downloads/rivals model replacements/festive lights no arm.obj"
+        },
+        {
+          "name": "right-fist",
+          "replace_ids": [
+            12307583853
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:/Users/user/Downloads/rivals model replacements/festive lights no arm2.obj"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Usp pistol",
+      "expanded": false,
+      "children": [
+        {
+          "name": "remove",
+          "replace_ids": [
+            12613247736,
+            12613247490,
+            12613248534,
+            12613246882,
+            13189734130,
+            12613248825
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "body",
+          "replace_ids": [
+            12613247082
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:/Users/user/Downloads/Body with sight usp.obj"
+        },
+        {
+          "name": "mag",
+          "replace_ids": [
+            12613247957
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:/Users/user/Downloads/uspmag.obj"
+        },
+        {
+          "name": "slides",
+          "replace_ids": [
+            12613248221
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:/Users/user/Downloads/usp slide.obj"
+        },
+        {
+          "name": "replace image",
+          "replace_ids": [
+            17160801282
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "sound",
+          "replace_ids": [
+            123968428540207,
+            123968428540207,
+            13158330383,
+            13158330666,
+            13158330555,
+            17247776127,
+            13158330666,
+            13158330555,
+            13158610792,
+            13160400990,
+            13907558696,
+            13907558634,
+            13158246944,
+            13158330666,
+            17803104424,
+            13158330479,
+            17803104424,
+            13110197220,
+            103022841301405,
+            13110197302,
+            13158330479,
+            103022841301405,
+            13110197302,
+            13110197220,
+            76996559479025,
+            13110197302,
+            13158330479,
+            76996559479025,
+            13110197302,
+            17650837861,
+            17650837718,
+            17650837861,
+            17650837718,
+            17650838003,
+            17650945056,
+            17650837503,
+            17650837718,
+            17650837861,
+            17650945056,
+            17650837503,
+            17650837718,
+            17650837861,
+            17650837861,
+            17650945056,
+            17650837503,
+            17650837718,
+            13110197220,
+            72347347286562,
+            13110197302,
+            13158330479,
+            72347347286562,
+            13110197302,
+            108185335541864,
+            13158330479,
+            108185335541864
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:/Users/user/Downloads/202606292041.mp4"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Slim boneclaw(warpsplit)",
+      "expanded": false,
+      "children": [
+        {
+          "name": "bolt replace",
+          "replace_ids": [
+            12613283355
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 112741123615460
+        },
+        {
+          "name": "REMOVE",
+          "replace_ids": [
+            12613284036,
+            12613283569,
+            12613284768
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "mag",
+          "replace_ids": [
+            12613284529
+          ],
+          "mode": "cdn",
+          "enabled": false,
+          "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/boneclawmag3.obj"
+        },
+        {
+          "name": "boneclaw shoot",
+          "replace_ids": [
+            13087362838
+          ],
+          "mode": "cdn",
+          "enabled": false,
+          "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/BONECLAWSHOOT.oga"
+        },
+        {
+          "name": "asset replace",
+          "replace_ids": [
+            17160682738
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 100015754284323
+        },
+        {
+          "name": "boneclaw body",
+          "replace_ids": [
+            12613284249
+          ],
+          "mode": "local",
+          "enabled": false,
+          "local_path": "C:/Users/user/Downloads/boneclaw main body 3.obj"
+        },
+        {
+          "name": "side",
+          "replace_ids": [
+            14652718299
+          ],
+          "mode": "local",
+          "enabled": false,
+          "local_path": "C:/Users/user/Downloads/boneclaw small body 2.obj"
+        },
+        {
+          "name": "reload",
+          "replace_ids": [
+            13010900962
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18887149414
+        },
+        {
+          "name": "equip",
+          "replace_ids": [
+            13010870236
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18875555761
+        },
+        {
+          "name": "inspect",
+          "replace_ids": [
+            13010893629
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18875805841
+        },
+        {
+          "name": "sprint",
+          "replace_ids": [
+            13010904196
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18875820949
+        },
+        {
+          "name": "idle",
+          "replace_ids": [
+            13010885336
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18875814511
+        },
+        {
+          "name": "shoot",
+          "replace_ids": [
+            13010911854
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 18875560888
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "QOL",
+      "expanded": false,
+      "children": [
+        {
+          "name": "Sata Andagi Kill",
+          "replace_ids": [
+            16530229616,
+            16530229541,
+            16530229695
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 8941612531
+        },
+        {
+          "name": "Hurt Overlay",
+          "replace_ids": [
+            14824981435
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "No ADS Blur",
+          "replace_ids": [
+            14824249410
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "AUG(warpsplit)",
+      "expanded": false,
+      "children": [
+        {
+          "name": "boneclaw shoot",
+          "replace_ids": [
+            13087362838
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 18764343961
+        },
+        {
+          "name": "mag",
+          "replace_ids": [
+            12613284529
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/Iinckew1/Skins-/refs/heads/main/uploads/aug%20mag2.obj"
+        },
+        {
+          "name": "REMOVE",
+          "replace_ids": [
+            12613284036,
+            12613284768,
+            12613283569
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "boneclaw body",
+          "replace_ids": [
+            12613284249
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/Iinckew1/Skins-/refs/heads/main/uploads/Aug%20body.obj"
+        },
+        {
+          "name": "bolt replace",
+          "replace_ids": [
+            12613283355
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/Iinckew1/Skins-/refs/heads/main/uploads/Aug%20bolt.obj"
+        },
+        {
+          "name": "asset replace",
+          "replace_ids": [
+            17160682738
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/Iinckew1/Skins-/refs/heads/main/uploads/AUG_Icon.webp"
+        },
+        {
+          "name": "idle",
+          "replace_ids": [
+            13010885336
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 18875814511
+        },
+        {
+          "name": "equip",
+          "replace_ids": [
+            13010870236
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 18875555761
+        },
+        {
+          "name": "inspect",
+          "replace_ids": [
+            13010893629
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 18875805841
+        },
+        {
+          "name": "shoot",
+          "replace_ids": [
+            13010911854
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 18875560888
+        },
+        {
+          "name": "sprint",
+          "replace_ids": [
+            13010904196
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 18875820949
+        },
+        {
+          "name": "side",
+          "replace_ids": [
+            14652718299
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/Iinckew1/Skins-/refs/heads/main/uploads/aUG%20SIDEBODY.obj"
+        },
+        {
+          "name": "reload",
+          "replace_ids": [
+            13010900962
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 18887149414
+        }
+      ]
+    }
+  ]
+}

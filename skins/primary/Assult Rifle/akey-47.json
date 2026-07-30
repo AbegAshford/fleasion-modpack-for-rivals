@@ -1,0 +1,96 @@
+{
+  "replacement_rules": [
+    {
+      "name": "things to remove idk",
+      "replace_ids": [
+        14652718299,
+        12613284036,
+        12613283569,
+        12613284768
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "bolt",
+      "replace_ids": [
+        12613283355
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/rythmplayzyt/so-meshed-up/refs/heads/main/bolt2.obj"
+    },
+    {
+      "name": "mag",
+      "replace_ids": [
+        12613284529
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/rythmplayzyt/so-meshed-up/refs/heads/main/magazine8.obj"
+    },
+    {
+      "name": "BODY",
+      "replace_ids": [
+        12613284249
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/rythmplayzyt/so-meshed-up/refs/heads/main/akeybodystart3.obj"
+    },
+    {
+      "name": "akeyshoot",
+      "replace_ids": [
+        13087362838
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/untitled.mp3"
+    },
+    {
+      "name": "asset replace",
+      "replace_ids": [
+        17160682738
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 80017496220683
+    },
+    {
+      "name": "mag-exit(INSPECT1)",
+      "replace_ids": [
+        13236549962
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/MAG-EXIT.mp3"
+    },
+    {
+      "name": "mag-enter(INSPECT0)",
+      "replace_ids": [
+        13236549929
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/MAG-ENTER.mp3"
+    },
+    {
+      "name": "bolt-back(INSPECT2)",
+      "replace_ids": [
+        13455395017
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/BOLTBACK.mp3"
+    },
+    {
+      "name": "bolt-forward(does-affect-sniper)",
+      "replace_ids": [
+        13455395017
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/BOLTFRWD.mp3"
+    }
+  ]
+}

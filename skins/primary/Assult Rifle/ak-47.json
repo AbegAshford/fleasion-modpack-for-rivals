@@ -1,0 +1,58 @@
+{
+  "replacement_rules": [
+    {
+      "name": "ak47 body",
+      "replace_ids": [
+        12613284036
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/ak47%20body9.obj"
+    },
+    {
+      "name": "ak47 mag",
+      "replace_ids": [
+        12613284529
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/ak47mag2.obj"
+    },
+    {
+      "name": "ak47 iron + shooty shooty",
+      "replace_ids": [
+        14652718299
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/ak47irons5.obj"
+    },
+    {
+      "name": "bolt replace",
+      "replace_ids": [
+        12613283355
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/ak47bolt3.obj"
+    },
+    {
+      "name": "asset replace",
+      "replace_ids": [
+        17160682738
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17691132793
+    },
+    {
+      "name": "an easy shoot sound replace? preposterous",
+      "replace_ids": [
+        13087362838
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17662574783
+    }
+  ]
+}
