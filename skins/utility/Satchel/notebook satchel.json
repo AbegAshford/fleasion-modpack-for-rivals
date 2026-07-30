@@ -1,0 +1,62 @@
+{
+  "replacement_rules": [
+    {
+      "name": "body",
+      "replace_ids": [
+        111319295872696
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/7-linn/skins/refs/heads/main/notebook%20satchel%20body.obj"
+    },
+    {
+      "name": "detonator",
+      "replace_ids": [
+        123563845986019
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/7-linn/skins/refs/heads/main/notebook%20satchel%20detonator.obj"
+    },
+    {
+      "name": "bye bye",
+      "replace_ids": [
+        129357957202626,
+        87546390135975,
+        138805549853994,
+        125258747465100,
+        104440368867933,
+        129504437671598
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        82237471151891
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 124817464748150
+    },
+    {
+      "name": "icon 2",
+      "replace_ids": [
+        132559258532984
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 85589408404069
+    },
+    {
+      "name": "Explosion",
+      "replace_ids": [
+        13455969017
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/7-linn/skins/refs/heads/main/notebook%20satchel.mp3"
+    }
+  ]
+}

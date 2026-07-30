@@ -1,0 +1,71 @@
+{
+  "replacement_rules": [
+    {
+      "name": "body",
+      "replace_ids": [
+        111319295872696
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/rythmplayzyt/so-meshed-up/refs/heads/main/bigsahur.obj"
+    },
+    {
+      "name": "detonator",
+      "replace_ids": [
+        123563845986019
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/rythmplayzyt/so-meshed-up/refs/heads/main/bigsahur.obj"
+    },
+    {
+      "name": "bye bye",
+      "replace_ids": [
+        129357957202626,
+        87546390135975,
+        138805549853994,
+        125258747465100,
+        104440368867933,
+        129504437671598
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        82237471151891
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/rythmplayzyt/so-meshed-up/refs/heads/main/tungasset.png"
+    },
+    {
+      "name": "icon 2",
+      "replace_ids": [
+        132559258532984
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/rythmplayzyt/so-meshed-up/refs/heads/main/tungasset.png"
+    },
+    {
+      "name": "Explosion",
+      "replace_ids": [
+        13455969017
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 140367458608473
+    },
+    {
+      "name": "beep",
+      "replace_ids": [
+        104924027407060
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 103185549195508
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "replacement_rules": [
+    {
+      "name": "satchel",
+      "replace_ids": [
+        111319295872696
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/Keychel/refs/heads/main/KEYCHELBODYNEW1.obj"
+    },
+    {
+      "name": "asd",
+      "replace_ids": [
+        138805549853994,
+        125258747465100,
+        104440368867933,
+        129504437671598
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "satchel detonator",
+      "replace_ids": [
+        123563845986019
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/Keychel/refs/heads/main/KEYCHELDETENATORNEW2.obj"
+    },
+    {
+      "name": "asdas",
+      "replace_ids": [
+        87546390135975,
+        129357957202626
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "ImageIconOfSatchel",
+      "replace_ids": [
+        82237471151891
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/Keychel/main/Untitled49_20260527123520.png"
+    },
+    {
+      "name": "ExplodingSound",
+      "replace_ids": [
+        13455969017
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RPKEY/main/RPGKYNEW.mp3"
+    },
+    {
+      "name": "ThrowStartPinpull",
+      "replace_ids": [
+        14510062019
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 123368854506447
+    },
+    {
+      "name": "ThrowIdle",
+      "replace_ids": [
+        14510038568
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 95887720657783
+    },
+    {
+      "name": "ThrowFinish",
+      "replace_ids": [
+        14510046795
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 98498351754343
+    },
+    {
+      "name": "Sprint",
+      "replace_ids": [
+        14580328848
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 119518299690405
+    },
+    {
+      "name": "Inspect",
+      "replace_ids": [
+        14509964565
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 118832975932987
+    },
+    {
+      "name": "LobFinish",
+      "replace_ids": [
+        14580368724
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 116760723605331
+    },
+    {
+      "name": "Equip",
+      "replace_ids": [
+        14509948480
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 99784649946058
+    },
+    {
+      "name": "Idle",
+      "replace_ids": [
+        14509967864
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 138613177890181
+    }
+  ]
+}
