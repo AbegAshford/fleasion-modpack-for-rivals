@@ -2,31 +2,14 @@
 
 # 🎨 Fleasion Modpack for Rivals
 
-**A drag-and-drop asset pack for [Fleasion](https://github.com/fleasion/Fleasion) — swap sounds, skins, skyboxes, wraps, and textures in Roblox Rivals.**
+**A drag-and-drop config pack for [Fleasion](https://github.com/fleasion/Fleasion) — swap sounds, skins, skyboxes, wraps, and textures in Roblox Rivals.**
 
 [![Made for Fleasion](https://img.shields.io/badge/made%20for-Fleasion-6f42c1)](https://github.com/fleasion/Fleasion)
 [![Game](https://img.shields.io/badge/game-Rivals-blue)]()
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)]()
 
-![Weapon Skins](https://img.shields.io/badge/weapon%20skins-84-orange)
-![Textures](https://img.shields.io/badge/textures-10-lightgrey)
-![Skyboxes](https://img.shields.io/badge/skyboxes-7-87CEEB)
-![Sounds](https://img.shields.io/badge/kill%20%26%20hit%20sounds-5-red)
-
 </div>
-
----
-
-### 📋 Table of Contents
-
-- [🖼️ Texture Pack](#️-texture-pack)
-- [☁️ Skyboxes](#️-skyboxes)
-- [🔫 Weapon Skins](#-weapon-skins) — Primary · Secondary · Melee · Utility
-- [🎁 Wraps](#-wraps)
-- [🔊 Kill & Hit Sounds](#-kill--hit-sounds)
-- [🚀 How to Use](#-how-to-use)
-- [📌 Others](#-others)
 
 ---
 
