@@ -1,0 +1,32 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Remove",
+      "replace_ids": [
+        89939522788793,
+        79631712600906
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "BanhammerBody",
+      "replace_ids": [
+        121806564166408
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/Banhammer2.obj"
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        81478141693597,
+        96956174894354
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 126491383967029
+    }
+  ]
+}
