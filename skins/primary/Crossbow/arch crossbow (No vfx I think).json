@@ -1,0 +1,122 @@
+{
+  "replacement_rules": [
+    {
+      "name": "arch crossbow equip",
+      "replace_ids": [
+        112687956509295
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 75912270381788
+    },
+    {
+      "name": "arch crossbow idle animation",
+      "replace_ids": [
+        104427457349511
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 139012099919554
+    },
+    {
+      "name": "arch crossbow sprint animation",
+      "replace_ids": [
+        77438855428730
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 75736189275330
+    },
+    {
+      "name": "arch crossbow inspect animation",
+      "replace_ids": [
+        133850935692254
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 76999540737871
+    },
+    {
+      "name": "arch crossbow shoot animation",
+      "replace_ids": [
+        70595132902958
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 133769779992853
+    },
+    {
+      "name": "arch crossbow reload animation",
+      "replace_ids": [
+        110216216870037
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 107693118046922
+    },
+    {
+      "name": "arch crossbow shoot_sound",
+      "replace_ids": [
+        82715240396507
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 81230732872783
+    },
+    {
+      "name": "arch crossbowreloadsound",
+      "replace_ids": [
+        76155503538875
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 114610550422028
+    },
+    {
+      "name": "body",
+      "replace_ids": [
+        91182997679206
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 72581264254348
+    },
+    {
+      "name": "no body",
+      "replace_ids": [
+        131412183341416,
+        116870937608189,
+        81291045320105,
+        103428289294174
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "archcrossbow arrow",
+      "replace_ids": [
+        96479817443897
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 119136980869488
+    },
+    {
+      "name": "no crossbow tip",
+      "replace_ids": [
+        103918211053795
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        140211832612284
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 94981733362451
+    }
+  ]
+}
