@@ -168,9 +168,48 @@ Browse each weapon's folder for the full list of individual skins.
 
 ---
 
-## ☁️ Skyboxes
+## ☁️ Sky Previews
 
-Classic Skybox • Custom Sky • Jungle Sky • Purple Sky (x2) • Cloudy Sky • Heaven • Monochrome Sky • Pink Sky • Realistic Sky • Skies (all-in-one) • Sky All Maps Rivals
+Click any preview image to open its matching Fleasion config file — not the image, and not the `preview/` folder.
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="sky/heaven.json"><img src="preview/heaven%20sky.png" width="320"/></a><br/>
+<sub><b>Heaven</b></sub>
+</td>
+<td align="center" width="50%">
+<a href="sky/pink%20sky.json"><img src="preview/pink%20sky.png" width="320"/></a><br/>
+<sub><b>Pink Sky</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="sky/Custom%20sky.json"><img src="preview/custom%20sky.png" width="320"/></a><br/>
+<sub><b>Custom Sky</b></sub>
+</td>
+<td align="center">
+<a href="sky/realistic%20sky.json"><img src="preview/realistic%20sky.png" width="320"/></a><br/>
+<sub><b>Realistic Sky</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="sky/cloudly%20sky.json"><img src="preview/cloudy%20sky.png" width="320"/></a><br/>
+<sub><b>Cloudy Sky</b></sub>
+</td>
+<td align="center">
+<a href="sky/Junglesky.json"><img src="preview/jungle%20sky.png" width="320"/></a><br/>
+<sub><b>Jungle Sky</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+**More skyboxes (no preview image yet):** Classic Skybox • Purple SkyBox • purple sky • monochrome sky • skies (all-in-one) • sky all maps rivals
 
 Find them all in [`sky/`](sky).
 
