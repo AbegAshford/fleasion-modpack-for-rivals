@@ -1,0 +1,39 @@
+{
+  "replacement_rules": [
+    {
+      "name": "body",
+      "replace_ids": [
+        70494501482896
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 91199334079168
+    },
+    {
+      "name": "no ring",
+      "replace_ids": [
+        70528849669897
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "sound",
+      "replace_ids": [
+        73325703605178
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/user-attachments/files/27518069/mega_phone.MP3"
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        104600246515190
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 107074211847347
+    }
+  ]
+}

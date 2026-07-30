@@ -1,0 +1,74 @@
+{
+  "replacement_rules": [
+    {
+      "name": "tung tung god",
+      "replace_ids": [
+        70494501482896,
+        70528849669897
+      ],
+      "mode": "id",
+      "enabled": false
+    },
+    {
+      "name": "ttgod",
+      "replace_ids": [
+        70494501482896
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 105491653609738
+    },
+    {
+      "name": "rings",
+      "replace_ids": [
+        70528849669897
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "body",
+      "replace_ids": [
+        70494501482896
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 105491653609738
+    },
+    {
+      "name": "sound of trumpet",
+      "replace_ids": [
+        94406584083681
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 112012319935983
+    },
+    {
+      "name": "animation of trumpet",
+      "replace_ids": [
+        120111163675397
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 120111163675397
+    },
+    {
+      "name": "Sound clip 1 Removal",
+      "replace_ids": [
+        73325703605178
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        104600246515190
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 88975601634708
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "replacement_rules": [
+    {
+      "name": "body",
+      "replace_ids": [
+        70494501482896
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 105872728563452
+    },
+    {
+      "name": "no ring",
+      "replace_ids": [
+        70528849669897
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "sound",
+      "replace_ids": [
+        73325703605178
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 116889597355364
+    },
+    {
+      "name": "remove_sound",
+      "replace_ids": [
+        94406584083681
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        104600246515190
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 93076834584542
+    }
+  ]
+}
