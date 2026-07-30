@@ -1,0 +1,41 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Remove",
+      "replace_ids": [
+        13792525075
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Body",
+      "replace_ids": [
+        13792524976
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/ZZZZ-Duels/rivalsskins/refs/heads/main/spring.obj"
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17160799418,
+        17098773688
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18766860615
+    },
+    {
+      "name": "sound",
+      "replace_ids": [
+        11984254,
+        11984351
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/ZZZZ-Duels/rivalsskins/refs/heads/main/spring.MP3"
+    }
+  ]
+}

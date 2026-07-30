@@ -1,0 +1,31 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Remove",
+      "replace_ids": [
+        13792525075
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Body",
+      "replace_ids": [
+        13792524976
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/DontPress2.obj"
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17160799418,
+        17098773688
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17821233203
+    }
+  ]
+}
