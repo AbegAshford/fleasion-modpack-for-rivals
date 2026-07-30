@@ -1,0 +1,107 @@
+{
+  "replacement_rules": [
+    {
+      "name": "body",
+      "replace_ids": [
+        13158844590
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/BallonShotgun4.obj"
+    },
+    {
+      "name": "bye bye",
+      "replace_ids": [
+        13158845253,
+        13988956869,
+        14781979814,
+        14781979687,
+        14781990942
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Remove bye bye",
+      "replace_ids": [
+        13515046988,
+        13515046921,
+        13515046988,
+        13515046921,
+        13515046988,
+        13515046988,
+        13515046988,
+        13515046988
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Shoot1",
+      "replace_ids": [
+        13479562219
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17803308936
+    },
+    {
+      "name": "Shoot2",
+      "replace_ids": [
+        13531443905
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17803368105
+    },
+    {
+      "name": "Shoot3",
+      "replace_ids": [
+        13515046921
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17803360572
+    },
+    {
+      "name": "Inspect1",
+      "replace_ids": [
+        13158735106
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 13158735106
+    },
+    {
+      "name": "Inspect2",
+      "replace_ids": [
+        13515046921
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17803360572
+    },
+    {
+      "name": "Reload",
+      "replace_ids": [
+        13515046872,
+        13515046872,
+        13515046872,
+        13515046921
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17803360572
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17160800007,
+        13197583302
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17821234823
+    }
+  ]
+}
