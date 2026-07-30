@@ -1,0 +1,49 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Main",
+      "replace_ids": [
+        73385702554774
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 134026555421286
+    },
+    {
+      "name": "Remove",
+      "replace_ids": [
+        124614507878585
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Image",
+      "replace_ids": [
+        91885384580845
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 126221748659600
+    },
+    {
+      "name": "ReloadSound",
+      "replace_ids": [
+        99837158417289
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 72570123237418
+    },
+    {
+      "name": "ShootSound",
+      "replace_ids": [
+        101759165907297,
+        76357741438822
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 80622617308150
+    }
+  ]
+}

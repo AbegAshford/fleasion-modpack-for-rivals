@@ -1,0 +1,85 @@
+{
+  "replacement_rules": [
+    {
+      "name": "dagger",
+      "replace_ids": [
+        73385702554774
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/cfc09/Downloads/arch nem daggers.obj"
+    },
+    {
+      "name": "Profile 2",
+      "replace_ids": [
+        124614507878585
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/cfc09/Downloads/The_Archnemesis_rank_icon.webp.png"
+    },
+    {
+      "name": "Profile 3",
+      "replace_ids": [
+        129248911141724
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 92527815421098
+    },
+    {
+      "name": "Profile 4",
+      "replace_ids": [
+        76331161535117
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 138921174963297
+    },
+    {
+      "name": "Profile 5",
+      "replace_ids": [
+        119886777451265
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 95318866540833
+    },
+    {
+      "name": "Profile 6",
+      "replace_ids": [
+        107117835992268
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 111373555305620
+    },
+    {
+      "name": "Profile 7",
+      "replace_ids": [
+        136507313237137
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 95472048087093
+    },
+    {
+      "name": "Profile 8",
+      "replace_ids": [
+        91782309305074
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 77149665703840
+    },
+    {
+      "name": "Profile 9",
+      "replace_ids": [
+        129248911141724
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 92527815421098
+    }
+  ]
+}

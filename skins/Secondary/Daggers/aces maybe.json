@@ -1,0 +1,57 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body - Damn it i thought there were two seperate models for the left and right side of the card but it turns out that there is only one model for the daggers and and i cant make the different side of the daggers sue the two card models :sob: im sorry ig",
+      "replace_ids": [
+        73385702554774
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rin3zo/fleasion/raw/main/acesskinv4.obj"
+    },
+    {
+      "name": "Shit handle thing",
+      "replace_ids": [
+        124614507878585
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        91885384580845
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 139089881483398
+    },
+    {
+      "name": "Shoot1SFX",
+      "replace_ids": [
+        101759165907297
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 114331009697074
+    },
+    {
+      "name": "Shoot2SFX",
+      "replace_ids": [
+        76357741438822
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 127456921117902
+    },
+    {
+      "name": "ReloadSFX",
+      "replace_ids": [
+        99837158417289
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 73179276891844
+    }
+  ]
+}

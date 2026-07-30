@@ -1,0 +1,31 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Profile 1",
+      "replace_ids": [
+        91885384580845
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 92001964015225
+    },
+    {
+      "name": "Profile 2",
+      "replace_ids": [
+        124614507878585
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/batdagger2.obj"
+    },
+    {
+      "name": "Profile 3",
+      "replace_ids": [
+        73385702554774
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/boxyghosly/RivalsSkinChanger/refs/heads/main/batdagger1.obj"
+    }
+  ]
+}

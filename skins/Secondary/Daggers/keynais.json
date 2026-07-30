@@ -1,0 +1,111 @@
+{
+  "replacement_rules": [
+    {
+      "name": "keynais",
+      "replace_ids": [
+        73385702554774
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 94772705561955
+    },
+    {
+      "name": "Keynais equip animation",
+      "replace_ids": [
+        129248911141724
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 92527815421098
+    },
+    {
+      "name": "Keynais idel animation",
+      "replace_ids": [
+        119886777451265
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 95318866540833
+    },
+    {
+      "name": "Keynais run animation",
+      "replace_ids": [
+        107117835992268
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 111373555305620
+    },
+    {
+      "name": "Keynais inspect animation",
+      "replace_ids": [
+        76331161535117
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 138921174963297
+    },
+    {
+      "name": "danger shot1",
+      "replace_ids": [
+        101759165907297
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 93178963908825
+    },
+    {
+      "name": "danger shot 2",
+      "replace_ids": [
+        76357741438822
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 93178963908825
+    },
+    {
+      "name": "Profile 1",
+      "replace_ids": [
+        91885384580845
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 84562761142610
+    },
+    {
+      "name": "Profile 2",
+      "replace_ids": [
+        124614507878585
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 0
+    },
+    {
+      "name": "Profile 3",
+      "replace_ids": [
+        73385702554774
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 94772705561955
+    },
+    {
+      "name": "no dangger knife",
+      "replace_ids": [
+        124614507878585
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "reload",
+      "replace_ids": [
+        99837158417289
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 96253147006478
+    }
+  ]
+}
