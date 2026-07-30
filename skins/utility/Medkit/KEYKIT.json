@@ -1,0 +1,69 @@
+{
+  "replacement_rules": [
+    {
+      "name": "KEYKIT BOTTOM",
+      "replace_ids": [
+        13398409251
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/goatman-hue/keykit/refs/heads/main/keykit%20bottom.obj"
+    },
+    {
+      "name": "KEYKIT TOP",
+      "replace_ids": [
+        13398409399
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/goatman-hue/keykit/refs/heads/main/keykit%20top.obj"
+    },
+    {
+      "name": "keykit seal",
+      "replace_ids": [
+        13398409659
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/goatman-hue/keykit/refs/heads/main/keykit%20seal.obj"
+    },
+    {
+      "name": "remove extra bits",
+      "replace_ids": [
+        13398409557,
+        13398409605,
+        13398409487,
+        13398409326,
+        13398409181
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "key bandage",
+      "replace_ids": [
+        13398351226
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/goatman-hue/keykit/refs/heads/main/keykit%20key.obj"
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        13398351358
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17160800734
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/goatman-hue/keykit/main/Copilot_20260604_025000_50.png"
+    }
+  ]
+}
